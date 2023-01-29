@@ -39,7 +39,7 @@ He joulun Kulosaareen tuo
 Ja joulun tunteen meille luo.
 
 
-Tänä vuonna joulu on,&nbsp;
+Tänä vuonna joulu on, 
 koulussa niin onneton
 Kun puurojuhla peruttiin
 Ja Lukio karkotettiin

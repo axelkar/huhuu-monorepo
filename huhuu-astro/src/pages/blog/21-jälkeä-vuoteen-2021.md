@@ -7,7 +7,7 @@ isFeatured: false
 timeToRead: 3
 wixViewCount: 151
 created: "2021-01-14T11:31:38.271Z"
-published: "2021-01-14T11:58:08.634Z"
+published: "2021-01-14T11:59:19.953Z"
 modified: "2021-01-14T11:31:38.271Z"
 language: "en"
 layout: "../../layouts/BlogPost.astro"
@@ -16,10 +16,10 @@ layout: "../../layouts/BlogPost.astro"
 ![Unknown image description. Check context for details.](https://static.wixstatic.com/media/2da4fc_f1eeb6dd1f3744789070a6a38d0233a0~mv2.png)
 
 ---
-Tahdon uskoa, että vuodesta 2021 todella tulee parempi. Samaan aikaan koronatilanne on yhä ennallaan, ja pandemian vaikutusten kanssa joudutaan kamppailemaan pitkään vielä senkin jälkeen, kun yhteiskunta jonain päivänä taas avautuu. Halusin kirjoittaa jutun käsitelläkseni viime vuoden koronaan liittyviä kokemuksia osana menneisyyttä ja toisaalta tiedostaen, että monet niistä ulottuvat vielä pitkälle tulevaisuuteenkin. Päällimäisenä tavoitteenani on esitellä viime vuodesta sellaisia ihanan poikkeuksellisia sekä poikkeuksellisen ihania asioita, joiden merkitystä en ole aiemmin pohtinut. Tässä ovat 21 jälkeä, jotka vuosi 2020 jätti minuun**.**
+Tahdon uskoa, että vuodesta 2021 todella tulee parempi. Samaan aikaan koronatilanne on yhä ennallaan, ja pandemian vaikutusten kanssa joudutaan kamppailemaan pitkään vielä senkin jälkeen, kun yhteiskunta jonain päivänä taas avautuu. Halusin kirjoittaa jutun käsitelläkseni viime vuoden koronaan liittyviä kokemuksia osana menneisyyttä ja toisaalta tiedostaen, että monet niistä ulottuvat vielä pitkälle tulevaisuuteenkin. Päällimäisenä tavoitteenani on esitellä viime vuodesta sellaisia ihanan poikkeuksellisia sekä poikkeuksellisen ihania asioita, joiden merkitystä en ole aiemmin pohtinut. Tässä ovat 21 jälkeä, jotka vuosi 2020 jätti minuun
 
 ## Taide
-Kenties ihmisten kaipuusta tai vaan lisääntyneestä luppoajasta johtuen kulutin viime vuonna tavallista enemmän taidetta, eritysesti kirjoja, elokuvia ja musiikkia. Oli lohduttavaa ja vapauttavaa viettää aikaa sellaisissa maailmoissa, joilla ei ollut mitään tekemistä vallitsevien tapahtumien kanssa.&nbsp;
+Kenties ihmisten kaipuusta tai vaan lisääntyneestä luppoajasta johtuen kulutin viime vuonna tavallista enemmän taidetta, eritysesti kirjoja, elokuvia ja musiikkia. Oli lohduttavaa ja vapauttavaa viettää aikaa sellaisissa maailmoissa, joilla ei ollut mitään tekemistä vallitsevien tapahtumien kanssa. 
 
 ## Ihmiset
 
@@ -33,17 +33,17 @@ Etäkoulun aikana kävin paljon entistä useammin luontokävelyillä. Etenkin ke
 
 ## Yksinolo
 
-Ennen hetken yksinolo oli lähes elintärkeää, mutta etäkoulun aikana se tuntui liialliselta. Lopulta saatoin ilahtua jo pelkistä ryhmätöistä tai siitä, jos joku perheenjäsen sattui keittiöön samaan aikaan.&nbsp;
+Ennen hetken yksinolo oli lähes elintärkeää, mutta etäkoulun aikana se tuntui liialliselta. Lopulta saatoin ilahtua jo pelkistä ryhmätöistä tai siitä, jos joku perheenjäsen sattui keittiöön samaan aikaan. 
 
 &nbsp;
 ## Yksinäisyys
 &nbsp;
-Aluksi yksinolo ja sosiaalinen eristäytyminen oli rentouttavaa, mutta vähän ajan jälkeen se alkoi sekoittumaan yksinäisyyden tunteeseen. En käytä sosiaalista mediaa kovin aktiivisesti, joten tunsin välillä olevani tosi etäällä ystävistäni, vaikka kaikki välillämme olikin niin kuin ennen.&nbsp;
+Aluksi yksinolo ja sosiaalinen eristäytyminen oli rentouttavaa, mutta vähän ajan jälkeen se alkoi sekoittumaan yksinäisyyden tunteeseen. En käytä sosiaalista mediaa kovin aktiivisesti, joten tunsin välillä olevani tosi etäällä ystävistäni, vaikka kaikki välillämme olikin niin kuin ennen. 
 
 &nbsp;
 ## Rauha
 &nbsp;
-Erilaisten menojen väheneminen hidasti samalla myös jatkuvaa kiirettä. Aina välillä osasin hetken olla ajattelematta mitä pitäisi tehdä seuraavaksi. Hetken stressaamattomuus toi rauhallisen ja seesteisen olon. Varsinkin kesällä oli päiviä, jolloin kaikki tuntui täydellisesti pysähtyneeltä. Useimmiten pysähtyneisyys kääntyi kuitenkin levottomuudeksi tai tylsyydeksi.&nbsp;
+Erilaisten menojen väheneminen hidasti samalla myös jatkuvaa kiirettä. Aina välillä osasin hetken olla ajattelematta mitä pitäisi tehdä seuraavaksi. Hetken stressaamattomuus toi rauhallisen ja seesteisen olon. Varsinkin kesällä oli päiviä, jolloin kaikki tuntui täydellisesti pysähtyneeltä. Useimmiten pysähtyneisyys kääntyi kuitenkin levottomuudeksi tai tylsyydeksi. 
 
 &nbsp;
 ## Pitkästyneisyys
@@ -57,17 +57,17 @@ Koronavuosi oli täynnä puutuneisuutta ja pitkästyneisyyttä. Tunsin monesti o
 &nbsp;
 ## Aika
 &nbsp;
-Aika tuntui samanaikaisesti loppumattomalta ja riittämättömältä. Ajattelin stressaavani ajan puutteetta, vaikka todellisuudessa minua painoi se miten käytin aikaani.&nbsp;
+Aika tuntui samanaikaisesti loppumattomalta ja riittämättömältä. Ajattelin stressaavani ajan puutteetta, vaikka todellisuudessa minua painoi se miten käytin aikaani. 
 
 &nbsp;
 ## Luopuminen
 &nbsp;
-Korona pakotti hetkellisesti luopumaan monesta sellaisesta asiasta, jota olin aiemmin pitänyt itsestäänselvyytenä. Tiedän luopumisen olleen opettavaista, sillä osaan arvostaa monia vapauksiani nyt aivan eri tasolla. En silti osaa olla kiitollinen itse luopumisesta.&nbsp;
+Korona pakotti hetkellisesti luopumaan monesta sellaisesta asiasta, jota olin aiemmin pitänyt itsestäänselvyytenä. Tiedän luopumisen olleen opettavaista, sillä osaan arvostaa monia vapauksiani nyt aivan eri tasolla. En silti osaa olla kiitollinen itse luopumisesta. 
 
 &nbsp;
 ## Syyllisyys
 &nbsp;
-Etenkin uusimpien suosituksien tullessa voimaan aloin monesti katsoa taaksepäin ja tuntea syyllisyyttä omasta käyttäytymisestäni. Vertasin itseäni ihmisiin, joiden oletin noudattaneen rajoituksia lähes täydellisesti. Aloin katua varomattomuuttani, mutten siltikään osannut rajoittaa liikkumistani tarpeeksi.&nbsp;
+Etenkin uusimpien suosituksien tullessa voimaan aloin monesti katsoa taaksepäin ja tuntea syyllisyyttä omasta käyttäytymisestäni. Vertasin itseäni ihmisiin, joiden oletin noudattaneen rajoituksia lähes täydellisesti. Aloin katua varomattomuuttani, mutten siltikään osannut rajoittaa liikkumistani tarpeeksi. 
 
 &nbsp;
 ## Ystävät
@@ -77,7 +77,7 @@ Oli aluksi hassua ja myöhemmin yhä enenevässä määrin vain surullista, kun 
 &nbsp;
 ## Kiitollisuus
 &nbsp;
-Monet ennen huomaamattomat tai ennen kokonaan tuntemattomat asiat muodostuivat tänä vuonna kiitollisuuden aiheiksi. Jo toisten ihmisten näkeminen tai maskin riisuminen kouluruokailussa saivat hyvälle tuulelle.&nbsp;
+Monet ennen huomaamattomat tai ennen kokonaan tuntemattomat asiat muodostuivat tänä vuonna kiitollisuuden aiheiksi. Jo toisten ihmisten näkeminen tai maskin riisuminen kouluruokailussa saivat hyvälle tuulelle. 
 
 &nbsp;
 ## Kesä
@@ -105,22 +105,22 @@ Etuoikeuteni olivat sokaisseet minut ajattelutapaan, jossa terveyskriisit ulottu
 &nbsp;
 ## Hiljaisuus
 &nbsp;
-Hiljaisuus oli parantavaa ja rauhoittavaa. Etäkoulun aikana aloin kuitenkin kaivata ihmisten ääniä, kuten koulun puheensorinaa tai kaupungin melskettä.&nbsp;
+Hiljaisuus oli parantavaa ja rauhoittavaa. Etäkoulun aikana aloin kuitenkin kaivata ihmisten ääniä, kuten koulun puheensorinaa tai kaupungin melskettä. 
 
 &nbsp;
 ## Kaukokaipuu
 &nbsp;
-Tietäessään ettei pääse lähtemään minnekään, alkoikin kaivata lähtevänsä ihan kaikkialle.&nbsp;
+Tietäessään ettei pääse lähtemään minnekään, alkoikin kaivata lähtevänsä ihan kaikkialle. 
 
 &nbsp;
 ## Saamattomuus
 &nbsp;
-Laiskuuden ja saamattomuuden tunne oli melkein koko ajan läsnä. Vapaa-ajan kasvaessa tuli sellainen olo, että pitäisi osata käyttää aikaansa hyödyllisemmin ja tehdä jotain omien unelmien eteen, vaikkei aina olisi siltä tuntunutkaan. Iso osa vuodesta menikin palauttavan lepäämisen sijaan siihen, että stressasi myös levätessään.&nbsp;
+Laiskuuden ja saamattomuuden tunne oli melkein koko ajan läsnä. Vapaa-ajan kasvaessa tuli sellainen olo, että pitäisi osata käyttää aikaansa hyödyllisemmin ja tehdä jotain omien unelmien eteen, vaikkei aina olisi siltä tuntunutkaan. Iso osa vuodesta menikin palauttavan lepäämisen sijaan siihen, että stressasi myös levätessään. 
 
 &nbsp;
-## FOMO&nbsp;
+## FOMO 
 &nbsp;
-Koronan aikana eläminen oli kaikille rajoittavaa, joten oma tekemättömyys ei aiheuttanut sellaisia paineita kuin se ennen saattoi aiheuttaa. Ei sen väliä jos ei jaksanut tehdä sitä ja tätä ja tuota, sillä harva muukaan jaksoi.&nbsp;
+Koronan aikana eläminen oli kaikille rajoittavaa, joten oma tekemättömyys ei aiheuttanut sellaisia paineita kuin se ennen saattoi aiheuttaa. Ei sen väliä jos ei jaksanut tehdä sitä ja tätä ja tuota, sillä harva muukaan jaksoi. 
 
 
 ![Unknown image description. Check context for details.](https://static.wixstatic.com/media/2da4fc_7e0ae738e8bb4922a8f117e3827b3fb3~mv2.png)
@@ -128,12 +128,12 @@ Koronan aikana eläminen oli kaikille rajoittavaa, joten oma tekemättömyys ei 
 &nbsp;
 ## Arvaamattomuus
 &nbsp;
-Muistan lähteneeni maaliskuussa koulusta sillä ajatuksella, että palaan takaisin viimeistään kahden viikon kuluttua. Jälkeenpäin ajatus itkettää ja naurattaa samaan aikaan. Viime vuotta leimaa paitsi tunne arjen muuttumattomuudesta, myös sen arvaamattomuudesta. Korona pakotti minut yhtäkkiä päästämään irti asioista, joista en koskaan ollut edes kuvitellut joutuvani luopumaan.&nbsp;
+Muistan lähteneeni maaliskuussa koulusta sillä ajatuksella, että palaan takaisin viimeistään kahden viikon kuluttua. Jälkeenpäin ajatus itkettää ja naurattaa samaan aikaan. Viime vuotta leimaa paitsi tunne arjen muuttumattomuudesta, myös sen arvaamattomuudesta. Korona pakotti minut yhtäkkiä päästämään irti asioista, joista en koskaan ollut edes kuvitellut joutuvani luopumaan. 
 
 &nbsp;
 Yksi yö ei saa pandemiaa laantumaan, eikä välttämättä vielä moni kuukausikaan. Sitä on raskasta ajatella. Mutta kokonaisuudessaan vuosi 2021 on uusi, ja tulee luultavimmin avaamaan yhteiskunnan, tai kenties osittain jopa synnyttämään sen uudestaan. “Uusi normaali” valaa minuun toivoa ihmiskunnasta, joka oppii arvostamaan kaikkea sitä, minkä korona muistutti olevan haavoittuvaista.
 
 ---
 Kirjoittaja: Hilla Lindroth
-Kuvitus: Emmi Raivisto&nbsp;
+Kuvitus: Emmi Raivisto 
 

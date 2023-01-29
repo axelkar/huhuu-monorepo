@@ -7,7 +7,7 @@ isFeatured: false
 timeToRead: 3
 wixViewCount: 260
 created: "2021-11-25T15:16:39.768Z"
-published: "2021-11-25T15:22:56.198Z"
+published: "2021-11-25T16:00:31.484Z"
 modified: "2021-11-25T16:00:31.484Z"
 language: "en"
 layout: "../../layouts/BlogPost.astro"
@@ -19,7 +19,7 @@ layout: "../../layouts/BlogPost.astro"
 ![Unknown image description. Check context for details.](https://static.wixstatic.com/media/18093e_2af8dd81f7b749109f4ec54fef202e62~mv2.jpg) <!-- Original name: kirjahylly.jpg -->
 * Kuva on otettu New Yorkissa kirjakaupassa vuonna 2019.*
 &nbsp;
-&nbsp;**Tietokirjat**
+&nbsp;Tietokirjat
 &nbsp;
 Where Good Ideas Come From: The Natural History Of Innovation - Steven Johnson
 &nbsp;
@@ -56,7 +56,7 @@ Simö Häyhä - Talvisodan legendaarinen tarkka-ampuja - Tapio Saarelainen
 Hiljaisuuden lapset - Torey Hayden
 &nbsp;
 Luvattu maa (eng. A promised land) (suositteltiin ranskaksi: Une terre promise) - Barack Obama
-Homo Sapiens, Ihmisen lyhyt historia &amp; 21 oppia maailman tilasta - Yuval Noah Harari&nbsp;
+Homo Sapiens, Ihmisen lyhyt historia &amp; 21 oppia maailman tilasta - Yuval Noah Harari 
 &nbsp;
 Minun Tarinani - Michelle Obama
 &nbsp;
@@ -175,7 +175,7 @@ Annoin sinun mennä - Clare Mackintosh
 Kiltti tyttö - Gillian Flynn
 &nbsp;
 &nbsp;
-&nbsp;**Fantasia**
+&nbsp;Fantasia
 &nbsp;
 Varjo ja Riipus - Leigh Bardugo. Ksykkiläisten keskuudessa Bardugo oli eniten vinkatuimpia kirjailijoita. Myös hänen koko tuotantoaan suositellaan.
 &nbsp;

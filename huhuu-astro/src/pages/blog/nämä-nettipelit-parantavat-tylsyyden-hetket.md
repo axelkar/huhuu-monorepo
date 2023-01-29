@@ -5,16 +5,16 @@ slug: "nämä-nettipelit-parantavat-tylsyyden-hetket"
 isPinned: false
 isFeatured: false
 timeToRead: 2
-wixViewCount: 269
+wixViewCount: 271
 created: "2021-12-02T09:17:32.782Z"
-published: "2021-12-02T15:25:50.093Z"
+published: "2021-12-07T13:31:50.782Z"
 modified: "2021-12-07T13:31:50.782Z"
 language: "en"
 layout: "../../layouts/BlogPost.astro"
 ---
 
 
-Unohtuivatko kirjat kotiin? Vai onko vaan tylsää kotona? Tässä artikkelissa kerron nettipeleistä ja esittelen henkilökohtaisia suosikkeja.&nbsp;
+Unohtuivatko kirjat kotiin? Vai onko vaan tylsää kotona? Tässä artikkelissa kerron nettipeleistä ja esittelen henkilökohtaisia suosikkeja. 
 
 ---
 
@@ -27,14 +27,14 @@ Unohtuivatko kirjat kotiin? Vai onko vaan tylsää kotona? Tässä artikkelissa 
 
 ![Unknown image description. Check context for details.](https://static.wixstatic.com/media/abd5f5_e0016863786d4aaf9d1071af800a23dd~mv2.png) <!-- Original name: kuva 2.png -->
 
-Penguin diner on peli, jossa pelaaja on pingviinitarjoilija pohjoisnavalla. Pelin idea saattaa kuulostaa vähän laimealta, mutta pelin pelaaminen on tosi intensiivistä. Kun olet antanut ruoan tai tehnyt jotain muuta, heti sen jälkeen on jotain uutta tekemistä. Joko on uusi asiakas, tai pitää ottaa asiakkaan tippi tai hakea ruoka. Jos jätät jotain tekemättä pitkäksi ajaksi, menetät asiakkaan. Yhdessä päivässä on vaadittu rahamäärä joka pitää tienata.&nbsp;
+Penguin diner on peli, jossa pelaaja on pingviinitarjoilija pohjoisnavalla. Pelin idea saattaa kuulostaa vähän laimealta, mutta pelin pelaaminen on tosi intensiivistä. Kun olet antanut ruoan tai tehnyt jotain muuta, heti sen jälkeen on jotain uutta tekemistä. Joko on uusi asiakas, tai pitää ottaa asiakkaan tippi tai hakea ruoka. Jos jätät jotain tekemättä pitkäksi ajaksi, menetät asiakkaan. Yhdessä päivässä on vaadittu rahamäärä joka pitää tienata. 
 
 
 ### Papa’s pizzeria (ja muut Papa’s-pelit)
 
 ![Unknown image description. Check context for details.](https://static.wixstatic.com/media/abd5f5_9f56a11e4b9749219db22705d2e31e8a~mv2.png) <!-- Original name: kuva 3.png -->
 
-Myös tämä peli liittyy ruokaan. Papa’s pizzeria kertoo pizzakuskista, jonka pizzapaikan kokki oli poissa ja jätti lapun, jossa luki, että pizzakuskin pitää olla siellä töissä. Pelissä on aika luova tarina. Pelissä sinun pitää vaan tehdä pizzoja ja antaa ne asiakkaille. Papa’s pizzeriassa on sama idea kuin Penguin dinerissa, jossa asiakkaat lähtevät, jos jättää jotain tekemättä liian pitkäksi ajaksi. Mitä useampia päiviä olet pelannut, sitä vaikeampaa on hallita kaikkia tilauksia. Tässäkin pelissä intensiivisyys on hauskinta.&nbsp;
+Myös tämä peli liittyy ruokaan. Papa’s pizzeria kertoo pizzakuskista, jonka pizzapaikan kokki oli poissa ja jätti lapun, jossa luki, että pizzakuskin pitää olla siellä töissä. Pelissä on aika luova tarina. Pelissä sinun pitää vaan tehdä pizzoja ja antaa ne asiakkaille. Papa’s pizzeriassa on sama idea kuin Penguin dinerissa, jossa asiakkaat lähtevät, jos jättää jotain tekemättä liian pitkäksi ajaksi. Mitä useampia päiviä olet pelannut, sitä vaikeampaa on hallita kaikkia tilauksia. Tässäkin pelissä intensiivisyys on hauskinta. 
 
 
 ![Unknown image description. Check context for details.](https://static.wixstatic.com/media/abd5f5_75bd834fad0c4203b719548e0c010b8c~mv2.png) <!-- Original name: kuva 4.png -->
@@ -70,13 +70,13 @@ Club Penguin oli/on suhteellisen suosittu peli. Oli, koska peli suljettiin vuonn
 ![Unknown image description. Check context for details.](https://static.wixstatic.com/media/abd5f5_51194e63cf37452b82eda96b23cd6055~mv2.png) <!-- Original name: kuva 8.png -->
 
 
-Fireboy and Watergirl on pulmapeli, jossa sen hahmojen Fireboyn ja Watergirlin pitää päästä kahdelle ovelle. Pelin tasoilla on hankalia esteitä. On vettä ja laavaa, ja jos Watergirl menee laavaan tai Fireboy veteen, niin käy köpelösti. Lisäksi on vielä vihreä myrkkyvesi johon osuessa molemmille käy huonosti. Jos koneen ääressä on kaksi ihmistä , peliä voi pelata yhdessä. Se toimii yksinkin, mutta on vielä hauskempaa kaverin kanssa.&nbsp;
+Fireboy and Watergirl on pulmapeli, jossa sen hahmojen Fireboyn ja Watergirlin pitää päästä kahdelle ovelle. Pelin tasoilla on hankalia esteitä. On vettä ja laavaa, ja jos Watergirl menee laavaan tai Fireboy veteen, niin käy köpelösti. Lisäksi on vielä vihreä myrkkyvesi johon osuessa molemmille käy huonosti. Jos koneen ääressä on kaksi ihmistä , peliä voi pelata yhdessä. Se toimii yksinkin, mutta on vielä hauskempaa kaverin kanssa. 
 
 Pelit eivät ehkä ole parhaita, mitä netistä löytyy, mutta viihdyttävät kuitenkin mainiosti tylsiä hetkiä.
 
 ---
 
 
-**Teksti:** Nooa Tanskanen
-**Kuvat:** Kuvakaappaukset nettipeleistä
+**Teksti: Nooa Tanskanen**
+**Kuvat: Kuvakaappaukset nettipeleistä**
 

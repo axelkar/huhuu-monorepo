@@ -5,7 +5,7 @@ slug: "luovuutta-joulupöytään"
 isPinned: false
 isFeatured: false
 timeToRead: 2
-wixViewCount: 94
+wixViewCount: 95
 created: "2021-12-18T21:20:16.755Z"
 published: "2021-12-21T07:00:46.854Z"
 modified: "2021-12-21T07:00:46.854Z"
@@ -26,7 +26,7 @@ Kenties helpoin tapa leipoa erilaisia pipareita on hyödyntämällä omaperäisi
 
 ### Vinkki 2: Muutosta taikinatasolla
 
-On myös täysin hyväksyttävää haluta perinteisen muotoisia pipareita ja olla käyttämättä tuntikausia koristeluun. Jos olet tylsistynyt pakastetaikinan makuun, mutta et jaksa väsätä kotitekoista taikinaa, voit sekoittaa taikinaan haluamaasi lisämaustetta. Lisäpuhtia saat lisäämällä valmistaikinaan perinteisiä piparimausteita – kanelia, kardemummaa, inkivääriä, pomeranssin kuorta ja neilikkaa. Voit lisätä myös vaikkapa kaakaojauhetta tai karkkikeppirouhetta. Lisäherkut voi toki jättää piparin ulkopuolellekin. Dippaa pipari osittain vaikkapa suklaaseen ja heittäydy villiksi rullaamalla dipattu osa valitsemaasi rouheeseen.&nbsp;
+On myös täysin hyväksyttävää haluta perinteisen muotoisia pipareita ja olla käyttämättä tuntikausia koristeluun. Jos olet tylsistynyt pakastetaikinan makuun, mutta et jaksa väsätä kotitekoista taikinaa, voit sekoittaa taikinaan haluamaasi lisämaustetta. Lisäpuhtia saat lisäämällä valmistaikinaan perinteisiä piparimausteita – kanelia, kardemummaa, inkivääriä, pomeranssin kuorta ja neilikkaa. Voit lisätä myös vaikkapa kaakaojauhetta tai karkkikeppirouhetta. Lisäherkut voi toki jättää piparin ulkopuolellekin. Dippaa pipari osittain vaikkapa suklaaseen ja heittäydy villiksi rullaamalla dipattu osa valitsemaasi rouheeseen. 
 
 
 ![Unknown image description. Check context for details.](https://static.wixstatic.com/media/abd5f5_a4a4cff8b90d45ec85d43304a740d454~mv2.jpeg) <!-- Original name: kuva2.jpeg -->
@@ -48,7 +48,7 @@ Kokeile tänä jouluna siis jotakin uutta! Pipareiden leipomiselle ei ole sään
 
 ---
 
-**Teksti:** Annika Lappalainen&nbsp;
-**Kuvat:** Annika Lappalainen
+**Teksti: Annika Lappalainen**
+**Kuvat: Annika Lappalainen**
 
 

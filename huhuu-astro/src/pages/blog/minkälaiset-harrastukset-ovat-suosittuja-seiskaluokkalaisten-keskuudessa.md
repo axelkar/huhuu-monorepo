@@ -21,11 +21,11 @@ Noin kuukausi sitten KSYK:in jokaiselle seiskaluokkalaiselle lähetettiin kysely
 
 ### Kyselyn vastaukset
 
-Kolme yleisintä harrastusta olivat jalkapallo, piano ja partio. Tästä kolmikosta suosituin oli piano, jota harrasti 11 ihmistä. Toiseksi yleisin harrastus oli partio, jota vastaajista harrasti kahdeksan ihmistä. Kolmanneksi suosituin oli Suomen suosituin harrastus jalkapallo, jota harrasti kahdeksan ihmistä.&nbsp;
+Kolme yleisintä harrastusta olivat jalkapallo, piano ja partio. Tästä kolmikosta suosituin oli piano, jota harrasti 11 ihmistä. Toiseksi yleisin harrastus oli partio, jota vastaajista harrasti kahdeksan ihmistä. Kolmanneksi suosituin oli Suomen suosituin harrastus jalkapallo, jota harrasti kahdeksan ihmistä. 
 
-Muita suosittuja harrastuksia olivat muun muassa tanssi, jota harrasti kuusi ihmistä ja tennis, luistelu ja koripallo, joita harrasti viisi ihmistä. Harvinaisia harrastuksia taas olivat esimerkiksi miekkailu, miniatyyrien maalaaminen ja pöytätennis, joita kaikkia harrasti vain yksi oppilas.&nbsp;
+Muita suosittuja harrastuksia olivat muun muassa tanssi, jota harrasti kuusi ihmistä ja tennis, luistelu ja koripallo, joita harrasti viisi ihmistä. Harvinaisia harrastuksia taas olivat esimerkiksi miekkailu, miniatyyrien maalaaminen ja pöytätennis, joita kaikkia harrasti vain yksi oppilas. 
 
-Melkein kaikki harrastukset olivat joko musiikkia tai urheilua, vaikka poikkeuksiakin löytyi. Näitä olivat lukeminen, teatteri ja partio.&nbsp;
+Melkein kaikki harrastukset olivat joko musiikkia tai urheilua, vaikka poikkeuksiakin löytyi. Näitä olivat lukeminen, teatteri ja partio. 
 
 Kymmenen vastannutta ei harrastanut yhtään mitään. 52 oppilasta ilmoittivat harrastavansa kolme tai yli kolme kertaa viikossa, kaksitoista kaksi kertaa viikossa ja yhdeksän kerran viikossa.
 
@@ -35,7 +35,7 @@ Kymmenen vastannutta ei harrastanut yhtään mitään. 52 oppilasta ilmoittivat 
 
 ### Miksi harrastaminen kannattaa?
 
-Harrastaminen kannattaa. Texasin, Kansasin ja Pittsburghin yliopistojen tekemän tutkimuksen mukaan lasten harrastaminen lisää koulumenestystä ja unen laatua ja vähentää psykologisten ongelmien riskiä. Harrastaminen myös vähentää stressiä ja lisää onnellisuutta. Harrastuksissa myös tapaa uusia ihmisiä ja saa lisää kavereita. Suomen lapsista ja nuorista 85% on harrastus tai harrastuksia.&nbsp;
+Harrastaminen kannattaa. Texasin, Kansasin ja Pittsburghin yliopistojen tekemän tutkimuksen mukaan lasten harrastaminen lisää koulumenestystä ja unen laatua ja vähentää psykologisten ongelmien riskiä. Harrastaminen myös vähentää stressiä ja lisää onnellisuutta. Harrastuksissa myös tapaa uusia ihmisiä ja saa lisää kavereita. Suomen lapsista ja nuorista 85% on harrastus tai harrastuksia. 
 
 
 ### Harrastamisen vaatimukset
@@ -46,6 +46,6 @@ Kaikille ei ole mahdollista harrastaa mitä vaan. Joillekin jotkut harrastukset 
 ---
 
 
-**Teksti:** Turkka Seuri
-**Kuvitus:** Viola Murtomaa
+**Teksti: Turkka Seuri**
+**Kuvitus: Viola Murtomaa**
 

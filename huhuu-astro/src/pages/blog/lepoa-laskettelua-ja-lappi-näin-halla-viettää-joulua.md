@@ -5,7 +5,7 @@ slug: "lepoa-laskettelua-ja-lappi-näin-halla-viettää-joulua"
 isPinned: false
 isFeatured: false
 timeToRead: 3
-wixViewCount: 435
+wixViewCount: 436
 created: "2021-12-18T21:38:07.089Z"
 published: "2021-12-21T07:00:38.536Z"
 modified: "2021-12-21T07:00:38.536Z"
@@ -17,7 +17,7 @@ layout: "../../layouts/BlogPost.astro"
 
 ---
 
-Kuten koko koulussa, myös kansliassa on jouluinen tunnelma. Pöydällä on joulukalenteri ja Lauri Hallan toimiston ikkunassa tuikkivat jouluvalot. Istuuduttuamme kanslian vanhasta ovesta nikkaroidun pöydän ääreen Halla kertoo odottavansa joulua, vaikka tekemistä riittääkin vielä ennen loman alkua.&nbsp;
+Kuten koko koulussa, myös kansliassa on jouluinen tunnelma. Pöydällä on joulukalenteri ja Lauri Hallan toimiston ikkunassa tuikkivat jouluvalot. Istuuduttuamme kanslian vanhasta ovesta nikkaroidun pöydän ääreen Halla kertoo odottavansa joulua, vaikka tekemistä riittääkin vielä ennen loman alkua. 
 
 “Kuitenkin on semmoinen joulunodotus, mikä luo positiivista fiilistä tähän koko olemiseen. Tietää, että jotain kivaa on edessä.”
 
@@ -29,7 +29,7 @@ Joulunajalta Halla odottaa mahdollisuutta rauhoittua ja yhdessäoloa perheensä 
 
 “Mennään sinne, missä on omat vanhemmat ja lapsen isovanhemmat, ja vietetään aikaa siellä yhdessä kiireettömästi. Jutellaan ja ollaan, tai ei tarvitse edes jutella, kunhan ollaan yhdessä”, Halla kuvailee perheen tärkeimpiä jouluperinteitä.
 
-Rehtorin joulu alkaa matkalla Turun seudulle Hallan ja hänen vaimonsa vanhempien luo, missä perhe viettää rauhallista aikaa joulun yli. He käyvät usein kuuntelemassa Turun joulurauhan julistuksen paikan päällä, saunovat ja rentoutuvat yhdessä. Lisäksi joulupukki tulee käymään jouluaattona, kuten lapsiperheissä asiaan kuuluu. Tapaninpäivänä matka on jatkunut muutamana viime vuonna Lappiin ja laskettelurinteisiin. Perheen tutuilla on Muoniossa paikka, jossa he viettävät muutaman päivän ulkoillen ja laskien pulkkamäkeä.&nbsp;
+Rehtorin joulu alkaa matkalla Turun seudulle Hallan ja hänen vaimonsa vanhempien luo, missä perhe viettää rauhallista aikaa joulun yli. He käyvät usein kuuntelemassa Turun joulurauhan julistuksen paikan päällä, saunovat ja rentoutuvat yhdessä. Lisäksi joulupukki tulee käymään jouluaattona, kuten lapsiperheissä asiaan kuuluu. Tapaninpäivänä matka on jatkunut muutamana viime vuonna Lappiin ja laskettelurinteisiin. Perheen tutuilla on Muoniossa paikka, jossa he viettävät muutaman päivän ulkoillen ja laskien pulkkamäkeä. 
 
 Perinteiseen joulunviettoon läheisten kanssa mahtuu kuitenkin myös epätyypillisempi jouluperinne. Halla mainitsee perheen erikoisemman tradition liittyvän jouluruokaan:
 
@@ -41,13 +41,13 @@ Varsinaiseen joulupöytään heidän perheessään sen sijaan kuuluu kaloja, laa
 
 Hallalle ensimmäisenä mieleen tuleva muisto lapsuuden jouluista liittyy jouluherkkuihin. Hänen isoäidillään oli tapana leipoa jouluksi muiden herkkujen lisäksi iso laatikollinen pipareita, jotka sai syödä vasta joulupyhien jälkeen.
 
-“Saatiin syödä niin paljon kuin vain jaksetaan. Ja sit sitä syötiin niin paljon, että melkein oksennettiin. Mutta ne oli niin hyviä että oli pakko vaan jatkaa ja jatkaa!”&nbsp;
+“Saatiin syödä niin paljon kuin vain jaksetaan. Ja sit sitä syötiin niin paljon, että melkein oksennettiin. Mutta ne oli niin hyviä että oli pakko vaan jatkaa ja jatkaa!” 
 
-Lapsuudesta muistuvat myös kaikkien aikojen parhaat joululahjat, jotka ovat Hallan kohdalla olleet usein urheiluvälineitä. Uusia luistimia, jääkiekkomailaa tai suksia on päässyt testaamaan heti joulupäivänä ja niistä on riittänyt riemua läpi talven. Tänä vuonna Hallan joululahjalistalta löytyy yhä talviurheiluun liittyviä toiveita. Erityisesti hän toivoo lämpimiä lapasia, jotka pitäisivät sormet lämpiminä kovassakin pakkasessa.&nbsp;
+Lapsuudesta muistuvat myös kaikkien aikojen parhaat joululahjat, jotka ovat Hallan kohdalla olleet usein urheiluvälineitä. Uusia luistimia, jääkiekkomailaa tai suksia on päässyt testaamaan heti joulupäivänä ja niistä on riittänyt riemua läpi talven. Tänä vuonna Hallan joululahjalistalta löytyy yhä talviurheiluun liittyviä toiveita. Erityisesti hän toivoo lämpimiä lapasia, jotka pitäisivät sormet lämpiminä kovassakin pakkasessa. 
 
 “Jos jotain abstraktimpaa ajattelee, niin toivon, että kaikki saisi rauhassa viettää joulua ja että jokaisella olisi ympärillä itselle tärkeitä ihmisiä. Ja että ihmiset olisivat läsnä toisilleen eivätkä vain samassa tilassa ja pahimmillaan kuitenkin hyvin etäisinä toisilleen – katsovat puhelinta tai lukevat jotain. Että ihmisillä olisi aikaa toisilleen.”
 
-Läsnäolo on Hallalle tärkeintä joulussa. Halla toteaa joulun merkitsevän kaikille vähän jotain erilaista, mutta hänelle joulussa olennaisinta on yhdessäolo, rauhoittuminen, lepo ja tauko työnteosta.&nbsp;
+Läsnäolo on Hallalle tärkeintä joulussa. Halla toteaa joulun merkitsevän kaikille vähän jotain erilaista, mutta hänelle joulussa olennaisinta on yhdessäolo, rauhoittuminen, lepo ja tauko työnteosta. 
 
 Ensi vuoteen Halla lähtee positiivisin ja innokkain mielin ja näkee toivoa koronapandemian keskellä. Hän toivoo, että pandemia laantuu ja saataisiin viimein kuriin ensi vuoden aikana, vaikka toteaakin korona-ajan keston yllättäneen aina negatiivisesti. Halla mainitsee odottavansa innolla myös koulurakennuksen laajennushankkeen etenemistä.
 
@@ -55,7 +55,7 @@ Ensi vuoteen Halla lähtee positiivisin ja innokkain mielin ja näkee toivoa kor
 
 Halla toivoo, että ensi vuonna hänellä olisi omassa elämässään aikaa muuhun kuin työhön. Halla haluaa, että hänelle merkityksellinen yhdessäolo perheen kanssa jatkuu joululta vuoteen 2022. Hän uskoo ehtivänsä harrastaa ja puuhailla enemmän lapsensa kanssa ensi vuonna.
 
-KSYK:n opiskelijolle ja oppilaille Halla toivottaa rauhallista ja antoisaa joulunaikaa. Hän kehottaa kaikkia laittamaan puhelimet ja pelit sivuun ja keskittymään lomasta nauttimiseen.&nbsp;
+KSYK:n opiskelijolle ja oppilaille Halla toivottaa rauhallista ja antoisaa joulunaikaa. Hän kehottaa kaikkia laittamaan puhelimet ja pelit sivuun ja keskittymään lomasta nauttimiseen. 
 
 “Tosi ansaittu joululoma on edessä ja jokainen tietenkin viettää sitä omalla tavallaan eri paikoissa, mutta mä toivon että kaikkien joululomaa yhdistää sellainen asia, että osataan rauhoittua, osataan irtautua niistä normaalin arjen tekemisistä, vietetään aikaa ihmisten kanssa ei pelien ja puhelinten kanssa, vaan ihmisten kanssa. Ja kerätään voimia loman jälkeiseen aikaan ja kevääseen, että jaksetaan sitten taas eteenpäin elämässä.”
 
@@ -63,6 +63,6 @@ KSYK:n opiskelijolle ja oppilaille Halla toivottaa rauhallista ja antoisaa joulu
 ---
 
 
-**Teksti:** Ronja Ruohoniemi
-**Kuvat:** Ronja Ruohoniemi
+**Teksti: Ronja Ruohoniemi**
+**Kuvat: Ronja Ruohoniemi**
 

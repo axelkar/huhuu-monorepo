@@ -5,7 +5,7 @@ slug: "lukio-loppuun-ulkomailla"
 isPinned: false
 isFeatured: false
 timeToRead: 5
-wixViewCount: 268
+wixViewCount: 273
 created: "2022-06-02T10:10:57.686Z"
 published: "2022-06-02T16:20:30.246Z"
 modified: "2022-06-02T16:20:30.246Z"
@@ -27,7 +27,7 @@ UWC eli United World Colleges on kansainvälinen koulutusliike, joka tarjoaa vuo
 
 “Se oli aika raskas ja monivaiheinen. Musta tuntuu, että ne yrittävät vähän ehkä tarkoituksellakin karsia ihmisiä jo hakuvaiheessa”, Katja toteaa ja jatkaa: “Kun kaikki paperityö oli tehty, kaikista hakijoista kutsuttiin 26 ihmistä haastatteluihin. Valintatilaisuutta varten piti vielä tehdä lisätehtäviä, eikä se paperisota ole vieläkään loppunut.”
 
-Hakuprosessin loppusuoralla osa hakijoista kutsutaan valintapäiville, joiden aikana UWC jatkaa nuorten sopivuuden arvioimista. Tilaisuuteen kuuluu UWC-komitean haastattelu ja UWC:n alumnien järjestämää toimintaa.&nbsp;
+Hakuprosessin loppusuoralla osa hakijoista kutsutaan valintapäiville, joiden aikana UWC jatkaa nuorten sopivuuden arvioimista. Tilaisuuteen kuuluu UWC-komitean haastattelu ja UWC:n alumnien järjestämää toimintaa. 
 
 “Alumnit järjestivät ryhmäharjoituksia, joissa mitattiin etenkin sosiaalisia taitoja. Siellä oli myös psykologi paikalla arvioimassa toimintaa”, Katja muistelee maaliskuun alussa järjestettyä tapahtumaa, josta molemmat haastateltavista vaikuttivat todella nauttineen.
 
@@ -38,31 +38,31 @@ Hakijan täytyy olla todella kiinnostunut UWC:stä, jotta hakuprosessin jaksaa v
 “Oon aina halunnut ulkomaille opiskelemaan, ehkä lähinnä yliopistoon, mutta nyt kun oli mahdollisuus niin lukioon kans. Ja just vaihto oli jotain, mitä olin ajatellut pitkään, mutta sit mä aattelin, että minkä takia lähteä puoleksi vuodeksi, kun voi lähtee kahdeksi”, Inka kertoo.
 
 ![Unknown image description. Check context for details.](https://static.wixstatic.com/media/abd5f5_bb6d569088984b0b94bed2bf14adf7c7~mv2.jpg) <!-- Original name: inka-uwc.jpg -->
-<span style="textAlignment:center;">*Inka Karlsson on lähdössä Norjan länsirannikolla Flekken kylän lähistöllä sijaitsevaan UWC Red Cross Nordiciin. Koulu sijaitsee upeissa vuonomaisemissa. Kuva: Ronja Ruohoniemi*</span>
+*Inka Karlsson on lähdössä Norjan länsirannikolla Flekken kylän lähistöllä sijaitsevaan UWC Red Cross Nordiciin. Koulu sijaitsee upeissa vuonomaisemissa. Kuva: Ronja Ruohoniemi*
 
 
 Haun aikana Katjan ja Inkan piti listata UWC-koulut toivejärjestykseen sen perusteella, mihin he haluaisivat mieluiten lähteä tuleviksi kahdeksi vuodeksi opiskelemaan. Katjan ensimmäinen toive oli New Mexicossa sijaitseva UWC-USA, jonne hän myös tuli valituksi. Inkalla ei käynyt yhtä hyvä tuuri.
 
 “Mähän menin ihan paniikkiin. Norja oli mulla varsin alhaalla listauksessa. Mä olin tosi yllättynyt ja vähän silleen, mitäs mä Norjassa teen”, Inka kuvailee UWC:n päätöksen selviämisen jälkeisiä fiiliksiään. “Korkeammalla mulla oli esimerkiksi USA, Costa Rica ja Eswatini. Oli mulla aika paljon kaikkii. Yritin vähän paeta Suomen säätä.”
 
-Järkytys laantui kuitenkin nopeasti Inkan googlattua UWC Red Cross Nordic -koulun ja nyt, pari kuukautta ennen lähtöä, on hän innoissaan ja täysin tyytyväinen kohdemaahansa. Norjasta löytyy monia hyviä puolia eikä kylmä ilmastokaan enää haittaa. Kotiin pääsee matkustamaan helposti ja muitakin suomalaisia on lähdössä upeissa maisemissa sijaitsevaan kouluun. Norjan UWC-koulussa on myös Inkaa kiinnostavia oppiaineita ja mahdollisuus jatkaa esimerkiksi espanjan ja psykologian opiskelua.&nbsp;
+Järkytys laantui kuitenkin nopeasti Inkan googlattua UWC Red Cross Nordic -koulun ja nyt, pari kuukautta ennen lähtöä, on hän innoissaan ja täysin tyytyväinen kohdemaahansa. Norjasta löytyy monia hyviä puolia eikä kylmä ilmastokaan enää haittaa. Kotiin pääsee matkustamaan helposti ja muitakin suomalaisia on lähdössä upeissa maisemissa sijaitsevaan kouluun. Norjan UWC-koulussa on myös Inkaa kiinnostavia oppiaineita ja mahdollisuus jatkaa esimerkiksi espanjan ja psykologian opiskelua. 
 
-Yhdysvaltojen UWC-koulussa Katjan mielenkiinnon herätti ainetarjonnan lisäksi lukuisat muut mahdollisuudet, joita juuri UWC-USA:ssa on tarjolla. Kaikissa UWC-kouluissa panostetaan opiskelun ulkopuoliseen harrastamiseen ja kouluista löytyykin erilaisia kerhoja, kursseja sekä urheilu- ja taidetiloja.&nbsp;
+Yhdysvaltojen UWC-koulussa Katjan mielenkiinnon herätti ainetarjonnan lisäksi lukuisat muut mahdollisuudet, joita juuri UWC-USA:ssa on tarjolla. Kaikissa UWC-kouluissa panostetaan opiskelun ulkopuoliseen harrastamiseen ja kouluista löytyykin erilaisia kerhoja, kursseja sekä urheilu- ja taidetiloja. 
 
 “USA:n ainevalikoimassa mua kiinnosti erityisesti antropologia, global politics ja environmental system and societies -kurssit. Siellä on myös taidekeskus ja musiikkistudio. Taide on mulle tärkeä osa elämää ja mun valintaan vaikutti myös se, pystynkö jatkamaan harrastuksia”, Katja kertoo UWC-USA:n kampuksesta. Myös Inka on innoissaan Norjan UWC-koulussa järjestettävistä aktiviteeteista, kuten kajakoinnista, keramiikasta ja feministikerhosta.
 
 Molemmissa kouluissa keskiöön nousee vapaaehtoistyö. USA:n koulu sijaitsee Katjan mukaan köyhällä alueella ja opiskelijat auttavat esimerkiksi paikallisissa sairaaloissa, kouluissa ja soppakeittiöissä. Norjassa yhteistyötä tehdään erityisesti Punaisen Ristin kanssa.
 
-UWC-lukioissa suoritetaan IB-tutkinto, mikä selittää harrastusmahdollisuuksien määrän. Tutkintoon kuuluu varsinaisten opintojen ohella Creativity, Action and Service eli CAS -ohjelma, jossa opiskelijat osallistuvat eri aktiviteetteihin ja projekteihin jokaisella ohjelman osa-alueella.&nbsp;
+UWC-lukioissa suoritetaan IB-tutkinto, mikä selittää harrastusmahdollisuuksien määrän. Tutkintoon kuuluu varsinaisten opintojen ohella Creativity, Action and Service eli CAS -ohjelma, jossa opiskelijat osallistuvat eri aktiviteetteihin ja projekteihin jokaisella ohjelman osa-alueella. 
 
-“IB-lukioissa syvennytään muutamaan aineeseen enemmän, niin mä odotan sitä et pystyy keskittymään niihin asioihin, mitkä oikeasti kiinnostaa. Musta tuntuu, että mä oon nyt opiskellu pintapuolisesti ja se on ollut sellaista ulkoa opiskelua. Toivon, että pystyn hahmottamaan kokonaiskuvan niistä oppiaineista”, Katja avaa mietteitään IB-tutkinnon aloittamisesta.&nbsp;
+“IB-lukioissa syvennytään muutamaan aineeseen enemmän, niin mä odotan sitä et pystyy keskittymään niihin asioihin, mitkä oikeasti kiinnostaa. Musta tuntuu, että mä oon nyt opiskellu pintapuolisesti ja se on ollut sellaista ulkoa opiskelua. Toivon, että pystyn hahmottamaan kokonaiskuvan niistä oppiaineista”, Katja avaa mietteitään IB-tutkinnon aloittamisesta. 
 
 Opiskelijat asuvat UWC:n kampuksilla opintojensa ajan ja lähtökohtaisesti kaikki harrastukset ja vapaa-ajan aktiviteetit toteutetaan kampuksen tiloissa. UWC-USA:n kampus rakennettiin Montezuman linnan ympärille ja nykyään linnan uudistetuista tiloista löytyy esimerkiksi asuntoloita, luokkahuoneita ja ruokala. Lisäksi kampuksella on Katjan mainitsema taidekeskus ja urheilutiloja muun muassa koripallon, squashin ja tanssin harrastamiseen.
 
-“Norjan kampuksella on viisi asuntolaa. Siellä on neljäkymmentä ihmistä yhdessä asuntolassa ja viiden hengen huoneet… siit tulee mielenkiintoista. Asia, mistä mä oon tosi onnellinen on, että jokaisessa huoneessa on oma vessa”, Inka toteaa.&nbsp;
+“Norjan kampuksella on viisi asuntolaa. Siellä on neljäkymmentä ihmistä yhdessä asuntolassa ja viiden hengen huoneet… siit tulee mielenkiintoista. Asia, mistä mä oon tosi onnellinen on, että jokaisessa huoneessa on oma vessa”, Inka toteaa. 
 
 ![Unknown image description. Check context for details.](https://static.wixstatic.com/media/abd5f5_5e1dae61cdb44d3492e4efcf36909e06~mv2.jpg) <!-- Original name: katja-uwc.jpg -->
-<span style="textAlignment:center;">*Katja Legeza on erityisen innoissaan UWC-USA:n tarjoamista mahdollisuuksista taiteiden harrastamiseen. Koulussa voi kuvataiteen harrastamisen lisäksi esimerkiksi näytellä ja tanssia. Kuva: Katja Legeza*</span>
+*Katja Legeza on erityisen innoissaan UWC-USA:n tarjoamista mahdollisuuksista taiteiden harrastamiseen. Koulussa voi kuvataiteen harrastamisen lisäksi esimerkiksi näytellä ja tanssia. Kuva: Katja Legeza*
 
 
 Uuteen paikkaan muuttamisessa ja koulun vaihtamisessa arveluttaa ja pelottaa moni asia. “Onhan se iso ero, että muuttaa kirjaimellisesti toiselle puolelle maailmaa vieraiden ihmisten keskelle. On täysin uudessa ympäristössä eikä tunne yhtään ketään, niin siinä on sit aika yksin. Tottakai se jännittää”, Katja sanoo. Inkaa mietityttää myös käytännössä omilleen muuttaminen, rankkana tunnettu IB-tutkinto ja uusi kieli. Heidän odotuksensa UWC-koulussa aloittamisesta ovat kuitenkin lähtökohtaisesti korkealla. Inka toisaalta yrittää vältellä liian suuria odotuksia, jotta saa kaiken irti tulevasta kokemuksesta. Hetken asiaa pohdittuaan hän listaa muutaman toiveen opintojaksoon liittyen: “Mä toivon, että saisin paljon hyviä ystäviä ja oppisin katsomaan asioita vähän eri tavalla. Toivon, että mä itsenäistyn ja kehittyisin ihmisenä, kun ei ole tuttua tukiverkostoa ympärillä auttamassa.”
@@ -75,6 +75,6 @@ Vaikka kummankaan tarkkaa lähtöpäivää ei ole vielä päätetty, lähestyy e
 
 ---
 
-**Teksti:** Ronja Ruohoniemi
-**Kuvitus:** Emma Tihinen
+**Teksti: Ronja Ruohoniemi**
+**Kuvitus: Emma Tihinen**
 

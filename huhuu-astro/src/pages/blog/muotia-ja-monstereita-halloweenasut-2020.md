@@ -5,9 +5,9 @@ slug: "muotia-ja-monstereita-halloweenasut-2020"
 isPinned: false
 isFeatured: false
 timeToRead: 2
-wixViewCount: 542
+wixViewCount: 546
 created: "2020-11-02T15:48:49.132Z"
-published: "2020-11-02T16:44:06.213Z"
+published: "2020-11-02T18:26:15.884Z"
 modified: "2020-11-02T15:48:49.132Z"
 language: "en"
 layout: "../../layouts/BlogPost.astro"

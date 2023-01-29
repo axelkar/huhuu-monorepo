@@ -40,6 +40,6 @@ So, what should we all take away from this little experiment? Even though there 
 
 ---
 
-**Text:** Peppi Särkelä
-**Images:** Astrid Lehto
+**Text: Peppi Särkelä**
+**Images: Astrid Lehto**
 

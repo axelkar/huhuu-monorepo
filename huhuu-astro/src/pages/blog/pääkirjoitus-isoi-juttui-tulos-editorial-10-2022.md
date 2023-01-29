@@ -5,14 +5,14 @@ slug: "pääkirjoitus-isoi-juttui-tulos-editorial-10-2022"
 isPinned: false
 isFeatured: false
 timeToRead: 3
-wixViewCount: 171
+wixViewCount: 172
 created: "2022-10-29T08:50:56.048Z"
 published: "2022-10-29T08:51:02.515Z"
 modified: "2022-10-29T08:51:02.515Z"
 language: "en"
 layout: "../../layouts/BlogPost.astro"
 ---
-Viime kevään ja alkusyksyn valitettavan hiljaiselon jälkeen Huhuu on taas elävien kirjoissa! Kesän jälkeen toimitus on pikkuhiljaa palannut työn touhuun ja uutta sisältöä pyritään tuottamaan mahdollisimman pian. Toimituksemme rakenne on muuttunut jonkin verran: viime vuoden abit ovat jatkaneet uusiin kuvioihin ja näin ollen jättäneet myös Huhuun taakseen. Onneksi joukkoomme on liittynyt myös muutama uusi jäsen ja otamme aina mielellämme uusia innokkaita mukaan toimintaan. Toimituksen rakennemuutoksen myötä myös päätoimittajamme vaihtuvat ja rooliin astumme nyt me!!!!&nbsp;
+Viime kevään ja alkusyksyn valitettavan hiljaiselon jälkeen Huhuu on taas elävien kirjoissa! Kesän jälkeen toimitus on pikkuhiljaa palannut työn touhuun ja uutta sisältöä pyritään tuottamaan mahdollisimman pian. Toimituksemme rakenne on muuttunut jonkin verran: viime vuoden abit ovat jatkaneet uusiin kuvioihin ja näin ollen jättäneet myös Huhuun taakseen. Onneksi joukkoomme on liittynyt myös muutama uusi jäsen ja otamme aina mielellämme uusia innokkaita mukaan toimintaan. Toimituksen rakennemuutoksen myötä myös päätoimittajamme vaihtuvat ja rooliin astumme nyt me!!!! 
 
 Huhuun ensimmäinen julkaisu ilmestyi vuonna 2020 ja näihin kahteen vuoteen on mahtunut paljon. Ensimmäiset vuodet ovat suurimmilta osin kuluneet pohtimalla, mitä Huhuu on. Minkälaista sisältöä haluamme tuottaa? Mihin haluamme erityisesti panostaa? Näiden vuosien aikana olemme löytäneet asioita, joista haluamme pitää kiinni, mutta myös piirteitä, joissa on selkeästi varaa kehitykselle. Tulevana vuonna pyrimme säilyttämään käytännöt, jotka toimivat ja löytämään uusia ratkaisuja niille, jotka eivät toimi. Näin pystymme toivon mukaan työskentelemään entistä paremmin sekä yksilöinä että tiiminä!
 
@@ -20,7 +20,7 @@ Jatkossa haluamme kehittää Huhuuta yhä eteenpäin uuden toimituksemme kanssa.
 
 Kaiken tämän muutoksen myötä myös Huhuun julkaisurytmi tulee olemaan erilainen. Jatkossa pyrimme tiukan julkaisuaikataulun sijaan keskittymään mahdollisimman laadukkaaseen sisältöön. Tämän takia juttuja ei enää julkaista viikoittain entiseen tapaan. Me päätoimittajat olemme hyvin innoissamme kaikesta tulevasta ja toivomme lukijoidemmekin pysyvän mukana Huhuun uudistuessa. Toivotammekin teille hyvää syksyä ja mukavia lukuhetkiä Huhuun parissa!
 
-Päätoimittajat Ronja Ruohoniemi ja Peppi Särkelä&nbsp;
+Päätoimittajat Ronja Ruohoniemi ja Peppi Särkelä 
 
 In English:
 

@@ -5,9 +5,9 @@ slug: "kuka-on-ksykkiläinen-koodari-koulus-fi-n-takana"
 isPinned: false
 isFeatured: true
 timeToRead: 5
-wixViewCount: 562
+wixViewCount: 564
 created: "2020-11-02T18:47:47.392Z"
-published: "2020-11-03T12:32:13.767Z"
+published: "2020-11-03T17:32:47.302Z"
 modified: "2020-11-02T18:47:47.392Z"
 language: "en"
 layout: "../../layouts/BlogPost.astro"
@@ -21,7 +21,7 @@ layout: "../../layouts/BlogPost.astro"
 
 **Koko projekti lähti käyntiin TT-linjan pakollisella koodauskurssilla viime syksynä, kun Viljami Virtanen oli juuri aloittanut lukion. Koska koodaaminen ja tietotekniikka olivat Viljamille jo ennestään tuttuja, ei hänellä ollut oikein mitään tekemistä kurssilla, samalla kun suurin osa muista TT-linjalaisista vasta opetteli koodauksen alkeita. Testaamisen ja kokeilun kautta Viljami halusi yrittää yhdistellä eri tietolähteitä ja muodostaa niistä jotain hyödyllistä. “Se oli enemmänki sellanen testi aluks, en suunnitellu mitään isoa palvelua siitä”, Viljami summaa.**
 
-**Ykkösille viime vuonna ylpeästi esitelty** **–myös ksykkiläisen luoma–** ** onkomeillasplit.ml-sivusto, joka kertoo ryhmien ruokailuajat, antoi Viljamille motivaatiota viedä ideaa pidemmälle. Pelkkien ruokailuaikojen lisäksi Viljami halusi yrittää saada muitakin tietoja helpommin saataville, jotta Viljamin olisi itsekin helpompi pysyä perillä siitä, missä milloinkin tulee olla. Projekti valmistui pikkuhiljaa koodaustunneilla ensimmäisen jakson aikana, eikä sivusto ollut aluksi kuin muutaman tiedon tarjoava palvelu.**
+**Ykkösille viime vuonna ylpeästi esitelty –myös ksykkiläisen luoma–  onkomeillasplit.ml-sivusto, joka kertoo ryhmien ruokailuajat, antoi Viljamille motivaatiota viedä ideaa pidemmälle. Pelkkien ruokailuaikojen lisäksi Viljami halusi yrittää saada muitakin tietoja helpommin saataville, jotta Viljamin olisi itsekin helpompi pysyä perillä siitä, missä milloinkin tulee olla. Projekti valmistui pikkuhiljaa koodaustunneilla ensimmäisen jakson aikana, eikä sivusto ollut aluksi kuin muutaman tiedon tarjoava palvelu.**
 
 **Sivusto on koodattu javascript-kielellä, tarkemmin selainpuolella React-kirjastolla ja palvelinpuolella Node.js-ympäristössä. Sivuston koodaamisesta ja luomisesta Viljami arvuuttelee nauraen: “Mitenköhän tän nyt selittäis fiksusti”. Sivuston toiminnan pohjalla on datatieto, jota kerätään käyttäjän sekä Viljamin omista Google- sekä Wilma-tiedoista. Viljamin omista tiedoista kerätään esimerkiksi ruokailuajat, jotka vaihtuvat joka viikko. Ennen syksyä Viljami päivitti kaikki ajat vielä manuaalisesti sivustoon, mutta tiheään tahtiin vaihtuvien ruokailuaikalistojen vuoksi Viljami kehitteli uuden systeemin. Viljamin ei nyt tarvitse itse kirjoittaa ruokailuaikoja sivustoon, vaan ne tulevat sinne automaattisesti jaetuista tiedostoista. Viljamin omien tiedostojen yhdistäminen sivustoon on säästänyt paljon aikaa työskentelytunneista.**
 ****

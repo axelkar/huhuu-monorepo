@@ -5,9 +5,9 @@ slug: "when-science-actually-becomes-fun"
 isPinned: false
 isFeatured: false
 timeToRead: 5
-wixViewCount: 182
+wixViewCount: 185
 created: "2021-11-18T16:24:46.371Z"
-published: "2021-11-18T16:35:52.229Z"
+published: "2021-11-18T16:36:46.231Z"
 modified: "2021-11-18T16:36:46.231Z"
 language: "en"
 layout: "../../layouts/BlogPost.astro"
@@ -28,11 +28,11 @@ People with cats or those who watch a lot of cat videos might have noticed that 
 
 > *“While the mechanical system which we have proposed is a rather simple one, the description of its motion, involving, in part, the solution of a nonlinear differential equation, is sufficiently complex to render visualization of the motion difficult. This difficulty can be overcome by drawing perspective pictures of bodies A and B for a number of instants during the motion. Representing A and B each as a right-circular cylinder, and indicating by means of two small crosses on each cylinder the points where one may imagine the legs of a cat to be attached to the torso, we have employed a computer-driven plotter to create such pictures.”*
 
-- T.R. Kane, M.P. Scher, *“A dynamical explanation of the falling cat phenomenon*”*
+- T.R. Kane, M.P. Scher, “A dynamical explanation of the falling cat phenomenon*”
 
-There is another fascinating research I’ve found and it’s about pigeons. We know that pigeons are one of the most intelligent birds, just like parrots that can talk or crows that can remember the time you threw a rock on them. It turns out pigeons can discriminate between “good” and “bad” paintings by children. Yeah, you read that last sentence right and it’s true. Shigeru Watanabe of Keito University’s Department of Psychology tried to find out if there are significant factors like color or number of brushstrokes that affect the pigeon’s perception of a “good” and “bad” painting, especially by children. The only thing I took from reading this study was that birds are judgemental and biased, so be careful with them.&nbsp;
+There is another fascinating research I’ve found and it’s about pigeons. We know that pigeons are one of the most intelligent birds, just like parrots that can talk or crows that can remember the time you threw a rock on them. It turns out pigeons can discriminate between “good” and “bad” paintings by children. Yeah, you read that last sentence right and it’s true. Shigeru Watanabe of Keito University’s Department of Psychology tried to find out if there are significant factors like color or number of brushstrokes that affect the pigeon’s perception of a “good” and “bad” painting, especially by children. The only thing I took from reading this study was that birds are judgemental and biased, so be careful with them. 
 
-<span style="textAlignment:center;"></span>
+
 ![Unknown image description. Check context for details.](https://static.wixstatic.com/media/abd5f5_c4e030d5c5da43a5a1a07d20d14c6c4d~mv2.png) <!-- Original name: pigeon and boy.tif -->
 
 
@@ -40,9 +40,9 @@ There is another fascinating research I’ve found and it’s about pigeons. We 
 
 > *The present results demonstrate that pigeons can be trained to discriminate concept, or stimulus class of “beauty” based on human subjective classification. In other words, “beauty” in the present experiment has common discriminative stimulus elements that can be shared by humans and birds. We cannot, however, say that pigeons and humans have a similar aesthetic evaluation of visual arts in general.”*
 
-- S. Watanabe, *“Pigeons can discriminate "good" and "bad" paintings by children”*
+- S. Watanabe, “Pigeons can discriminate "good" and "bad" paintings by children”
 
-Some scientists also tend to enjoy putting silly titles on their research papers. Although don’t let the titles fool you because most of them actually contain useful and revolutionary discoveries. For example, a study published in the Journal of Pediatric Gastroenterology and Nutrition had the title “Factitious diarrhea: a case of watery deception” This study talks about the falsification of illnesses, especially by children and adolescents. The researchers also wanted to raise awareness about intentional self-harm and the importance of early intervention. Not so funny now, eh?&nbsp;
+Some scientists also tend to enjoy putting silly titles on their research papers. Although don’t let the titles fool you because most of them actually contain useful and revolutionary discoveries. For example, a study published in the Journal of Pediatric Gastroenterology and Nutrition had the title “Factitious diarrhea: a case of watery deception” This study talks about the falsification of illnesses, especially by children and adolescents. The researchers also wanted to raise awareness about intentional self-harm and the importance of early intervention. Not so funny now, eh? 
 
 Studies with hilarious titles have been shared a lot on Twitter and lately, also on Tiktok. Some titles tend to contain sexual innuendos such as “The mouth, the anus, and the blastopore 一 open questions about questionable openings” and “Practice makes perfect. Rectal foreign bodies”. However, I found one research paper that captures my mood every time I’m stressed out. It was titled “Leaf me alone: visual constraints on the ecology of social group formation”
 
@@ -51,10 +51,10 @@ Now, there are more of these kinds of studies online. Just go to the search bar 
 > *“It’s like the weirdest f***ing thing that you’ll ever go to… it’s a collection of, like, actual Nobel Prize winners giving away prizes to real scientists for doing f****d-up things… it’s awesome.”*
 
 - Amanda Palmer (from Improbable Research website)
-<span style="textAlignment:center;"></span>
+
 ![Unknown image description. Check context for details.](https://static.wixstatic.com/media/abd5f5_310de221b9054e3bab71e8d11575c898~mv2.jpg) <!-- Original name: igprize.jpg -->
-<span style="textAlignment:center;">*Winner of the 2009 Ig Nobel Prize, Dr. Elena Bodnar, demonstrates her invention, a bra that can be turned into a pair of protective masks. She is assisted by Nobel laureates Wolfgang Ketterle (Physics in 2001), Orhan Pamuk (Literature in 2006), and Paul Krugman (Economics in 2008)*</span>
-<span style="textAlignment:center;"></span>
+*Winner of the 2009 Ig Nobel Prize, Dr. Elena Bodnar, demonstrates her invention, a bra that can be turned into a pair of protective masks. She is assisted by Nobel laureates Wolfgang Ketterle (Physics in 2001), Orhan Pamuk (Literature in 2006), and Paul Krugman (Economics in 2008)*
+
 
 The studies that were awarded with the prize in 2021 included a study that demonstrated that sexual orgasms can be as effective as medicines in improving nasal function. A study concluding that a politician’s obesity can be a good indicator of a country’s corruption level won an award too. Back in 2000, a study about using magnets to levitate a frog won the award. Fun fact, one of the researchers of the frog study, Andre Geim, went on to win the actual Nobel Prize in Physics in 2010. However, this time he researched graphene. No levitating frogs were involved, unfortunately.
 
@@ -62,7 +62,7 @@ The studies that were awarded with the prize in 2021 included a study that demon
 ---
 
 
-**Text:** Frederick Lalu
-**Photos:** Viola Murtomaa
+**Text: Frederick Lalu**
+**Photos: Viola Murtomaa**
 	     Alexey Eliseev/Improbable Research	
 &nbsp;[__https://blogs.scientificamerican.com/guest-blog/ig-nobel-prizes-mark-a-quarter-century-of-irreverent-science-humor/__](https://blogs.scientificamerican.com/guest-blog/ig-nobel-prizes-mark-a-quarter-century-of-irreverent-science-humor/))

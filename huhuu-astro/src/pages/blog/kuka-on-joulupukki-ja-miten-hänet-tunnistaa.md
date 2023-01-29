@@ -17,19 +17,19 @@ layout: "../../layouts/BlogPost.astro"
 ---
 
 ### **Kuka on joulupukki?**
-&nbsp;Kuka on joulupukki? Kuinka vanha hän on? Miksi joulupukilla on irtoparta? Mitä yhteistä on joulupukilla ja vuohella? Kuten nähdä saattaa, vanhan valkoparran ympärillä on vielä paljon mysteerejä, niin tuttu kuin hän maailmalle onkin. Tämän takia Huhuu lähti selventämään Joulupukin tapausta muulle maailmalle.&nbsp;
+&nbsp;Kuka on joulupukki? Kuinka vanha hän on? Miksi joulupukilla on irtoparta? Mitä yhteistä on joulupukilla ja vuohella? Kuten nähdä saattaa, vanhan valkoparran ympärillä on vielä paljon mysteerejä, niin tuttu kuin hän maailmalle onkin. Tämän takia Huhuu lähti selventämään Joulupukin tapausta muulle maailmalle. 
 
 Aloittakaamme mysteerien setvimisen vastaamalla aivan ensimmäiseen kysymykseen: Kuka on joulupukki?
 
-Mikäli asioita lähestytään käytännöllisellä näkökulmalla, todennäköisiä vaihtoehtoja on tässä tilanteessa kaksi. Ensimmäinen ja yksi yleisimmistä vaihtoehdoista on se, että tuuhean pumpuliparran takana piilee silminnäkijän läheinen sukulainen, joka jostain salaperäisestä syystä ei ilmestynyt paikalle joulunviettojuhlaan ja tulee sinne nyt joulupukiksi pukeutuneena ilahduttaakseen perheen nuorempia ja mahdollisesti hyvin taikauskoisia vanhempiakin jäseniä.&nbsp;
+Mikäli asioita lähestytään käytännöllisellä näkökulmalla, todennäköisiä vaihtoehtoja on tässä tilanteessa kaksi. Ensimmäinen ja yksi yleisimmistä vaihtoehdoista on se, että tuuhean pumpuliparran takana piilee silminnäkijän läheinen sukulainen, joka jostain salaperäisestä syystä ei ilmestynyt paikalle joulunviettojuhlaan ja tulee sinne nyt joulupukiksi pukeutuneena ilahduttaakseen perheen nuorempia ja mahdollisesti hyvin taikauskoisia vanhempiakin jäseniä. 
 
 Toinen myös varsin yleinen vaihtoehto on se, että joulupukki onkin joku aivan tuntematon henkilö, jonka ovat palkanneet joko sukulaiset, joista kukaan ei halunnut esittää joulupukkia, tai sitten kyseistä näyttelijää sponsoroi jokin kauppaliike, joka haluaa saada lisää asiakkaita valkoparran avulla. Tämäntapaisia joulupukkina esiintyviä henkilöitä voi useimmiten havaita kauppakeskuksissa.
 
-Tietysti yllä mainittujen vaihtoehtojen on olemassa myös mahdollisuus, että parran takana olisi *oikea* joulupukki, mutta tämä ei ole yksi todennäköisimmistä vaihtoehdoista.
+Tietysti yllä mainittujen vaihtoehtojen on olemassa myös mahdollisuus, että parran takana olisi oikea joulupukki, mutta tämä ei ole yksi todennäköisimmistä vaihtoehdoista.
 
 ### Mistä hänet tunnistaa?
 
-Siitä huolimatta, että aidon joulupukin kohtaaminen on siis hyvin epätodennäköistä, olisi varmasti hyödyllistä osata *varmistaa*, onko joku oikeasti aito valkoparta, ja sen takia Huhuu teki ohjeet kokemattomalle pukkibongarille, jotka auttavat identifioimaan aidon joulupukkiyksilön.
+Siitä huolimatta, että aidon joulupukin kohtaaminen on siis hyvin epätodennäköistä, olisi varmasti hyödyllistä osata varmistaa, onko joku oikeasti aito valkoparta, ja sen takia Huhuu teki ohjeet kokemattomalle pukkibongarille, jotka auttavat identifioimaan aidon joulupukkiyksilön.
 
 Yksi avainaskelista aidon jolupukin ja valepukin erottamisessa on parran tunnistus. Kaiken saatavilla olevan informaation perusteella aidon Joulupukin valkoinen parta on aito, kun taas valepukilla on usein tekoparta.
 
@@ -55,7 +55,7 @@ Joulupukin juuret ulottuvat myöhäiseen antiikkiin Pyhän Nikolauksen hahmoon B
 
 
 ![Unknown image description. Check context for details.](https://static.wixstatic.com/media/07242a_e8179e6b7ec7409d956c812c5c3994c2~mv2.jpg) <!-- Original name: St. Nikolaus ikoni.jpg -->
-<span style="textAlignment:center;">*Ortodoksi-ikoni Pyhästä Nikolauksesta. Kuvasta voi nähdä, kuinka paljon Joulupukki on ajan saatossa erkaantunut esimuodostaan.*</span>
+*Ortodoksi-ikoni Pyhästä Nikolauksesta. Kuvasta voi nähdä, kuinka paljon Joulupukki on ajan saatossa erkaantunut esimuodostaan.*
 
 Lahjojenantamisperinne on alkanut eräästä hyvänteosta, jonka Pyhän Nikolauksen sanotaan tehneen. Nikolaus nimittäin kuulemma heitti pussillisen kultaa köyhän perheen ikkunasta sisään salaa yöllä, jolloin perheen tyttäret pystyivät mennä naimisiin.
 
@@ -65,7 +65,7 @@ Pyhän Nikolauksen päivää vietettiin aluksi joulukuun kuudentena päivänä, 
 
 Tietyssä vaiheessa eri kulttuurien perinteet erkaantuivat toisistaan. Jossain Nikolausta jäätiin muistelemaan edelleen joulukuun kuudentena päivänä, kun taas muualla hahmo siirtyi jouluaaton kohdalle.
 
-Nykyisen tonttulakkisen Joulupukin kehittymiseen vaikutti paljon Alankomaista kotoisin oleva* *Sinterklaas-niminen Pyhän Nikolauksen vastine. Tässä pyhähahmossa näkyi vielä selvästi jälkiä Pyhästä Nikolaus-piispasta – Sinterklaasilla* *oli punainen piispan hattu, pitkä parta ja koristeellinen punavalkoinen asuste. Nimi Sinterklaas on lyhenne nimityksestä *Sint Nicolaas, *mikä myös viittaa pyhään Nikolaukseen.
+Nykyisen tonttulakkisen Joulupukin kehittymiseen vaikutti paljon Alankomaista kotoisin oleva Sinterklaas-niminen Pyhän Nikolauksen vastine. Tässä pyhähahmossa näkyi vielä selvästi jälkiä Pyhästä Nikolaus-piispasta – Sinterklaasilla oli punainen piispan hattu, pitkä parta ja koristeellinen punavalkoinen asuste. Nimi Sinterklaas on lyhenne nimityksestä Sint Nicolaas, mikä myös viittaa pyhään Nikolaukseen.
 
 1800-luvulla oli käynnissä joukkomuutto Yhdysvaltoihin ja Sinterklaas matkusti sinne hollantilaissiirtolaisten mukana. Täällä hahmoon kiinnittivät huomiota lukuisat kirjailijat ja runoilijat ja Sinterklaas vääntyi muotoon Santa Claus. Ajan saatossa hänen vaatekokoelmaansa lisättiin tonttulakki ja hän alkoi matkustella ympäriinsä lentävällä kelkalla, jota vetämään saapuivat ennen pitkää kahdeksan poroa.
 
@@ -79,11 +79,11 @@ Voimme jouluna olla onnellisia monen muun asian lisäksi myös siitä, että Suo
 
 Se, että Joulupukki on nimeltään ”pukki” ei kuitenkaan liity juurikaan nykyajan Joulupukkiin vaan vanhaan suomalaiseen jouluperinteeseen. Suomessa oli nimittäin ennen vanhaan ollut tapana, että nuoret miehet pukeutuivat vuohiksi. Näitä henkilöitä kutsuttiin kekri- ja nyyttipukeiksi. Lahjoja he eivät juurikaan tuoneet, vaan pikemminkin kerjäsivät ja jopa pelottelivat lapsia.
 
-Kun nykyinen joulupukkiperinne saapui Suomeen muualta maailmasta, se saattoi sekoittua vanhaan nyyttipukkiperinteeseen ja lahjoja jakelevaa vanhaa partapotsoa alettiin kutsua joulupukiksi.&nbsp;
+Kun nykyinen joulupukkiperinne saapui Suomeen muualta maailmasta, se saattoi sekoittua vanhaan nyyttipukkiperinteeseen ja lahjoja jakelevaa vanhaa partapotsoa alettiin kutsua joulupukiksi. 
 
 ---
 
-**Teksti:** Oliver Mononen
-**Kuvat:** Oliver Mononen
+**Teksti: Oliver Mononen**
+**Kuvat: Oliver Mononen**
 
 

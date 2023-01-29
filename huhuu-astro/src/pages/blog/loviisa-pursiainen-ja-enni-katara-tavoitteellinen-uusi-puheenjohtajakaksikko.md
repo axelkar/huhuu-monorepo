@@ -7,7 +7,7 @@ isFeatured: false
 timeToRead: 2
 wixViewCount: 293
 created: "2022-03-24T12:38:40.864Z"
-published: "2022-03-23T22:00:00.000Z"
+published: "2022-03-24T12:51:08.262Z"
 modified: "2022-03-24T12:51:08.262Z"
 language: "en"
 layout: "../../layouts/BlogPost.astro"
@@ -32,7 +32,7 @@ Viime kaudella KSYK:in opiskelijoiden keskuudessa oltiin useaan otteeseen huolis
 
 ![Unknown image description. Check context for details.](https://static.wixstatic.com/media/18093e_3fc1dfd8ac9a4b378b77ebe3e07c90fc~mv2.jpeg) <!-- Original name: _pj_vpj_peppi_3_.jpeg -->
 
-Kun puheenjohtajakaksikoltamme kysyttiin, mikä on heistä parasta KSYK:issä ja missä taas olisi heidän mielestään parantamisen varaa, molemmat heistä mainitsivat opiskelijoidemme intohimoisuuden positiivisena asiana. Kun kyseessä on koko koulua koskevat asiat – kuten esimerkiksi opiskelijakunnan hallitus – koulumme opiskelijoilta löytyy aina omia, vahvoja mielipiteitä sekä voimakas tahto saada oma äänensä kuuluviin. “Tämän voi nähdä helposti negatiivisena asiana, mutta intohimoa löytyy, ja se voi oikeaan suuntaan kanavoituna olla erittäin hyvä asia”, Enni sanoo. Tulevaisuudessa molemmat tahtoisivat nähdä KSYK:issä heittäytymistä ja rentoa ilmapiiriä: “Välillä ollaan vaan liian vakavia!” toteaa Loviisa.&nbsp;
+Kun puheenjohtajakaksikoltamme kysyttiin, mikä on heistä parasta KSYK:issä ja missä taas olisi heidän mielestään parantamisen varaa, molemmat heistä mainitsivat opiskelijoidemme intohimoisuuden positiivisena asiana. Kun kyseessä on koko koulua koskevat asiat – kuten esimerkiksi opiskelijakunnan hallitus – koulumme opiskelijoilta löytyy aina omia, vahvoja mielipiteitä sekä voimakas tahto saada oma äänensä kuuluviin. “Tämän voi nähdä helposti negatiivisena asiana, mutta intohimoa löytyy, ja se voi oikeaan suuntaan kanavoituna olla erittäin hyvä asia”, Enni sanoo. Tulevaisuudessa molemmat tahtoisivat nähdä KSYK:issä heittäytymistä ja rentoa ilmapiiriä: “Välillä ollaan vaan liian vakavia!” toteaa Loviisa. 
 
 ---
 

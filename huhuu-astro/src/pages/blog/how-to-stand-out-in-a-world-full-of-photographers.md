@@ -7,7 +7,7 @@ isFeatured: false
 timeToRead: 6
 wixViewCount: 207
 created: "2021-10-28T18:59:15.906Z"
-published: "2021-10-28T19:31:59.491Z"
+published: "2021-10-28T20:01:33.523Z"
 modified: "2021-10-28T20:01:33.523Z"
 language: "en"
 layout: "../../layouts/BlogPost.astro"
@@ -35,7 +35,7 @@ For years and years I thought photography is about finding beautiful things to t
 
 **3. Challenge yourself and experiment**
 
-Everyone has photos of sunsets and cupcakes, so it’s about time you start doing something else. The greatest photos are the ones nobody else takes. By challenging yourself you’ll learn a lot more than by staying in your comfort zone. Don’t be afraid of failure because you will fail anyway. I need to take a hundred pictures before I get one good one. It is a natural (and *vital*** **! ) part of the process.
+Everyone has photos of sunsets and cupcakes, so it’s about time you start doing something else. The greatest photos are the ones nobody else takes. By challenging yourself you’ll learn a lot more than by staying in your comfort zone. Don’t be afraid of failure because you will fail anyway. I need to take a hundred pictures before I get one good one. It is a natural (and vital ! ) part of the process.
 
 ![Unknown image description. Check context for details.](https://static.wixstatic.com/media/18093e_e03555ad39b045098c57030aed929036~mv2.jpg) <!-- Original name: hassuttelua.JPG -->
 *And if the photo doesn’t work as well as you thought, that’s okay! At least you tried - and probably had some fun!*
@@ -93,12 +93,12 @@ So, how to stand out in a world full of photographers? Create your own style, an
 
 ![Unknown image description. Check context for details.](https://static.wixstatic.com/media/18093e_48abd542ab2946c897e568bda1d7c2cb~mv2.jpeg) <!-- Original name: annu_maassa.jpeg -->
 ![Unknown image description. Check context for details.](https://static.wixstatic.com/media/18093e_e91bc6b3446746108c884d52d5c7cade~mv2.jpg) <!-- Original name: Milo_koira.JPG -->
-*What I looked like...	*			* ...and the results.*
+*What I looked like...				 ...and the results.*
 
 These two photos were taken at the same exact moment. Keep in mind that before you jump down to the ground, make sure you aren’t jumping to a pool of mud with your best clothes on - I’ve done that… more often than I’d like to admit. Luckily, in this particular situation, there was snow underneath.
 
 ---
 
-**Teksti: **Annukka Mäkeläinen
-**Kuvat: **Annukka Mäkeläinen
+**Teksti: Annukka Mäkeläinen**
+**Kuvat: Annukka Mäkeläinen**
 

@@ -7,7 +7,7 @@ isFeatured: true
 timeToRead: 3
 wixViewCount: 112
 created: "2021-08-26T13:29:51.660Z"
-published: "2021-08-25T21:00:00.000Z"
+published: "2021-08-26T17:09:29.008Z"
 modified: "2021-08-26T13:29:51.660Z"
 language: "en"
 layout: "../../layouts/BlogPost.astro"
@@ -32,7 +32,7 @@ You can plead and plead,
 It feels like it’s drowning thee,
 The pressure to get a degree,
 And even though you can’t foresee,
-Once done, the future will bring you much glee.&nbsp;
+Once done, the future will bring you much glee. 
 
 
 ![Unknown image description. Check context for details.](https://static.wixstatic.com/media/07242a_d5dbb9a076da491e982282eb7bff43af~mv2.png) <!-- Original name: runoprojekti_hilla_1.png -->
@@ -103,9 +103,9 @@ Will this be the real me?
 The one people will see?
 ****
 After this ends I won’t be the same
-The person people thought they knew&nbsp;
+The person people thought they knew 
 Has changed into something new
-Tried to find themselves&nbsp;
+Tried to find themselves 
 Within themselves
 Only time will tell if they succeed
 ****
@@ -135,7 +135,7 @@ eikä siihen osaan tyydytä,
 se otetaan vastaan avosieluin
 ****
 hiljaa hukun ihanuuteen
-kevään ensimmäinen päivä tapaa minut&nbsp;
+kevään ensimmäinen päivä tapaa minut 
 ja se on vasta ensimmäinen
 ja minä vasta unohtanut minkä jätin
 ja vasta muistanut mitä en koskaan löytänyt
@@ -204,7 +204,7 @@ By the time morning comes I’ll be gone, you see
 I saw the bird no more but you know they come and go
 In the autumn they fly away to the south
 And when the spring comes the birds come back
-They bring back the music to the woods&nbsp;
+They bring back the music to the woods 
 And I sang her
 
 Fly away, little bird, fly away from your cage
@@ -229,6 +229,6 @@ By the time morning comes I’ll be gone, you see
 ---
 
 ****
-**Teksti: **koonnut Hilla Lindroth
-**Kuvat: **Astrid Lehto
+**Teksti: koonnut Hilla Lindroth**
+**Kuvat: Astrid Lehto**
 

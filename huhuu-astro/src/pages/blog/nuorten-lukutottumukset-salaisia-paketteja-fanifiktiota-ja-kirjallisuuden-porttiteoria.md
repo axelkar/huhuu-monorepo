@@ -5,7 +5,7 @@ slug: "nuorten-lukutottumukset-salaisia-paketteja-fanifiktiota-ja-kirjallisuuden
 isPinned: false
 isFeatured: false
 timeToRead: 5
-wixViewCount: 220
+wixViewCount: 225
 created: "2021-11-17T18:26:25.509Z"
 published: "2021-11-18T15:27:20.936Z"
 modified: "2021-11-18T15:27:20.936Z"
@@ -39,7 +39,7 @@ Lyyra huomauttaa, että mitä enemmän luetaan lyhyempää ja epämuodollisempaa
 
 
 ![Unknown image description. Check context for details.](https://static.wixstatic.com/media/abd5f5_ccfe9e39a1c2475ba6f62a6b7167d409~mv2.jpg) <!-- Original name: nallepuh.JPG -->
-<span style="textAlignment:center;">*Lukeminen kannattaa aloittaa uudestaan helposta, hauskasta ja kevyestä kirjallisuudesta.*</span>
+*Lukeminen kannattaa aloittaa uudestaan helposta, hauskasta ja kevyestä kirjallisuudesta.*
 
 
 ### Salaiset kirjat ja koulujen merkitys
@@ -89,7 +89,7 @@ Myös tietokirjoja luetaan enemmän kuin aikaisemmin. Helsingin Kirjamessuilla 2
 
 ![Unknown image description. Check context for details.](https://static.wixstatic.com/media/abd5f5_5efc6c7453ad46b3b7a8d1891f73335f~mv2.png) <!-- Original name: genret.PNG -->
 
-<span style="textAlignment:center;">*Monet opiskelijat painottivat, että fanifiktio on yhtä lailla kirjallisuutta kuin esimerkiksi romaanit. Ne opiskelijat, jotka vastasivat lukevansa jotain vaihtoehtojen ulkopuolelta, kertoivat lukevansa esimerkiksi seuraavia tekstilajeja: sanomalehtiä, uutisia, foorumeita, aikakauslehtiä, muotilehtiä ja blogipostauksia.*</span>
+*Monet opiskelijat painottivat, että fanifiktio on yhtä lailla kirjallisuutta kuin esimerkiksi romaanit. Ne opiskelijat, jotka vastasivat lukevansa jotain vaihtoehtojen ulkopuolelta, kertoivat lukevansa esimerkiksi seuraavia tekstilajeja: sanomalehtiä, uutisia, foorumeita, aikakauslehtiä, muotilehtiä ja blogipostauksia.*
 &nbsp;
 
 ### Mitä äidinkielen opettajat haluaisivat sanoa opiskelijoille?
@@ -103,6 +103,6 @@ Myös tietokirjoja luetaan enemmän kuin aikaisemmin. Helsingin Kirjamessuilla 2
 ---
 
 
-**Teksti: **Annukka Mäkeläinen
-**Kuvat: **Annukka Mäkeläinen
+**Teksti: Annukka Mäkeläinen**
+**Kuvat: Annukka Mäkeläinen**
 

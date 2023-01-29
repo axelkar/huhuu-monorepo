@@ -5,9 +5,9 @@ slug: "tässä-ovat-uuden-opkh-n-puheenjohtaja-ja-jäsenehdokkaat"
 isPinned: false
 isFeatured: false
 timeToRead: 7
-wixViewCount: 1384
+wixViewCount: 1385
 created: "2021-03-01T18:47:32.945Z"
-published: "2021-03-02T07:00:14.663Z"
+published: "2021-03-02T08:00:16.880Z"
 modified: "2021-03-01T18:47:32.945Z"
 language: "en"
 layout: "../../layouts/BlogPost.astro"
@@ -20,7 +20,7 @@ layout: "../../layouts/BlogPost.astro"
 
 ### Puheenjohtajaehdokkaat
 ### 
-OPKH edustaa kaikkia opiskelijoita ja hallituksen puheenjohtajan vastuulla on hallituksen toimiminen.&nbsp;
+OPKH edustaa kaikkia opiskelijoita ja hallituksen puheenjohtajan vastuulla on hallituksen toimiminen. 
 
 ### Adam Yousfi, 19c
 ![Unknown image description. Check context for details.](https://static.wixstatic.com/media/18093e_0d948869e1a94f3c93df48857aad3999~mv2.png)
@@ -31,13 +31,13 @@ OPKH edustaa kaikkia opiskelijoita ja hallituksen puheenjohtajan vastuulla on ha
 Puheenjohtajana huomioisin sekä muiden hallitusten jäsenten näkökulmat että opiskelijoilta tulevan palautteen. Olen toiminut sihteerinä edellisessä hallituksessa, joten minulla on kokemusta hallituksen toimista. Ohjaisin kokouksia keskustelevasti muut huomioon ottaen. Päätöksiä tulee kuitenkin saada hallituksessa aikaiseksi, sillä ymmärrettävää on, ettei kaikesta voida järjestää kyselyitä.
 &nbsp;
 **Mihin mielestäsi OPKH:n varoja pitäisi käyttää?**
-KSYK-Brändö -tapahtuma on ollut kummankin koulun OPKH:n kaavailema yhteishengen luomiseksi tarkoitettu kilpailullinen tapahtuma. Idea on saanut kannatusta laajalti, mutta korona on väliaikaisesti siirtänyt ajankohtaa. Tapahtuma voidaan toivottavasti järjestää uuden hallituksen aikana.&nbsp;
+KSYK-Brändö -tapahtuma on ollut kummankin koulun OPKH:n kaavailema yhteishengen luomiseksi tarkoitettu kilpailullinen tapahtuma. Idea on saanut kannatusta laajalti, mutta korona on väliaikaisesti siirtänyt ajankohtaa. Tapahtuma voidaan toivottavasti järjestää uuden hallituksen aikana. 
 &nbsp;
-OPKH on osallistunut mm. Beach Partyn, Spook Walkin, joulujuhlan, puurojuhlan, penkkareiden ja abitapahtumien sekä kirjakirppiksen järjestämiseen. Mikäli minut valitaan puheenjohtajaksi, aion vaalia näitä perinteitä.&nbsp;
+OPKH on osallistunut mm. Beach Partyn, Spook Walkin, joulujuhlan, puurojuhlan, penkkareiden ja abitapahtumien sekä kirjakirppiksen järjestämiseen. Mikäli minut valitaan puheenjohtajaksi, aion vaalia näitä perinteitä. 
 &nbsp;
-OPKH:n 4000€ ylijäämäkassasta jäisi vielä yli 1000€ liikkumavaraa, jotka siirtäisin lisäämään hyvinvointia opiskelijoilta ilmaantuvia ideoita rahoittamaan hallituksen niitä kannattaessa. Arvioidut tulot ovat noin 2700€ ja vähintään tämä summa siirtyisi hallitukselle 2022-23.&nbsp;
+OPKH:n 4000€ ylijäämäkassasta jäisi vielä yli 1000€ liikkumavaraa, jotka siirtäisin lisäämään hyvinvointia opiskelijoilta ilmaantuvia ideoita rahoittamaan hallituksen niitä kannattaessa. Arvioidut tulot ovat noin 2700€ ja vähintään tämä summa siirtyisi hallitukselle 2022-23. 
 &nbsp;
-**Miten parantaisit kouluamme?**&nbsp;
+**Miten parantaisit kouluamme?**
 Puuttumalla opiskelijoiden esittämiin huoliin sekä toteuttamalla vastuullista ja läpikotaisin harkittua opiskelijoiden hyvinvointiin keskittyvää ohjelmaa budjetin ja koulumme perinteiden puitteissa.
 
 **Mitä et missään nimessä muuttaisi koulussamme?**
@@ -69,10 +69,10 @@ Jussi hakee myös varapuheenjohtajaksi, jos häntä ei valita puheenjohtajaksi.
 
 ### &nbsp;Emma Lampen-Smith, 19d
 ![Unknown image description. Check context for details.](https://static.wixstatic.com/media/18093e_d60f7293fac24bc2a0329ed1d08d2353~mv2.jpg)
-“Olen erittäin ahkera ja aikaansaava henkilö. Aloitettuani projektin olen varma siitä, että vien sen loppuun asti. Minulla on myös runsaasti kokemusta, sillä olen ollut yläasteella kahtena vuotena oppilaskunnan jäsenenä ja vuoden puheenjohtajana. Olen ollut myös lukiossa opiskelijakunnassa jäsenenä. Sen lisäksi olen ollut mukana järjestämässä kaikkea kivaa opiskelijoille. Otan avoimesti vastaan muiden mielipiteitä, ehdotuksia ja keskustelen mielelläni mahdollisimman monille sopivasta ratkaisusta.”&nbsp;
+“Olen erittäin ahkera ja aikaansaava henkilö. Aloitettuani projektin olen varma siitä, että vien sen loppuun asti. Minulla on myös runsaasti kokemusta, sillä olen ollut yläasteella kahtena vuotena oppilaskunnan jäsenenä ja vuoden puheenjohtajana. Olen ollut myös lukiossa opiskelijakunnassa jäsenenä. Sen lisäksi olen ollut mukana järjestämässä kaikkea kivaa opiskelijoille. Otan avoimesti vastaan muiden mielipiteitä, ehdotuksia ja keskustelen mielelläni mahdollisimman monille sopivasta ratkaisusta.” 
 
 **Minkälainen olisit puheenjohtajana?**
-Puheenjohtajana ottaisin huomioon mahdollisimman monet mielipiteet ja ehdotukset, ja toisin nämä keskusteltaviksi oleellisiin kokouksiin. Ajaisin opiskelijoiden etua parhaan kykyni mukaan ja yrittäisin tehdä asioita, jotka parantaisivat opiskelijoiden oloa etenkin etäkoulun aikana.&nbsp;
+Puheenjohtajana ottaisin huomioon mahdollisimman monet mielipiteet ja ehdotukset, ja toisin nämä keskusteltaviksi oleellisiin kokouksiin. Ajaisin opiskelijoiden etua parhaan kykyni mukaan ja yrittäisin tehdä asioita, jotka parantaisivat opiskelijoiden oloa etenkin etäkoulun aikana. 
 
 **Mihin mielestäsi OPKH:n varoja pitäisi käyttää?**
 OPKH:n varat pitäisi ensisijaisesti käyttää opiskelijoiden hyödyksi esimerkiksi eri tapahtumiin, kuten Night Schooliin tai penkkareihin. Varoja voidaan myös käyttää täysin uusiin tapahtumiin tulevan kauden aikana.
@@ -84,9 +84,9 @@ Haluaisin parantaa koulumme yhteishenkeä esimerkiksi uusien yhteisten tapahtumi
 Mielestäni koulussamme on paljon parannettavaa, mutta asia jota en muuttaisi on perinnetapahtumat, jotka ovat aina hauskoja ja parantavat yhteishenkeä.
 
 **Minkälaiset asiat sinua kiinnostavat eniten OPKH:n toiminnassa?**
-OPKH:n toiminnassa minua kiinnostaa eniten kyky vaikuttaa opiskeluympäristöömme sekä mahdollisuus järjestää opiskelijoille mieluisia tapahtumia. Haluan myös päästä viemään opiskelijoiden mielipiteitä ja toiveita eteenpäin käsiteltäviksi.&nbsp;
+OPKH:n toiminnassa minua kiinnostaa eniten kyky vaikuttaa opiskeluympäristöömme sekä mahdollisuus järjestää opiskelijoille mieluisia tapahtumia. Haluan myös päästä viemään opiskelijoiden mielipiteitä ja toiveita eteenpäin käsiteltäviksi. 
 
-Emma hakee myös varapuheenjohtajaksi, jos häntä ei valita puheenjohtajaksi.&nbsp;
+Emma hakee myös varapuheenjohtajaksi, jos häntä ei valita puheenjohtajaksi. 
 
 ### Noa Lindqvist, 20b
 ![Unknown image description. Check context for details.](https://static.wixstatic.com/media/18093e_6523a104ad274efeaa343aae09b1e0e3~mv2.png)
@@ -98,7 +98,7 @@ Haen puheenjohtajaksi, jotta saisin vaikutettua koulumme yhteisöön positiivise
 Olisin puheenjohtajana reilu, avoin ja helposti lähestyttävä. Opiskelijoiden laajempi osallistaminen tulisi ottaa käyttöön ensi hallituskaudella tehden esimerkiksi erilaisia kyselyjä, joissa kysytään opiskelijoiden mielipiteitä muun muassa koulussa tehtävistä tilamuutoksista. Olemmehan kuitenkin parhaita kokemusasiantuntijoita, mitä tulee koulussa opiskelemiseen ja olemiseen!
 
 **Mihin mielestäsi OPKH:n varoja pitäisi käyttää?**
-Lähtisin käyttämään rahaa erilaisten tapahtumien kehittämiseen. OPKH:n budjetin pitkään jatkunut ylijäämäisyys tulisi katkaista ja ottaa rahat käyttöön opiskelijoiden iloksi.&nbsp;
+Lähtisin käyttämään rahaa erilaisten tapahtumien kehittämiseen. OPKH:n budjetin pitkään jatkunut ylijäämäisyys tulisi katkaista ja ottaa rahat käyttöön opiskelijoiden iloksi. 
 
 **Miten parantaisit kouluamme?**
 Hiljaiseen opiskeluun tarkoitettujen tilojen luominen ja oleskelutilojen kehittäminen entistä toimivampaan ja käytännöllisempään suuntaan. Nykyisissä tiloissa on vaikea keskittyä välituntien aikana. Luokkiin tulee lisätä pistorasioita, joita on valitettavan vähän ja epäkäytännöllisissä paikoissa. Lisäksi parantaisin valaistusta koulussamme.
@@ -149,17 +149,17 @@ Mielestäni ei missään nimessä saisi koskea musiikkiluokkaan, nykyiseen tieto
 **Minkälaiset asiat sinua kiinnostavat eniten OPKH:n toiminnassa?**
 OPKH:ssa minua eniten kiinnostaa vuorovaikutus muiden jäsenten kanssa, ja mahdollisuus vaikuttaa opiskeluympäristöön ja tuomaan niin oman kuin muiden opiskelijoiden äänen esille kokouksissa.
 
-Puheenjohtajan rooliin hakevat saattavat olla myös ehdolla varapuheenjohtajiksi tai rivijäseniksi. Esimerkiksi Ivanin lisäksi Jussi ja Emma saattavat hakea varapuheenjohtajiksi riippuen siitä, kuka valitaan puheenjohtajaksi. Emmi sekä Ivan hakevat myös rivijäseniksi. Yleiskokouksessa valitaan ensin uusi puheenjohtaja, sitten varapuheenjohtaja ja vasta lopuksi rivijäsenet. Täten ehdokasasetelmat saattavat muuttua. Lisäksi yleiskokouksessa saattaa esiintyä spontaanejakin ehdokkaita, joita tässä esittelyssä ei ole mainittu.&nbsp;
+Puheenjohtajan rooliin hakevat saattavat olla myös ehdolla varapuheenjohtajiksi tai rivijäseniksi. Esimerkiksi Ivanin lisäksi Jussi ja Emma saattavat hakea varapuheenjohtajiksi riippuen siitä, kuka valitaan puheenjohtajaksi. Emmi sekä Ivan hakevat myös rivijäseniksi. Yleiskokouksessa valitaan ensin uusi puheenjohtaja, sitten varapuheenjohtaja ja vasta lopuksi rivijäsenet. Täten ehdokasasetelmat saattavat muuttua. Lisäksi yleiskokouksessa saattaa esiintyä spontaanejakin ehdokkaita, joita tässä esittelyssä ei ole mainittu. 
 
 ### Rivijäsenehdokkaat
 ### 
-OPKH:n jäsenet ovat vastuussa esimerkiksi hallituksen järjestämistä tapahtumista ja he pitävät huolen siitä, että kaikki opiskelijat ovat edustettuina.&nbsp;
+OPKH:n jäsenet ovat vastuussa esimerkiksi hallituksen järjestämistä tapahtumista ja he pitävät huolen siitä, että kaikki opiskelijat ovat edustettuina. 
 
 ### Annika Lappalainen, 20c
 ![Unknown image description. Check context for details.](https://static.wixstatic.com/media/07242a_6fd12d3ecb144745aa247a29d706e214~mv2.jpg) <!-- Original name: 18093e_ae89e041fb59483f984d9f5e2439a368~mv2.jpeg -->
 “rento, aurinkoinen ja empaattinen”
 
-**OPKH:n jäsenenä olisin: **aikaansaava
+**OPKH:n jäsenenä olisin: aikaansaava**
 
 **Miksi haet OPKH:n?**
 Haen OPKH:n, koska haluun päästä ajamaan meidän opiskelijoiden asioita ja järjestämään kaikennäkösiä kivoja tapahtumia. Haluun, että kaikkien ksykkiläisten ääni saa kuulua ja opiskelijoista tuntuu siltä, että heidän mielipiteitä otetaan huomioon. Tavoitteena on tehä ksykistä mahollisimman kiva paikka kaikille opiskelijoille :-)
@@ -168,10 +168,10 @@ Haen OPKH:n, koska haluun päästä ajamaan meidän opiskelijoiden asioita ja j�
 ![Unknown image description. Check context for details.](https://static.wixstatic.com/media/18093e_3039ea503d6f4019afb01a3434c59608~mv2.jpg)
 “tekemiseen valmis ideoija”
 
-**OPKH:n jäsenenä olisin: **cool
+**OPKH:n jäsenenä olisin: cool**
 
 **Miksi haet OPKH:n?**
-Opiskelijakunnan hallituksessa päätetään opiskelijoiden asioista, ja minä rakastan opiskelijoita! Haluan, että kaikilla on mahdollisimman kivaa. Minulla on avoimuutta, keskustelukykyä, luovuutta, ja intoa tekemiseen, joista OPKH varmasti hyötyy.&nbsp;
+Opiskelijakunnan hallituksessa päätetään opiskelijoiden asioista, ja minä rakastan opiskelijoita! Haluan, että kaikilla on mahdollisimman kivaa. Minulla on avoimuutta, keskustelukykyä, luovuutta, ja intoa tekemiseen, joista OPKH varmasti hyötyy. 
 
 Olin rivijäsenenä myös viime kauden hallituksessa, jolloin tein esimerkiksi keväällä levinneen KSYK-bingon, nyt talvella alkaneen Hiihtohaasteen, sekä olin mukana suunnittelemassa valitettavasti peruttua KSYK vs. Brändö -urheiluturnausta. Olin viime kaudella aktiivisesti mukana joka kokouksessa, sekä yhdessä lautakunnan kokouksessa, joten minulla on kokemusta OPKH:n toiminnasta. Mikäli pääsen OPKH:n tällekin kaudelle, sitoudun yhtäläiseen, ellen parempaankin, aktiivisuuteen!
 
@@ -179,7 +179,7 @@ Olin rivijäsenenä myös viime kauden hallituksessa, jolloin tein esimerkiksi k
 ![Unknown image description. Check context for details.](https://static.wixstatic.com/media/18093e_24378b2b198140c78c6b54600243b262~mv2.jpg)
 “hyväsydäminen, taiteellinen ja ennakkoluuloton”
 
-**OPKH:n jäsenenä olisin: **aktiivinen
+**OPKH:n jäsenenä olisin: aktiivinen**
 
 **Miksi haet OPKH:n?**
 Haen OPKH:n, koska haluan vaikuttaa. Kävin yläasteen tässä koulussa ja olin mukana oppilaskunnan hallituksessa jokaisena kolmena vuotena, yhdeksännellä toimin puheenjohtajana, joten homma on tuttua ja mieluisaa. Haluaisin päästä jatkamaan toimintaa, koska koen saavani ja antavani siinä paljon.
@@ -188,16 +188,16 @@ Haen OPKH:n, koska haluan vaikuttaa. Kävin yläasteen tässä koulussa ja olin 
 ![Unknown image description. Check context for details.](https://static.wixstatic.com/media/18093e_2976ee8820d14be794dae2d5fa619134~mv2.jpeg)
 “Olen aurinkoinen, rohkea ja päättäväinen.”
 
-**OPKH:n jäsenenä olisin:** aikaansaava
+**OPKH:n jäsenenä olisin: aikaansaava**
 
 **Miksi haet OPKH:n?**
-Haen OPKH:n, sillä haluan olla mukana vaikuttamassa ja tekemässä päätöksiä, jotta Ksyk olisi meille opiskelijoille paras mahdollinen paikka.&nbsp;
+Haen OPKH:n, sillä haluan olla mukana vaikuttamassa ja tekemässä päätöksiä, jotta Ksyk olisi meille opiskelijoille paras mahdollinen paikka. 
 
 ### Reino Pohjakallio, 20e
 ![Unknown image description. Check context for details.](https://static.wixstatic.com/media/07242a_91a3c29acc514fda92a786ee75b3e974~mv2.jpg) <!-- Original name: 18093e_dfc3d5f6019a4a07ae2d42a9de5a7d35~mv2.jpg -->
 “keskusteleva, omistautunut, yhteistyökykyinen”
 
-**OPKH:n jäsenenä olisin:** motivoitunut
+**OPKH:n jäsenenä olisin: motivoitunut**
 
 **Miksi haet OPKH:n?**
 Haen OPKH:n koska haluan tutustua sen toimintaan ja olla avuksi sen toiminnassa.
@@ -206,22 +206,22 @@ Haen OPKH:n koska haluan tutustua sen toimintaan ja olla avuksi sen toiminnassa.
 ![Unknown image description. Check context for details.](https://static.wixstatic.com/media/18093e_464768e3f38c49a3bc48d55816347750~mv2.jpg)
 “Luova, valmiina hommiiin!”
 
-**OPKH:n jäsenenä olisin:** aktiivinen
+**OPKH:n jäsenenä olisin: aktiivinen**
 
 **Miksi haet OPKH:n?**
 Haen OPKH:n sillä olen ollut jo aktiivisesti mukana Ksyk-merchin kehittämisessä ja haluan olla mukana auttamassa sen valmiiksi saamista mahdollisimman pikaisesti. Haluan olla myös mukana ideoimassa, miten voisi tehdä näistä hankalista etäilyajoista mahdollisimman hyviä opiskelijoille.
 
-### Aatos Ämmälahti, 20b&nbsp;
+### Aatos Ämmälahti, 20b 
 ![Unknown image description. Check context for details.](https://static.wixstatic.com/media/18093e_71e9056eff46406db8d5a9232d81737a~mv2.jpeg)
 “Puhun joskus liikaakin”
 
-**OPKH:n jäsenenä olisin:** lähestyttävä
+**OPKH:n jäsenenä olisin: lähestyttävä**
 
 **Miksi haet OPKH:n?**
-Haen OPKH koska haluan tehdä koulusta paremman ja viihtyisämmän paikan kaikille, enkä hae vain CV-merkintää. Olin oppilaskunnassa myös Helsingin Saksalaisessa koulussa yläasteen ajan ja koulujen välinen yhteistyö on tuttua jo sieltä. Olin mukana muun muassa historian yhteistyöprojektissa Helsingin juutalaisen koulun kanssa ensimmäistä kertaa koulujen historiassa.&nbsp;
+Haen OPKH koska haluan tehdä koulusta paremman ja viihtyisämmän paikan kaikille, enkä hae vain CV-merkintää. Olin oppilaskunnassa myös Helsingin Saksalaisessa koulussa yläasteen ajan ja koulujen välinen yhteistyö on tuttua jo sieltä. Olin mukana muun muassa historian yhteistyöprojektissa Helsingin juutalaisen koulun kanssa ensimmäistä kertaa koulujen historiassa. 
 
 Yleiskokouksessa tavataan!
 ---
-**Teksti: **Yasmin Goran, ehdokkaiden omat vastaukset
-**Kuvat: **Iiris Tattari, ehdokkaiden omat kuvat
+**Teksti: Yasmin Goran, ehdokkaiden omat vastaukset**
+**Kuvat: Iiris Tattari, ehdokkaiden omat kuvat**
 

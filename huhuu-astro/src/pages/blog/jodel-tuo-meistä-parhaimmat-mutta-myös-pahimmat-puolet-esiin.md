@@ -5,7 +5,7 @@ slug: "jodel-tuo-meistä-parhaimmat-mutta-myös-pahimmat-puolet-esiin"
 isPinned: false
 isFeatured: false
 timeToRead: 3
-wixViewCount: 664
+wixViewCount: 689
 created: "2020-10-18T20:41:44.785Z"
 published: "2020-10-19T20:58:16.813Z"
 modified: "2020-10-18T20:41:44.785Z"
@@ -28,7 +28,7 @@ Syksyllä Jodelissa on riemuittu esimerkiksi netin toimimisesta ja järjestetty 
 Keittopäivän paikasta ruokalistoilla kiisteltiin Jodelissa.
 
 ![Unknown image description. Check context for details.](https://static.wixstatic.com/media/9b43b3_554049b2f998479899030964f0d32435~mv2.jpg)
-Jodel on ensisijainen alusta valittamiselle, usein valituksen aiheita ovat melu ja reiviirien, etenkin abien reviirin, ylity*s.*
+Jodel on ensisijainen alusta valittamiselle, usein valituksen aiheita ovat melu ja reiviirien, etenkin abien reviirin, ylitys.
 
 **Jodelin anonyymiys tekee Jodelista niin ainutlaatuisen kuin se onkin. Jodelissa ihmiset pystyvät olemaan esteettä omia itsejään ja sanoa suoraan sanottavat asiat tai vaikka viihdyttää hauskoilla heitoilla ilman sosiaalisia paineita. Anonyymiys tuo Jodelille sen suosion, sillä tunnustusten ja mielipiteiden ilmaisuun rohkenee helpommin, jos kommentti ei ole yhdistettävissä omaan naamaan. Vaikka ihmisten on helppo tokaista ilkeitä kommentteja jodlauksissaan, anonyymiys antaa Jodelissa mahdollisuuden myös monille positiivisille asioille.**
 

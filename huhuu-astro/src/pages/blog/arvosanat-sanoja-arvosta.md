@@ -5,9 +5,9 @@ slug: "arvosanat-sanoja-arvosta"
 isPinned: false
 isFeatured: false
 timeToRead: 6
-wixViewCount: 479
+wixViewCount: 484
 created: "2020-10-17T15:13:34.470Z"
-published: "2020-10-17T15:19:52.392Z"
+published: "2020-10-19T09:15:28.086Z"
 modified: "2020-10-17T15:13:34.470Z"
 language: "en"
 layout: "../../layouts/BlogPost.astro"

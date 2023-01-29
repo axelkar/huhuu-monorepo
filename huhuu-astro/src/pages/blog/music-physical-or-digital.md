@@ -5,7 +5,7 @@ slug: "music-physical-or-digital"
 isPinned: false
 isFeatured: false
 timeToRead: 3
-wixViewCount: 337
+wixViewCount: 346
 created: "2021-10-28T13:23:18.378Z"
 published: "2021-11-04T08:08:53.550Z"
 modified: "2021-11-04T08:08:53.550Z"
@@ -14,7 +14,7 @@ layout: "../../layouts/BlogPost.astro"
 ---
 \s\s
 \s\s
-*Music can be listened to on anything these days. Mostly digitally. It wasn't always like this though. *
+Music can be listened to on anything these days. Mostly digitally. It wasn't always like this though. 
 
 ---
 
@@ -38,14 +38,14 @@ It looks really nice! Vinyl records have had a rise in popularity in the last te
 Another one of these supposed alternative ways of listening to music is on an old game console released in 1989 called the game boy. A musician based in Hamburg called Remute released a 15 song album for the game boy that’s called Living Electronics. It’s quite special since no one else has done that before. It was just a regular game cartridge where he released the album so the game card wasn’t adjusted from the inside in any way. What's the next obscure music idea going to be? There's so many possibilities. In the future people are going to come up with way more creative ways to listen to music and it's going to be so much crazier.
 
 ![Unknown image description. Check context for details.](https://static.wixstatic.com/media/abd5f5_099dabd0fbdb4815b6af2f22dd83f74e~mv2.jpg) <!-- Original name: kuva 4.jpg -->
-<span style="textAlignment:center;">*Image from NME*</span>
-<span style="textAlignment:left;">\s\s
+*Image from NME*
+\s\s
 So, what’s the answer to this article's question? It’s digital. Digital music is better compared to physical because it’s more portable and also much cheaper. Vinyl records are something you can mostly play at home, but CDs are slightly portable. But if you do want to make your vinyl portable then be prepared for it to look like an origami. In the current year we use just streaming services to listen to music, but maybe in the future there will be a brand new way of doing it. We’ll see.\s\s
-</span>
+
 ---
 \s\s
-**Text:** Nooa Tanskanen\s\s
-**Images:** Viola Murtomaa\s\s
+Text: Nooa Tanskanen\s\s
+Images: Viola Murtomaa\s\s
 \s\s
 \s\s
 \s\s

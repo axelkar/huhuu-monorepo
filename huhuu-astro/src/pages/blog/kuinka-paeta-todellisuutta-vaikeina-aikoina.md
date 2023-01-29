@@ -5,7 +5,7 @@ slug: "kuinka-paeta-todellisuutta-vaikeina-aikoina"
 isPinned: false
 isFeatured: false
 timeToRead: 2
-wixViewCount: 133
+wixViewCount: 136
 created: "2022-03-24T12:52:38.164Z"
 published: "2022-03-24T12:55:15.583Z"
 modified: "2022-03-24T12:55:15.583Z"
@@ -26,7 +26,7 @@ Erilaiset kehon ja mielen aktiviteetit, kuten jooga, pilates ja tanssiminen ynn�
 
 Myös lukeminen on todella hyvä vaihtoehto. Kun ottaa mukavan asennon vaikka kesäpäivänä mökin terassille ja lukee jotakin kivaa kirjaa, aika menee ohi nopeasti, kun sukeltaa mielikuvitusmaailmaan, jossa mitä tahansa voi tapahtua. Kirjalla ei sinänsä ole väliä, kunhan siitä nauttii! Laita vain musiikkia soimaan kuulokkeista ja anna palaa! 10/10
 
-Monia muita asioita myös mainittiin, kuten esimerkiksi itkeminen, salilla käyminen, maalaaminen, eri sosiaaliset mediat, nukkuminen, pyörällä ajo, parkour ja ajattelu, kuinka millään ei ole väliä.&nbsp;
+Monia muita asioita myös mainittiin, kuten esimerkiksi itkeminen, salilla käyminen, maalaaminen, eri sosiaaliset mediat, nukkuminen, pyörällä ajo, parkour ja ajattelu, kuinka millään ei ole väliä. 
 
 Oikeasti sillä ei ole niin paljoa väliä miten sen teet, kunhan vain teet jotain joka auttaa ja rentouttaa. Muista kuitenkin että todellisuuden kieltäminen ei ole millään tavalla kannattavaa ja voi johtaa ongelmiin. Sekin kannattaa muistaa että ulkopuoliset paineet ovat ulkopuolisia, eikä niillä oikeastaan ole niin paljoa väliä kun välillä voi tuntua. Pitäkää huolta ja olkaa armollisia itsellenne, olette kaikki sen arvoisia. &lt;3
 

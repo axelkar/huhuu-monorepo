@@ -5,9 +5,9 @@ slug: "mitä-ksyk-tekee-kesällä"
 isPinned: false
 isFeatured: false
 timeToRead: 2
-wixViewCount: 421
+wixViewCount: 423
 created: "2022-06-02T19:58:26.486Z"
-published: "2022-06-02T20:52:48.104Z"
+published: "2022-06-02T20:54:28.627Z"
 modified: "2022-06-02T20:54:28.627Z"
 language: "en"
 layout: "../../layouts/BlogPost.astro"
@@ -30,7 +30,7 @@ William suunnittelee vielä kesää. Hän aikoo opiskella englantia sekä lukea 
 ![Unknown image description. Check context for details.](https://static.wixstatic.com/media/18093e_8f5c9a6a68a94c6e884a3ce83d0bc9bc~mv2.jpeg) <!-- Original name: kesäspessu3-otto.jpeg -->
 *Otto 21A*
 
-Otolla on kaikenlaisia suunnitelmia. Kesän alussa hänellä on vaihto Saksaan. Hän aikoo myös käydä sukulaisten luona maalla. Hän aikoo käydä mm. pesisleirillä ja nähdä kavereita sekä nauttia kesästä. Otto toivoo, että kesä on lämmin, mutta ei liian lämmin.&nbsp;
+Otolla on kaikenlaisia suunnitelmia. Kesän alussa hänellä on vaihto Saksaan. Hän aikoo myös käydä sukulaisten luona maalla. Hän aikoo käydä mm. pesisleirillä ja nähdä kavereita sekä nauttia kesästä. Otto toivoo, että kesä on lämmin, mutta ei liian lämmin. 
 
 ![Unknown image description. Check context for details.](https://static.wixstatic.com/media/18093e_3ffc74bd9ea246c4b755601e588df29b~mv2.jpeg) <!-- Original name: kesäspessu4-lauri.jpeg -->
 *Lauri 21C*

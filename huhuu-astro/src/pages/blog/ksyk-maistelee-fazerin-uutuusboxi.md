@@ -5,7 +5,7 @@ slug: "ksyk-maistelee-fazerin-uutuusboxi"
 isPinned: false
 isFeatured: false
 timeToRead: 2
-wixViewCount: 138
+wixViewCount: 140
 created: "2021-11-17T17:04:43.517Z"
 published: "2021-11-18T15:26:24.851Z"
 modified: "2021-11-18T15:26:24.851Z"
@@ -25,12 +25,12 @@ layout: "../../layouts/BlogPost.astro"
 
 Ihmiset pitivät islantikekseistä aika paljonkin. Erään henkilön mielestä keksi oli liian makea, kun taas Erika Perttuli-Borobion mielestä islantikeksi oli paras asia koko boksissa. Minun mielestäni islantikeksit olivat paljon parempia kuin paketin toinen uutuus, Geishakeksit.
 
-Keskiarvo on kouluarvosanana 8, eli “hyvä”.&nbsp;
+Keskiarvo on kouluarvosanana 8, eli “hyvä”. 
 
 
 ### Geishakeksit
 
-Geishakeksit ovat hyvin tykättyjä maistelun perusteella. Anonyymin henkilön mielestä keksit olivat liian makeita. Omasta mielestäni ne ovat aika mauttomia.&nbsp;
+Geishakeksit ovat hyvin tykättyjä maistelun perusteella. Anonyymin henkilön mielestä keksit olivat liian makeita. Omasta mielestäni ne ovat aika mauttomia. 
 
 Keskiarvo on kouluarvosana 9, eli “kiitettävä”.
 
@@ -44,7 +44,7 @@ Keskiarvo on kouluarvosana 8, eli “hyvä”.
 
 ### Laku-remixpussi
 
-Tämä karkkipussi oli mielipiteitä jakava. Lakuja maisteltiin eniten kaikista tuotteista.  Suurimman osan mielestä lakut olivat aivan kamalan makuisia. Eräs maistaja vastasi, että lakun syönti tuntui samalta kuin muovin syönti. Mielestäni tämä oli uutuksien huonoin karkki. Yleinen mielipide oli että **ÄLÄ OSTA.**
+Tämä karkkipussi oli mielipiteitä jakava. Lakuja maisteltiin eniten kaikista tuotteista.  Suurimman osan mielestä lakut olivat aivan kamalan makuisia. Eräs maistaja vastasi, että lakun syönti tuntui samalta kuin muovin syönti. Mielestäni tämä oli uutuksien huonoin karkki. Yleinen mielipide oli että ÄLÄ OSTA.
 
 Keskiarvo oli kouluarvosana 7, eli “tyydyttävä”.
 
@@ -53,14 +53,14 @@ Keskiarvo oli kouluarvosana 7, eli “tyydyttävä”.
 
 “Luulin että tämä on pehmeää”, sanoi yksi henkilö maistaessaan suklaaturkinpippuria. Ihmiset pitivät suklaaturkinpippureista, vaikka kyseinen karkki olikin hyvin tulinen. Karkki sai negatiivista palautetta siitä, että se oli kovaa ja vaikeasti syötävää.
 
-Keskiarvo oli kouluarvosana 8, eli “hyvä”.&nbsp;
+Keskiarvo oli kouluarvosana 8, eli “hyvä”. 
 
 
 ![Unknown image description. Check context for details.](https://static.wixstatic.com/media/abd5f5_379fb32500a54b0da57d58d9fe89d720~mv2.jpeg) <!-- Original name: kuva2.jpeg -->
 
 ### Sitruunajugurttisuklaa
 
-“Makeaa”, sanoi yksi henkilö maistaessaan kyseistä suklaata. Minunkin mielestä suklaa on liian makeaa enkä pitänyt siitä. Ei ollut yhtään sitruunaista. En suosittele itse, mutta muut pitivät.&nbsp;
+“Makeaa”, sanoi yksi henkilö maistaessaan kyseistä suklaata. Minunkin mielestä suklaa on liian makeaa enkä pitänyt siitä. Ei ollut yhtään sitruunaista. En suosittele itse, mutta muut pitivät. 
 
 Keskiarvo oli kouluarvosana 8, eli “hyvä”.
 
@@ -82,9 +82,9 @@ Idea syntyi, kun Huhuun toimitus brainstormasi juttuideoita ja maisteluidea sai 
 
 ---
 
-**Teksti:** Albert Heinonen
-**Kuvitus:** Viola Murtomaa
-**Kuvat:** Ilmari Marjamäki ja Erika Perttuli-Borobio
+**Teksti: Albert Heinonen**
+**Kuvitus: Viola Murtomaa**
+**Kuvat: Ilmari Marjamäki ja Erika Perttuli-Borobio**
 
 
 

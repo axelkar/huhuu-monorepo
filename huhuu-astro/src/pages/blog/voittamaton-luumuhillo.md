@@ -20,7 +20,7 @@ layout: "../../layouts/BlogPost.astro"
 
 Perinteisten joulutorttujen sijasta leivoimme makutestiin minijoulutorttuja, joiden resepti löytyy jutun lopusta. Makunsa puolesta minijoulutortut eivät eronneet lainkaan perinteisistä joulutortuista, vaan olivat aivan yhtä makeita. Pelkän maun lisäksi kuitenkin myös luumuhillon nostalgisuus täytyy ottaa huomioon tulosten tulkinnassa. Varsinkin pienenä luumuhillolla täytetyt joulutortut kulkivat mukana koko joulun odotuksen aina jouluiltaan saakka. Luumuhillossa on kieltämättä jotain korvaamatonta. Erään vastaajan mielestä niinkin paljon, että: “Jos joku muu vastaa muuta kuin luumuhilloa niin sillä ei ole kaikki OK”. Tästä voidaan olla montaa mieltä, mutta makutesti on joka tapauksessa läpäisty kirkkaasti, osittain aina yhtä toimivan maun ja varsinkin tunnearvon vuoksi.
 
-Kokeilunhaluisillekin löytyi uusia täyteideoita, kuten appelsiinituorejuustoa, marjahilloja ja dumblea. Suolaisen ystäville puolestaan tarjottiin maksalaatikkoa tai hapansilakkaa. Yli 18 vuotta täyttäneille suositeltiin omalla vastuulla Gambinaa sekä naapurin Jartsan metasotkuja.&nbsp;
+Kokeilunhaluisillekin löytyi uusia täyteideoita, kuten appelsiinituorejuustoa, marjahilloja ja dumblea. Suolaisen ystäville puolestaan tarjottiin maksalaatikkoa tai hapansilakkaa. Yli 18 vuotta täyttäneille suositeltiin omalla vastuulla Gambinaa sekä naapurin Jartsan metasotkuja. 
 
 ### **Resepti minijoulutorttuihin:**
 ### 
@@ -38,9 +38,9 @@ Kokeilunhaluisillekin löytyi uusia täyteideoita, kuten appelsiinituorejuustoa,
 
 - Sulata taikinalevyt leivinpaperin päällä. Leikkaa jokainen sulanut taikinalevy kahdeksi neliöksi, ja neliöt vielä edelleen neljäksi pienemmäksi neliöksi.
 
-- Tee viillot neliön kulmista kohti sen keskustaa. Kostuta sormenpäät vedessä, ja nosta joka toinen kulma neliön keskustaa vasten.&nbsp;
+- Tee viillot neliön kulmista kohti sen keskustaa. Kostuta sormenpäät vedessä, ja nosta joka toinen kulma neliön keskustaa vasten. 
 
-- Siirrä neliöt leivinpaperilla vuoratulle pellille ja lusikoi niiden keskustaan nokare luumuhilloa.&nbsp;
+- Siirrä neliöt leivinpaperilla vuoratulle pellille ja lusikoi niiden keskustaan nokare luumuhilloa. 
 
 - Paista 200-asteisessa uunissa noin 15 minuuttia.
 

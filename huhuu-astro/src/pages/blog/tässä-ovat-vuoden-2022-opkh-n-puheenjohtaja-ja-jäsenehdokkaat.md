@@ -5,9 +5,9 @@ slug: "tässä-ovat-vuoden-2022-opkh-n-puheenjohtaja-ja-jäsenehdokkaat"
 isPinned: false
 isFeatured: false
 timeToRead: 2
-wixViewCount: 658
+wixViewCount: 660
 created: "2022-02-28T16:21:29.177Z"
-published: "2022-02-28T16:57:41.550Z"
+published: "2022-02-28T17:08:53.900Z"
 modified: "2022-02-28T17:08:53.900Z"
 language: "en"
 layout: "../../layouts/BlogPost.astro"
@@ -30,10 +30,10 @@ layout: "../../layouts/BlogPost.astro"
 Puheenjohtajana olisin helposti lähestyttävä: toivon, että opiskelijat uskaltaisivat ottaa yhteyttä matalalla kynnyksellä mihin tahansa liittyen. Olen motivoitunut, ja tulisin hoitamaan tehtävät huolellisesti ja antaumuksella. Uskon, että luovuudestani ja idearikkaudestani olisi runsaasti hyötyä.
 
 **Mihin mielestäsi OPKH:n varoja pitäisi käyttää?**
-Opiskelijoiden hyvinvointia ja yhteishenkeä lisääviin hankintoihin sekä tapahtumiin. Jos kauden aikana halutaan tehdä suurempia hankintoja, niistä voidaan tehdä äänestys koko opiskelijakunnan kesken. OPKH:n jäsenten lisäksi on tietenkin tärkeää kuulla ehdotuksia opiskelijoilta. Näin kaikki pääsevät vaikuttamaan varojen käyttökohteisiin.&nbsp;
+Opiskelijoiden hyvinvointia ja yhteishenkeä lisääviin hankintoihin sekä tapahtumiin. Jos kauden aikana halutaan tehdä suurempia hankintoja, niistä voidaan tehdä äänestys koko opiskelijakunnan kesken. OPKH:n jäsenten lisäksi on tietenkin tärkeää kuulla ehdotuksia opiskelijoilta. Näin kaikki pääsevät vaikuttamaan varojen käyttökohteisiin. 
 
 **Miten parantaisit kouluamme?**
-Yhteishengessä sekä linjojen että vuosiluokkien välillä on parantamisen varaa, ja tähän OPKH voisi vaikuttaa muun muassa järjestämällä tapahtumia. Haluan myös, että opiskelijat voivat vaikuttaa koulumme asioihin entistä enemmän, joten vuorovaikutusta johdon, OPKH:n ja opiskelijoiden välillä tulisi lisätä. Mikäli laajennusten valmistuessa tulee vielä ilmi konkreettisia puutteita koulurakennuksessa, niihin tulee ottaa kantaa.&nbsp;
+Yhteishengessä sekä linjojen että vuosiluokkien välillä on parantamisen varaa, ja tähän OPKH voisi vaikuttaa muun muassa järjestämällä tapahtumia. Haluan myös, että opiskelijat voivat vaikuttaa koulumme asioihin entistä enemmän, joten vuorovaikutusta johdon, OPKH:n ja opiskelijoiden välillä tulisi lisätä. Mikäli laajennusten valmistuessa tulee vielä ilmi konkreettisia puutteita koulurakennuksessa, niihin tulee ottaa kantaa. 
 
 **Mitä et missään nimessä muuttaisi koulussamme?**
 Kunnianhimoisuutta ja perinnetapahtumia. Myös linjojen välinen leikkimielinen kilpailu on mielestäni osa KSYKin henkeä.
@@ -54,16 +54,16 @@ Haluan, että opiskelijat tietävät, mitä OPKH tekee ja että he pääsevät i
 Olisin ystävällinen ja helposti lähestyttävä. Tärkeää olisi, että opiskelijat voisivat ja uskaltaisivat tulla juttelemaan asioista, joita haluttaisiin nostaa esille. Olisin myös vastuullinen ja aikaansaava, jolloin asiat eivät jäisi roikkumaan.
 
 **Mihin mielestäsi OPKH:n varoja pitäisi käyttää?**
-Tässä tulee kuunnella opiskelijoita! Tietenkin perinteisesti rahaa tulee säästää muun muassa penkkareihin, mutta muuten esimerkiksi karkkien jakaminen ja tapahtumien rahoittaminen ovat hyviä kohteita.&nbsp;
+Tässä tulee kuunnella opiskelijoita! Tietenkin perinteisesti rahaa tulee säästää muun muassa penkkareihin, mutta muuten esimerkiksi karkkien jakaminen ja tapahtumien rahoittaminen ovat hyviä kohteita. 
 
 **Miten parantaisit kouluamme?**
-Ryhmähengen parantaminen olisi tärkeää! Opiskelijoiden ja koulun johdon välistä kommunikaatiota tulisi lisätä. Toivoisin myös, että koulumme akateemisen ilmapiirin vierelle nousisi rennompi ja luovempi ilmapiiri, jotta opiskelijoiden ei travitsisi ottaa kaikkea liian tosissaan ja turhaa stressiä saataisiin hillittyä.&nbsp;
+Ryhmähengen parantaminen olisi tärkeää! Opiskelijoiden ja koulun johdon välistä kommunikaatiota tulisi lisätä. Toivoisin myös, että koulumme akateemisen ilmapiirin vierelle nousisi rennompi ja luovempi ilmapiiri, jotta opiskelijoiden ei travitsisi ottaa kaikkea liian tosissaan ja turhaa stressiä saataisiin hillittyä. 
 
 **Mitä et missään nimessä muuttaisi koulussamme?**
-Koulullemme perinteisten tapahtumien ja muiden perinteiden säilyttäminen ja ylläpito on tärkeää.&nbsp;
+Koulullemme perinteisten tapahtumien ja muiden perinteiden säilyttäminen ja ylläpito on tärkeää. 
 
 **Minkälaiset asiat sinua kiinnostavat eniten OPKH:n toiminnassa?**
-Yhteisöllisyyden lisääminen vuorovaikutuksen avulla, epäkohtien esiintuominen ja niiden ratkaiseminen, sekä suurempien projektien ajaminen.&nbsp;
+Yhteisöllisyyden lisääminen vuorovaikutuksen avulla, epäkohtien esiintuominen ja niiden ratkaiseminen, sekä suurempien projektien ajaminen. 
 
 
 ### Rivijäsenehdokkaat
@@ -90,7 +90,7 @@ Sosiaalinen, ahkera, johtaja
 
 OPKH:n jäsenenä olisin: Vakuuttava
 
-Olen ollut oppilaskunnassa jo neljä vuotta ja vaikuttaminen kiinnostaa minua!&nbsp;
+Olen ollut oppilaskunnassa jo neljä vuotta ja vaikuttaminen kiinnostaa minua! 
 
 
 ### Reino Pohjakallio
@@ -141,6 +141,6 @@ Haen OPKH, koska haluan olla mukana tekemässä KSYK:istä paremman paikan kaiki
 
 ---
 
-**Teksti:** Yasmin Goran
+**Teksti: Yasmin Goran**
 
 

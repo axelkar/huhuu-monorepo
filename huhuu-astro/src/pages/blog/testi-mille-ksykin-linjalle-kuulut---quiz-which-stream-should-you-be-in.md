@@ -5,7 +5,7 @@ slug: "testi-mille-ksykin-linjalle-kuulut---quiz-which-stream-should-you-be-in"
 isPinned: false
 isFeatured: false
 timeToRead: 4
-wixViewCount: 907
+wixViewCount: 908
 created: "2021-03-04T16:45:15.990Z"
 published: "2021-03-04T18:00:07.160Z"
 modified: "2021-03-04T16:45:15.990Z"
@@ -34,7 +34,7 @@ d. hostellin yhteistilassa tutustumassa muihin matkailijoihin / in the community
 
 a. Joukon mukana menijä. Käytän neutraaleja, yleensä mustavalkoisia vaatteita / Mainstream. I wear neutral, mostly black and white clothes.
 
-b.  Smart casual. Pukeutumiseni on sopivan siistiä, että teen hyvän ensivaikutelman. / Smart Casual. My outfits are clean-cut so that I make a good first impression.&nbsp;
+b.  Smart casual. Pukeutumiseni on sopivan siistiä, että teen hyvän ensivaikutelman. / Smart Casual. My outfits are clean-cut so that I make a good first impression. 
 
 c. Mukavuudenhaluinen. Käytän useimmiten farkkuja tai verkkareita, sekä t-paitaa ja hupparia. / Comfort-seeking. I usually wear jeans or sweatpants, and a t-shirt with a hoodie.
 
@@ -99,22 +99,22 @@ d. Netflix
 
 **8. Kokeen jälkeen... / After a test I...**
 
-A. vertailen tuloksiani heti kavereiden kanssa. / compare the results with my friends.&nbsp;
+A. vertailen tuloksiani heti kavereiden kanssa. / compare the results with my friends. 
 
 b. heitän kokeen roskikseen. Arvosanalla ei ole väliä, sillä tiedän joka tapauksessa, että olen paras. / throw the test in to the bin. The grade doesn’t matter, I’m already the best.
 
 c. tarkistan kokeen perusteellisesti, ja valitan arvosteluvirheistä. / check the test carefully and complain about any grading mistakes.
 
-d. en ole alunperinkään tehnyt koetta. Olen menossa uusintaan. / I didn’t do the test in the first place, so I’m signing up for a retake.&nbsp;
+d. en ole alunperinkään tehnyt koetta. Olen menossa uusintaan. / I didn’t do the test in the first place, so I’m signing up for a retake. 
 
 
 **9. Mitä teet Ksyk Ballissa? / What’ll you do in Ksyk Ball?**
 
-a. Ostan OPKH-standilta popparia ja syön sitä koko loppuajan. / I buy popcorn from the OPKH-stand and eat it for the rest of the time.&nbsp;
+a. Ostan OPKH-standilta popparia ja syön sitä koko loppuajan. / I buy popcorn from the OPKH-stand and eat it for the rest of the time. 
 
 b. Odotan, että pääsen seuraaviin bileisiin. / Wait for the next party to come.
 
-c. Laulan karaokea. / Sing karaoke.&nbsp;
+c. Laulan karaokea. / Sing karaoke. 
 
 d. Otan kavereideni kanssa kuvia keskushallissa. / Take pictures with my friends in keskushalli.
 
@@ -134,7 +134,7 @@ d. Sinapinkeltainen, kuin auringonkukka! / Mustard yellow, like a sunflower!
 
 a. Heidi Temmeksen
 
-b. Ville Kohvakan&nbsp;
+b. Ville Kohvakan 
 
 c. Saku Snickerin
 
@@ -171,13 +171,13 @@ b. Pörssien lasku. / Stockmarket decline.
 
 c. Väärin laskettu binomin neliö. / Square of binomial calculated wrong.
 
-d.  Se, ettei Yle Areenassa ohjelmiin saa englanninkielisiä tekstityksiä. / The fact that you can’t get English subtitles in Yle Areena.&nbsp;
+d.  Se, ettei Yle Areenassa ohjelmiin saa englanninkielisiä tekstityksiä. / The fact that you can’t get English subtitles in Yle Areena. 
 
 
 **Eniten vastauksia:**
 
 ![Unknown image description. Check context for details.](https://static.wixstatic.com/media/07242a_393387032106406a8181675d9177fcbd~mv2.jpg) <!-- Original name: 07242a_a7012e64f2764986973e7ab64e0c73c3~mv2.jpg -->
-**A: **Kuulut yleislinjalle. Olet hyvä koulussa, etkä halua tehdä itsestäsi isoa numeroa. Tiedät, että tulet menestymään elämässä, mutta pidät sitä itsestäänselvyytenä. Tykkäät lukemisesta ja koulusta.
+**A: Kuulut yleislinjalle. Olet hyvä koulussa, etkä halua tehdä itsestäsi isoa numeroa. Tiedät, että tulet menestymään elämässä, mutta pidät sitä itsestäänselvyytenä. Tykkäät lukemisesta ja koulusta.**
 
 You belong to yleislinja. You’re good at school, and would rather not make a number about yourself. You know you’re going to succeed in life, but you take it for granted. You like reading and school.
 
@@ -185,7 +185,7 @@ You belong to yleislinja. You’re good at school, and would rather not make a n
 
 ![Unknown image description. Check context for details.](https://static.wixstatic.com/media/07242a_275f01e2f7994a7cb0914b618dbacc73~mv2.jpg)
 
-**B:** Kuulut YT-linjalle. Sinulle tärkeintä lukiossa on ylioppilastodistuksen saaminen, jotta voit jatkaa matkaasi politiikan, sosiologian tai kauppatieteiden opiskelijaksi. Olet joskus hieman itsepäinen, mutta se tekee sinusta hyvän johtajan. Imago on sinulle tärkeä.
+**B: Kuulut YT-linjalle. Sinulle tärkeintä lukiossa on ylioppilastodistuksen saaminen, jotta voit jatkaa matkaasi politiikan, sosiologian tai kauppatieteiden opiskelijaksi. Olet joskus hieman itsepäinen, mutta se tekee sinusta hyvän johtajan. Imago on sinulle tärkeä.**
 
 You belong to YT-linja. Getting the YO-diploma is the most important thing for you in highschool, so that you can continue your journey to study politics, sosiology or economics. You’re a little stubborn from time to time, but that makes you a good leader. Imago is meaningful for you.
 
@@ -193,16 +193,16 @@ You belong to YT-linja. Getting the YO-diploma is the most important thing for y
 
 ![Unknown image description. Check context for details.](https://static.wixstatic.com/media/07242a_6b916eee8608422898d1d374f3206a09~mv2.jpg)
 
-**C:** Kuulut TT-linjalle. Luonnontieteet ovat sinulle mieluisia, ja löydät TT-linjalta helposti kaltaisiasi ihmisiä. Lukiossa ryhmäidentiteetti on sinulle tärkeä. Olet ehkä vähän nobody, sillä vietät eniten aikaa tietokoneella, mutta niin viettävät lähimmät ystäväsikin.
+**C: Kuulut TT-linjalle. Luonnontieteet ovat sinulle mieluisia, ja löydät TT-linjalta helposti kaltaisiasi ihmisiä. Lukiossa ryhmäidentiteetti on sinulle tärkeä. Olet ehkä vähän nobody, sillä vietät eniten aikaa tietokoneella, mutta niin viettävät lähimmät ystäväsikin.**
 
-You belong to TT-linja. You enjoy science and you can easily find similar people from your linja. Group identity is important to you during highschool. You’re maybe a little nobody, because you spend most of the time on your computer, but so do your closest friends.&nbsp;
+You belong to TT-linja. You enjoy science and you can easily find similar people from your linja. Group identity is important to you during highschool. You’re maybe a little nobody, because you spend most of the time on your computer, but so do your closest friends. 
 
 ![Unknown image description. Check context for details.](https://static.wixstatic.com/media/07242a_905699b126d24f20a8dc7ab180eae660~mv2.jpg)
 
-**D:** Kuulut enkkulinjalle, eli English Streamille. Olet huomiseen katsova idealisti, ja haluat oppia kaikista kulttuureista niin paljon kuin mahdollista. Olet uudistushaluinen ja kansainvälisyydestä kiinnostunut, mutta olet kiinnostuneempi ihmisten välisestä kanssakäymisestä kuin poliittisesta vaikuttamisesta tai Nobelin palkinnosta.&nbsp;
+**D: Kuulut enkkulinjalle, eli English Streamille. Olet huomiseen katsova idealisti, ja haluat oppia kaikista kulttuureista niin paljon kuin mahdollista. Olet uudistushaluinen ja kansainvälisyydestä kiinnostunut, mutta olet kiinnostuneempi ihmisten välisestä kanssakäymisestä kuin poliittisesta vaikuttamisesta tai Nobelin palkinnosta.**
 
-You belong to enkkulinja. You’re an optimistic idealist, who wants to learn about other cultures as much as possible. You’re a reformist and interested in internationality, but you’re even more into human interaction rather than political activity or Nobel prices.&nbsp;
+You belong to enkkulinja. You’re an optimistic idealist, who wants to learn about other cultures as much as possible. You’re a reformist and interested in internationality, but you’re even more into human interaction rather than political activity or Nobel prices. 
 
 ---
-**Teksti:** Iiris Tattari
-**Kuvat:** Iiris Tattari
+**Teksti: Iiris Tattari**
+**Kuvat: Iiris Tattari**

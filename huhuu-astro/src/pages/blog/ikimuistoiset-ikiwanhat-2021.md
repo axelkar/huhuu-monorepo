@@ -7,7 +7,7 @@ isFeatured: false
 timeToRead: 2
 wixViewCount: 546
 created: "2021-12-09T19:46:42.314Z"
-published: "2021-12-09T20:42:25.709Z"
+published: "2021-12-10T11:12:00.891Z"
 modified: "2021-12-10T11:12:00.891Z"
 language: "en"
 layout: "../../layouts/BlogPost.astro"
@@ -69,6 +69,6 @@ Wanhojen tanssit otettiin osaksi opetussuunnitelmaa 1970- ja 1980-lukujen vaihte
 
 ---
 
-**Teksti:** Annukka Mäkeläinen
-**Kuvat:** Annukka Mäkeläinen
+**Teksti: Annukka Mäkeläinen**
+**Kuvat: Annukka Mäkeläinen**
 

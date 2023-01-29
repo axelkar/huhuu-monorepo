@@ -5,7 +5,7 @@ slug: "poems-about-creativity-and-art"
 isPinned: false
 isFeatured: false
 timeToRead: 2
-wixViewCount: 138
+wixViewCount: 140
 created: "2021-10-28T13:30:52.581Z"
 published: "2021-10-28T13:40:55.373Z"
 modified: "2021-10-28T13:40:55.373Z"
@@ -71,7 +71,7 @@ they’ll want more.
 
 **You don’t own art**
 
-I held up my brush&nbsp;
+I held up my brush 
 and brushed away,
 at the painted sea was a ship
 that sailed away. At bay,
@@ -108,7 +108,7 @@ of something other than me,
 other universe, perhaps
 a degree in a university. It packed
 its frame and a spare one,
-a fancier one just in case of&nbsp;
+a fancier one just in case of 
 fancier frame occasions.
 With all this in a suitcase
 it leaped through the window.

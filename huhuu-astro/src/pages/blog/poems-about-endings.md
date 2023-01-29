@@ -17,7 +17,7 @@ layout: "../../layouts/BlogPost.astro"
 ****
 ![Unknown image description. Check context for details.](https://static.wixstatic.com/media/abd5f5_46f4d81eaa0f463fa9fa3c43729ff522~mv2.jpg) <!-- Original name: kukka.JPG -->
 ### 
-### Grey sky with her stars****
+### Grey sky with her stars
 
 Endless grey, spotted wall
 goes on and on and on.
@@ -41,7 +41,7 @@ tick tock tick tock.
 &nbsp;
 Her eyes are counting her stars.
 &nbsp;
-When the hour is gone, guests are leaving,&nbsp;
+When the hour is gone, guests are leaving, 
 nurses telling her to sleep.
 As they retrieve,
 she refuses to see their relief.
@@ -151,6 +151,6 @@ red. Fire above our home; a mismatched love.
 
 ---
 
-**Teksti:** Annukka Mäkeläinen
-**Kuvat:** Annukka Mäkeläinen
+**Teksti: Annukka Mäkeläinen**
+**Kuvat: Annukka Mäkeläinen**
 

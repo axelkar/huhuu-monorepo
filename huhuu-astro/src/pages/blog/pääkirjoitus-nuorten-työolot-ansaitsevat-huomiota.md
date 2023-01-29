@@ -7,7 +7,7 @@ isFeatured: true
 timeToRead: 1
 wixViewCount: 113
 created: "2021-09-02T11:25:44.131Z"
-published: "2021-09-02T11:34:10.837Z"
+published: "2021-09-02T11:48:29.037Z"
 modified: "2021-09-02T11:25:44.131Z"
 language: "en"
 layout: "../../layouts/BlogPost.astro"
@@ -15,9 +15,9 @@ layout: "../../layouts/BlogPost.astro"
 *Hesburgerin työntekijät ovat viime viikkoina jakaneet mediassa kertomuksia huonoista työkokemuksistaan. Noussut kohu vain korostaa sitä, kuinka tärkeää on, että nuoret tuntevat oikeutensa työelämässä. *
 ---
 
-Olen kesän katsellut vierestä, kun juurikin Hesburgerissa työskentelevä ystäväni raataa viikosta toiseen selkä hiessä purilaispaikan kassalla. Eräässä tapauksessa, kun samainen ystävä yritti perua vuoronsa, sillä oli rippileirillä, soitti pomo hänelle kolme kertaa varmistaakseen, ettei hän varmasti pääse töihin. Kun työntekoon painostetaan,  työntekoon lukiota käyvältä nuorelta riistetään kaikki vapaa-aika.&nbsp;
+Olen kesän katsellut vierestä, kun juurikin Hesburgerissa työskentelevä ystäväni raataa viikosta toiseen selkä hiessä purilaispaikan kassalla. Eräässä tapauksessa, kun samainen ystävä yritti perua vuoronsa, sillä oli rippileirillä, soitti pomo hänelle kolme kertaa varmistaakseen, ettei hän varmasti pääse töihin. Kun työntekoon painostetaan,  työntekoon lukiota käyvältä nuorelta riistetään kaikki vapaa-aika. 
 
-Ilman vapaa-aikaa jaksaminen sekä töiden että opintojen parissa kärsii. On muistettava, että kaikki vapaa-aika ei ole tyhjää aikaa, vaan tunteja tarvitsee myös palautumiseen, lepäämiseen, omiin harrastuksiin ja itsestään huolehtimiseen. Jos työ alkaa käydä liian raskaaksi, ei ole häpeällistä lopettaa sitä. Samoin, mikäli ylimääräisten työvuorojen ottamiseen painostettaisiin, niistä kieltäytyminen on sallittua.&nbsp;
+Ilman vapaa-aikaa jaksaminen sekä töiden että opintojen parissa kärsii. On muistettava, että kaikki vapaa-aika ei ole tyhjää aikaa, vaan tunteja tarvitsee myös palautumiseen, lepäämiseen, omiin harrastuksiin ja itsestään huolehtimiseen. Jos työ alkaa käydä liian raskaaksi, ei ole häpeällistä lopettaa sitä. Samoin, mikäli ylimääräisten työvuorojen ottamiseen painostettaisiin, niistä kieltäytyminen on sallittua. 
 
 Huonojen työolojen esiin tuleminen on kriisi pikaruokaketjuille, jotka perinteisesti ovat työllistäneet juuri nuoria. Mutta ennen kaikkea se on työnantajille sekä pikaruokaloiden esimiehille kasvun paikka. Kaltoin kohteleville esihenkilöille on tultava seurauksia, sillä työntekijöiden painostus ei tapahdu vahingossa. Työntekijöiden hyvinvoinnista on aidosti välitettävä tilanteesta huolimatta.
 
@@ -29,5 +29,5 @@ Ehkäisykeinoja tilanteisiin, joissa esihenkilö kohtelee työntekijöitä huono
 
 ---
 
-**Teksti: **Iiris Tattari
+**Teksti: Iiris Tattari**
 

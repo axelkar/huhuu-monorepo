@@ -5,9 +5,9 @@ slug: "akateeminen-eväsretki-ja-miten-onnistua-siinä"
 isPinned: false
 isFeatured: false
 timeToRead: 3
-wixViewCount: 333
+wixViewCount: 334
 created: "2021-03-12T22:15:31.717Z"
-published: "2021-03-12T22:26:24.263Z"
+published: "2021-03-13T08:01:59.823Z"
 modified: "2021-03-12T22:15:31.717Z"
 language: "en"
 layout: "../../layouts/BlogPost.astro"
@@ -15,7 +15,7 @@ layout: "../../layouts/BlogPost.astro"
 
 ![Unknown image description. Check context for details.](https://static.wixstatic.com/media/18093e_e6fc946a904548a691502d558bfc5a12~mv2.jpg)
 
-Kirjoitussalin suurin paholainen on se, joka jättää noudattamatta Suomen suurimman eväsretken epävirallisen virallista ruokailuetikettiä. Ykköset ja kakkoset, erityisesti te keväällä kirjoittavat, nyt on jo korkea aika aloittaa eväiden suunnittelu. Viisaana abina olen valmistanut teille ylppärivälipalojen *do’s and don’ts*, jotka pohjautuvat omiin epäonnistumisiin ja hyvin pitkälti pelkkään maalaisjärkeen.
+Kirjoitussalin suurin paholainen on se, joka jättää noudattamatta Suomen suurimman eväsretken epävirallisen virallista ruokailuetikettiä. Ykköset ja kakkoset, erityisesti te keväällä kirjoittavat, nyt on jo korkea aika aloittaa eväiden suunnittelu. Viisaana abina olen valmistanut teille ylppärivälipalojen do’s and don’ts, jotka pohjautuvat omiin epäonnistumisiin ja hyvin pitkälti pelkkään maalaisjärkeen.
 
 Sääntöjä on kuitenkin muutamia. Epäily vilpistä voi johtaa tutkintokerran hylkäämiseen, joten tekstittömät kääreet sekä läpinäkyvät purkit ovat erittäin suositeltavia. Ennen kirjoitussaliin astumista joku koulun valvojista kuitenkin tarkastaa jokaisen kokelaan tarjottimen, jolloin kokelaalla on viimeinen mahdollisuus poistaa tarjottimeltaan sääntöjä rikkovat asiat. Ei siis hätää, valmistumisesi ei pidenny puolella vuodella, jos unohdat Marianne-karkkeihisi kääreet ja valvoja ehtii huomauttamaan siitä ennen koetta.
 
@@ -33,7 +33,7 @@ Turha ääntely on ylioppilaskirjoitusten kaltaisessa stressitilassa tavallista 
 
 Mitään tiettyä kaavaa eväiden kehittämiselle ei löydy edes MAOLista. Eväät ovat kuitenkin ainoastaan sinua varten, ja jaksamisen kannalta niiden rooli on tärkeä. Nälkä voi iskeä nopeastikin, kun aivot tekevät kiireellä kovaa työtä, mutta myös taukojen ja itsensä palkitsemisen kannalta herkulliset naposteltavat voivat piristää vaikeissakin hetkissä.
 
-Jotkut tykkäävät tuoda salaatteja, toiset termos-ruokia. Omista empiirisistä kokemuksistani olen ainakin havainnut, että monilla on mukanaan jonkinlainen “pääruoka”, jonka lisäksi on pakattu vielä pienempiä välipaloja.&nbsp;
+Jotkut tykkäävät tuoda salaatteja, toiset termos-ruokia. Omista empiirisistä kokemuksistani olen ainakin havainnut, että monilla on mukanaan jonkinlainen “pääruoka”, jonka lisäksi on pakattu vielä pienempiä välipaloja. 
 
 Vaihtoehtoja on siis monia, ja ne kannattaa valita oman maun mukaan. Olen kuitenkin listannut joitakin helposti pakattavia ja syötäviä välipaloja, joista voi itse kehitellä oman suunnitelman mikäli ideat ovat vähissä:
 
@@ -41,7 +41,7 @@ Hedelmät: Mustikat, mansikat, vadelmat, muut marjat. Pilkottua omenaa, pääryn
 
 Vihannekset: Pilkottua kurkkua, kirsikkatomaatteja, kukkakaalia, paprikaa, herneitä. Hummus tai jokin muu dippi voi sopia näihin kivasti!
 
-Makeat ja suolaiset herkut: Irtokarkit tai muut karkit, paloiteltu suklaalevy, keksejä, pikkupullia, pähkinöitä, kuivattuja hedelmiä tai marjoja.&nbsp;
+Makeat ja suolaiset herkut: Irtokarkit tai muut karkit, paloiteltu suklaalevy, keksejä, pikkupullia, pähkinöitä, kuivattuja hedelmiä tai marjoja. 
 
 Juomat: Vesi, hedelmä- tai marjamehu, energiajuoma, virvoitusjuoma, kahvi tai tee, kylmänä tai kuumana.
 
@@ -51,7 +51,7 @@ Juomat: Vesi, hedelmä- tai marjamehu, energiajuoma, virvoitusjuoma, kahvi tai t
 
 Olen itse tehnyt lähes samat eväät jokaiseen preliin ja ylioppilaskokeeseen, johon olen viime syksystä lähtien osallistunut, ja ajattelin pysyä samoilla linjoilla myös tämän kevään kokeissa. Mikäli haluat konkreettisen esimerkin koepäivän eväiden kokonaisuudesta, voit ottaa näistä mallia ja soveltaa niitä oman makusi mukaan.
 
-Sämpylät:&nbsp;
+Sämpylät: 
 Ostan tuoreet sämpylät lähikaupan paistopisteeltä edellisenä päivänä ja kasaan eväät valmiiksi koetta edeltävänä iltana. Täytän kaksi sämpylää jollain levitteellä, kalkkunaleikkeellä, kurkulla ja salaatinlehdillä. Useimmiten vain yksi näistä sämpylöistä on tullut syödyksi kokeen aikana, mutta mieluummin liikaa kuin liian vähän mukaan!
 
 Snäcks:
@@ -66,5 +66,5 @@ Juomaksi otan aina vähintään pullollisen vettä, ja välillä sen lisäksi my
 Tsemppiä vielä kaikille kanssa-abeille ja keväällä-kirjoittaville kakkosille! Pikkusalissa nähdään -- turvaväleillä ainakin.
 
 ---
-<span style="textAlignment:left;">**Teksti: **Emmi Raivisto</span>
-<span style="textAlignment:left;">**Kuvat: **Emmi Raivisto</span>
+**Teksti: Emmi Raivisto**
+**Kuvat: Emmi Raivisto**

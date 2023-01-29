@@ -7,7 +7,7 @@ isFeatured: false
 timeToRead: 2
 wixViewCount: 126
 created: "2021-12-02T10:15:45.328Z"
-published: "2021-12-02T15:25:35.077Z"
+published: "2021-12-14T11:41:22.381Z"
 modified: "2021-12-14T11:41:22.381Z"
 language: "en"
 layout: "../../layouts/BlogPost.astro"
@@ -19,7 +19,7 @@ Joulukuussa on 24 päivää ennen jouluaattoa, joten jossain kohtaa tulee varmas
 
 
 ![Unknown image description. Check context for details.](https://static.wixstatic.com/media/abd5f5_32c1966b76234dc7aa7c9dabb014cad3~mv2.jpg) <!-- Original name: emma_joulu_2.jpg -->
-<span style="textAlignment:center;">*Huhuun toimitus leipomassa pöllöpipareita.*</span>
+*Huhuun toimitus leipomassa pöllöpipareita.*
 
 
 ### 1.Kuuntele joulumusiikkia
@@ -42,7 +42,7 @@ Lumisota on hauskaa. Muista vain tarkistaa, ettet heitä jäisiä lumipalloja mu
 
 Itsetehty kortti on aina kivempi kuin kaupan valmiskortti, eikö niin?
 
-### 6. Lahjojen tekeminen ystäville&nbsp;
+### 6. Lahjojen tekeminen ystäville 
 
 On monia eri lahjoja, joita voit tehdä itse, kuten kuusenkoriste tai rannekoru. Minkä sinä tekisit mieluiten?
 
@@ -116,12 +116,12 @@ Jouluaattona voit tietysti juhlia joulua vaikka perheen kesken tai sitten isomma
 
 
 ![Unknown image description. Check context for details.](https://static.wixstatic.com/media/abd5f5_adbbda7a77664d388eb488ba9fdcff72~mv2.jpg) <!-- Original name: emma_joulu_3.jpg -->
-<span style="textAlignment:center;">*Hyvää joulunodotusta!*</span>
+*Hyvää joulunodotusta!*
 
 
 ---
 
 
-**Teksti:** Emma Hartikainen ja Varvara Diachkova
-**Kuvat:** Ilmari Marjamäki
+**Teksti: Emma Hartikainen ja Varvara Diachkova**
+**Kuvat: Ilmari Marjamäki**
 

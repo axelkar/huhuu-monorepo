@@ -7,12 +7,12 @@ isFeatured: false
 timeToRead: 4
 wixViewCount: 80
 created: "2020-10-18T20:03:41.224Z"
-published: "2020-10-18T20:11:09.252Z"
+published: "2020-10-19T09:16:49.521Z"
 modified: "2020-10-18T20:03:41.224Z"
 language: "en"
 layout: "../../layouts/BlogPost.astro"
 ---
-## Violent acts in schools have made the news lately. Some of it is due to the controversy sparked by the original article regarding the Kytöpuisto incident in which an ambulance was called for a student who had been brutally attacked, but some of it is no doubt because the number of cases has actually increased.&nbsp;
+## Violent acts in schools have made the news lately. Some of it is due to the controversy sparked by the original article regarding the Kytöpuisto incident in which an ambulance was called for a student who had been brutally attacked, but some of it is no doubt because the number of cases has actually increased. 
 ![Unknown image description. Check context for details.](https://static.wixstatic.com/media/9b43b3_4c1f21ac6d3c4b209d3a2da24a96205a~mv2.jpg)
 
 **One thing these violent acts have in common is their ruthlessness. They have been reported to have involved punching, kicking and even choking. Another common feature is the age of the perpetrators. More often than not these cases have included under 15-year-old children, meaning they aren’t even considered criminally responsible yet.**

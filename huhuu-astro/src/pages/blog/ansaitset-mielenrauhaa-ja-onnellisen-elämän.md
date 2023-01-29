@@ -14,7 +14,7 @@ layout: "../../layouts/BlogPost.astro"
 ---
 **Stressaako opinnot? Vertaatko itseäsi muihin, vaikket välttämättä tahtoisi? Tuntuuko siltä, ettet saa millään koulujuttuja tehtyä? Jääkö kokeeseen luku jatkuvasti viime tippaan? Psykologi ja kuraattori auttavat!**
 
-Tasapaino opiskelun ja vapaa-ajan välillä on tärkeää, jotta henkinen hyvinvointi ei kärsisi. Koulussa jaksamiseen, opiskeluun sekä muihin elämänalueisiin liittyviin kysymyksiin voi kysyä apua koulupsykologilta ja -kuraattorilta. Sara Gerlander ja Meri Miettinen olivat haastateltavina ja antoivat moniin opiskeluun sekä jaksamiseen liittyviin kysymyksiin vastaukset. Neuvot ovat kuitenkin yleisiä ohjeita eli kaikki vinkit eivät välttämättä sovi juuri sinulle. Jos et tästä artikkelista löydä itsellesi sopivia vastauksia haasteisiisi, kannattaa rohkeasti jatkaa itselleen sopivien tekniikoiden etsimistä!&nbsp;
+Tasapaino opiskelun ja vapaa-ajan välillä on tärkeää, jotta henkinen hyvinvointi ei kärsisi. Koulussa jaksamiseen, opiskeluun sekä muihin elämänalueisiin liittyviin kysymyksiin voi kysyä apua koulupsykologilta ja -kuraattorilta. Sara Gerlander ja Meri Miettinen olivat haastateltavina ja antoivat moniin opiskeluun sekä jaksamiseen liittyviin kysymyksiin vastaukset. Neuvot ovat kuitenkin yleisiä ohjeita eli kaikki vinkit eivät välttämättä sovi juuri sinulle. Jos et tästä artikkelista löydä itsellesi sopivia vastauksia haasteisiisi, kannattaa rohkeasti jatkaa itselleen sopivien tekniikoiden etsimistä! 
 
 ![Unknown image description. Check context for details.](https://static.wixstatic.com/media/2da4fc_c97966ac5d2d4fb896d320139a36bbcb~mv2.png)
 ## **OPISKELU**
@@ -45,7 +45,7 @@ Stressi aiheuttaa kehon ylivirittymistä, joka voi oireilla esimerkiksi pääns�
 
 **Etäopiskelu haastavaa, mikä voisi auttaa?**
 
-Etäopiskelulla on omat haasteensa, sillä täytyy olla itseohjautuva, jotta saisi tehtävät tehtyä. Se myös vaatii omaa motivaatiota eri tavalla kuin lähiopetuksessa. Yhteydenotto ystäviin esimerkiksi välitunneilla voi helpottaa oloa. Kuraattori lisää, että aikataulun teko ja sen noudattaminen on tärkeää. Muista kuitenkin olla itsellesi armollinen!&nbsp;
+Etäopiskelulla on omat haasteensa, sillä täytyy olla itseohjautuva, jotta saisi tehtävät tehtyä. Se myös vaatii omaa motivaatiota eri tavalla kuin lähiopetuksessa. Yhteydenotto ystäviin esimerkiksi välitunneilla voi helpottaa oloa. Kuraattori lisää, että aikataulun teko ja sen noudattaminen on tärkeää. Muista kuitenkin olla itsellesi armollinen! 
 
 **Miten toimia, jos karanteenissa olo ahdistaa?**
 
@@ -72,20 +72,20 @@ Minäkuva on laaja käsite, eikä sen parantamiseen ole yhtä reseptiä. Kuraatt
 
 **Milloin kannattaa hakeutua kuraattorille, entä psykologille?**
 
-Kuraattori on erityisesti sosiaalisten suhteiden asiantuntija. Häneltä saa apua, jos on esimerkiksi ongelmia koulunkäyntiin, ihmissuhteisiin, päihteisiin tai elämänmuutoksiin liittyen.&nbsp;
+Kuraattori on erityisesti sosiaalisten suhteiden asiantuntija. Häneltä saa apua, jos on esimerkiksi ongelmia koulunkäyntiin, ihmissuhteisiin, päihteisiin tai elämänmuutoksiin liittyen. 
 
-Psykologi puolestaan tukee oppilaita ja opiskelijoita mielenterveyteen liittyvissä asioissa. Hänen luokse kannattaa hakeutua, jos tuntee olonsa stressaantuneeksi, ahdistuneeksi tai masentuneeksi. Apua psykologilta voi hakea myös keskittymis- tai oppimisvaikeuksiin liittyvissä ongelmissa.&nbsp;
+Psykologi puolestaan tukee oppilaita ja opiskelijoita mielenterveyteen liittyvissä asioissa. Hänen luokse kannattaa hakeutua, jos tuntee olonsa stressaantuneeksi, ahdistuneeksi tai masentuneeksi. Apua psykologilta voi hakea myös keskittymis- tai oppimisvaikeuksiin liittyvissä ongelmissa. 
 
-Molemmat ovat kuitenkin sitä mieltä, ettei ole niin väliä kumpaan heistä ottaa yhteyttä. Tärkeintä on vain, että niin tekee.&nbsp;
+Molemmat ovat kuitenkin sitä mieltä, ettei ole niin väliä kumpaan heistä ottaa yhteyttä. Tärkeintä on vain, että niin tekee. 
 
 **Voiko tulla puhumaan “arkipäivisistä” ongelmista tai muista mietityttävistä asioista?**
 
-Tottakai voi tulla! Kuraattori korostaa sitä, että on hyvä ottaa yhteyttä ajoissa. Ongelmien ei tarvitse olla suuria ollakseen merkityksellisiä tai tärkeitä. Apua voi hakea pienellä kynnyksellä.&nbsp;
+Tottakai voi tulla! Kuraattori korostaa sitä, että on hyvä ottaa yhteyttä ajoissa. Ongelmien ei tarvitse olla suuria ollakseen merkityksellisiä tai tärkeitä. Apua voi hakea pienellä kynnyksellä. 
 
 
 **Yhteystiedot:**
 
-Yhteydenotot mieluiten Wilman kautta, mutta jos tuntuu siltä, että tahtoo vaikka laittaa Whatsapp-viestiä niin sekin on mahdollista! Viestissä ei ole pakko kertoa, miksi tahtoo varata ajan, kertoo vaan että tahtoo!&nbsp;
+Yhteydenotot mieluiten Wilman kautta, mutta jos tuntuu siltä, että tahtoo vaikka laittaa Whatsapp-viestiä niin sekin on mahdollista! Viestissä ei ole pakko kertoa, miksi tahtoo varata ajan, kertoo vaan että tahtoo! 
 
 Psykologi Sara Gerlander: puh. 050 512 5089 &amp; sähköposti:[__sara.gerlander@ksyk.fi__](mailto:sara.gerlander@ksyk.fi)
 Kuraattori Meri Miettinen: puh. 0400 844 587 &amp; sähköposti:[__meri.miettinen@ksyk.fi__](mailto:meri.miettinen@ksyk.fi)
@@ -96,8 +96,8 @@ Kuraattori Meri Miettinen: puh. 0400 844 587 &amp; sähköposti:[__meri.miettine
 
 ---
 ## Muista!
-- Avun hakeminen ei ole heikkous vaan päinvastoin vahvuus. He ketkä uskaltavat ottaa askeleen kohti pelkoaan ovat vahvoja! Se ei ole helppoa, mutta avun hakeminen on sen arvoista.&nbsp;
-- Kun aloitat opiskelun, siirrä mahdolliset häiriötekijät pois ja aloita heti! Jos ajatus alkaa harhailla, kirjoita mielessä pyörivä ajatus post-it-lapulle ylös ja jatka heti opiskelua. Palaa mietityttävään asiaan tauolla.&nbsp;
+- Avun hakeminen ei ole heikkous vaan päinvastoin vahvuus. He ketkä uskaltavat ottaa askeleen kohti pelkoaan ovat vahvoja! Se ei ole helppoa, mutta avun hakeminen on sen arvoista. 
+- Kun aloitat opiskelun, siirrä mahdolliset häiriötekijät pois ja aloita heti! Jos ajatus alkaa harhailla, kirjoita mielessä pyörivä ajatus post-it-lapulle ylös ja jatka heti opiskelua. Palaa mietityttävään asiaan tauolla. 
 - Anna itsellesi paljon kehuja opiskelun lomassa.
 - Hemmottele itseäsi stressin keskellä esimerkiksi herkuttelemalla.
 - Vietä aikaa ystävien kanssa, sillä se helpottaa stressiä ja antaa vertaistukea.

@@ -18,7 +18,7 @@ layout: "../../layouts/BlogPost.astro"
 ![Unknown image description. Check context for details.](https://static.wixstatic.com/media/2da4fc_f9f3a3869ef64c9cb8ca74b3006443ce~mv2.jpg)
 **Why did you decide to come to Finland for your exchange?**
 
-My mom is Finnish and so I’ve been visiting Finland in the summers for probably ever since I was born. So I’ve always really enjoyed Finland in general, just the whole environment of it. Last summer, when I was in Oodi I was looking at all the students and then I just thought it would be cool to do a foreign exchange year; so that’s where the idea came from.&nbsp;
+My mom is Finnish and so I’ve been visiting Finland in the summers for probably ever since I was born. So I’ve always really enjoyed Finland in general, just the whole environment of it. Last summer, when I was in Oodi I was looking at all the students and then I just thought it would be cool to do a foreign exchange year; so that’s where the idea came from. 
 
 I never really thought about coming as a foreign exchange student until I started seeing all the other students. I always knew that the Finnish education system was really great, so I brought the idea up to my mom and then we researched schools for the next couple of months. We came across this school, and then I applied.
 

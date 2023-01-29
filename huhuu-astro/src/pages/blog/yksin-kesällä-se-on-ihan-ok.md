@@ -25,12 +25,12 @@ Olen itse kokenut näitä kyseisiä tunnetiloja niin kauan kuin muistan. Varsink
 
 Yksinäisyys on toinen tunne, joka saattaa häiritä kesäloman viettoa. Minulla kesän yksinäisyys yleensä alkaa viimeisinä lomaviikkoina. Tällöin ei oikein tee mieli tehdä mitään. Odottaa vain koulun alkua, ja jonkinlaista rutiinia. Itse vaivun tähän aikaan melkein horrokseen. Ei ole mitään motivaatiota, taikka halua tehdä mitään. Viimeisinä lomapäivinä siitä sitten yleensä havahtuu, eikä enää toivokkaan loman loppuvan.
 
-Kesällä koettu yksinäisyys on siis täysin normaalia. On se sitten koko kesän täyttävä, tai vain viimeisten jäljellä olevien viikkojen tunne. Voi olla vaikea tulla toimeen tällaisten tunteiden kanssa. FOMO ja yksinäisyyden tunteet voivat olla haastavia, koska niitä ei halua tuntea. Samanlainen tunne on esimerkiksi mustasukkaisuus. Ei sitä halua tuntea, mutta sitä on silloin tällöin yksinkertaisesti pakko tuntea.&nbsp;
+Kesällä koettu yksinäisyys on siis täysin normaalia. On se sitten koko kesän täyttävä, tai vain viimeisten jäljellä olevien viikkojen tunne. Voi olla vaikea tulla toimeen tällaisten tunteiden kanssa. FOMO ja yksinäisyyden tunteet voivat olla haastavia, koska niitä ei halua tuntea. Samanlainen tunne on esimerkiksi mustasukkaisuus. Ei sitä halua tuntea, mutta sitä on silloin tällöin yksinkertaisesti pakko tuntea. 
 
 Olen itse yleensä yrittänyt miettiä, miten näitä fiiliksiä voisi parantaa, tai jopa ehkäistä. Jos siis huomaat tuntevasi itsesi yksinäiseksi kesälomalla tai ystäväsi ovat ulkona hyvässä kesäsäässä ja sinulle tulee sisällä olemisesta huono omatunto, muista, että se on ihan ok. Yritän itse yleensä herätä tunteista todellisuuteen ja miettiä jotain muuta. Ensimmäiseksi täytyy osata huomata, milloin tuntee huonoa oloa näistä syistä. Silloin on jo helpompi hyväksyä, ettei tarvitse aina olla jossain tai ettei oikeasti ole niin yksin kuin luulee. Toinen asia yksinäisyyden helpottamiseksi on itsensä harhauttaminen. Kesätyöt ovat hyvä tapa saada tekemistä ja jonkinlaista rutiinia elämään. Jos vain itsekuri riittää, voi myös laatia jonkinlaisen suunnitelman joka päivälle tai aloittaa jokin liikuntaharrastus yhdessä kaverin kanssa.
 
 En halua laatia mitään pidempää listaa asioista, joilla yksinäisyyden tunnetta voisi helpottaa. Apukeinot ovat yleensä melko yksilöllisiä ja jokainen varmasti tietää itse, mikä auttaa omaan oloon. On kuitenkin tärkeää keskustella aiheesta. Olo helpottaa aina kun pääsee purkamaan sitä jollekin. Vaikka kaikki varmasti tiedostavat, etteivät ole ainoita jotka tuntevat näitä tunteita, on se kiva välillä kuulla joltain muulta. Puhuminen auttaa!
 
 ---
-**Teksti: **Hanna Laitinen
+**Teksti: Hanna Laitinen**
 

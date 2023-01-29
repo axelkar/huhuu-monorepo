@@ -5,7 +5,7 @@ slug: "wanhat-meni-muistot-jäi"
 isPinned: false
 isFeatured: false
 timeToRead: 1
-wixViewCount: 402
+wixViewCount: 407
 created: "2022-06-02T09:47:30.662Z"
 published: "2022-06-02T16:25:38.199Z"
 modified: "2022-06-02T16:25:38.199Z"
@@ -18,10 +18,10 @@ layout: "../../layouts/BlogPost.astro"
 ---
 
 ![Unknown image description. Check context for details.](https://static.wixstatic.com/media/abd5f5_d3c7238632f54be9b9bdcbf90582cd6f~mv2.jpg) <!-- Original name: spessu-wanhat-1.JPG -->
-<span style="textAlignment:center;">*Lakko ei estänyt yleisön saapumista paikalle ja tunnelma oli mitä parhain!*</span>
+*Lakko ei estänyt yleisön saapumista paikalle ja tunnelma oli mitä parhain!*
 
 ![Unknown image description. Check context for details.](https://static.wixstatic.com/media/abd5f5_e28b94b5d45841d692edc92aa39d7d78~mv2.jpg) <!-- Original name: spessu-wanhat-2.JPG -->
-<span style="textAlignment:center;">*Tunnelma ennen esiintymistä oli jännittynyt ja innostunut.*</span>
+*Tunnelma ennen esiintymistä oli jännittynyt ja innostunut.*
 
 ![Unknown image description. Check context for details.](https://static.wixstatic.com/media/abd5f5_5c62b12923014f27a350bf114e6e67ec~mv2.jpg) <!-- Original name: spessu-wanhat-3.JPG -->
 
@@ -30,7 +30,7 @@ layout: "../../layouts/BlogPost.astro"
 ![Unknown image description. Check context for details.](https://static.wixstatic.com/media/abd5f5_23e25a3022574dabbaebf8a15cb182b1~mv2.jpg) <!-- Original name: spessu-wanhat-5.JPG -->
 
 ![Unknown image description. Check context for details.](https://static.wixstatic.com/media/abd5f5_ac8f93c96b4f409fb807d355f464c08a~mv2.jpg) <!-- Original name: spessu-wanhat-6.JPG -->
-<span style="textAlignment:center;">*Oma tanssissa oli asennetta*</span>
+*Oma tanssissa oli asennetta*
 
 ![Unknown image description. Check context for details.](https://static.wixstatic.com/media/abd5f5_a51ce72dd51a40fd9d529697a33ab73f~mv2.jpg) <!-- Original name: spessu-wanhat-7.JPG -->
 
@@ -39,7 +39,7 @@ layout: "../../layouts/BlogPost.astro"
 ![Unknown image description. Check context for details.](https://static.wixstatic.com/media/abd5f5_0501ede116fd471fa63a1860aae6e38a~mv2.jpg) <!-- Original name: spessu-wanhat-9.JPG -->
 
 ![Unknown image description. Check context for details.](https://static.wixstatic.com/media/abd5f5_8e62875342254bcd9134525dc80d7343~mv2.jpg) <!-- Original name: spessu-wanhat-10.JPG -->
-<span style="textAlignment:center;">*Esityksen jälkeen myös kaverit ja sukulaiset pääsivät lavalle tanssahtelemaan!*</span>
+*Esityksen jälkeen myös kaverit ja sukulaiset pääsivät lavalle tanssahtelemaan!*
 
 ![Unknown image description. Check context for details.](https://static.wixstatic.com/media/abd5f5_41e17ec3c4f746679d2475284e7a82ee~mv2.jpg) <!-- Original name: spessu-wanhat-11.JPG -->
 
@@ -54,7 +54,7 @@ layout: "../../layouts/BlogPost.astro"
 ![Unknown image description. Check context for details.](https://static.wixstatic.com/media/abd5f5_635ff134cd75430292e29e409d6ade53~mv2.jpg) <!-- Original name: spessu-wanhat-15.JPG -->
 
 ![Unknown image description. Check context for details.](https://static.wixstatic.com/media/abd5f5_c378fe0b8b874480ac4aba47553b29ff~mv2.jpg) <!-- Original name: spessu-wanhat-16.JPG -->
-<span style="textAlignment:center;">*Myös Hallan nimi kaikui tanssien lomassa*</span>
+*Myös Hallan nimi kaikui tanssien lomassa*
 
 ![Unknown image description. Check context for details.](https://static.wixstatic.com/media/abd5f5_034d0e30043e4b9497654b100dbe197c~mv2.jpg) <!-- Original name: spessu-wanhat-17.JPG -->
 
@@ -72,6 +72,6 @@ layout: "../../layouts/BlogPost.astro"
 
 ---
 
-**Teksti:** Lilli Virolainen
-**Kuvat:** Lilli Virolainen
+**Teksti: Lilli Virolainen**
+**Kuvat: Lilli Virolainen**
 

@@ -5,9 +5,9 @@ slug: "etäopiskelu-ihanaa-vai-kamalaa"
 isPinned: false
 isFeatured: false
 timeToRead: 6
-wixViewCount: 407
+wixViewCount: 409
 created: "2020-10-21T18:29:04.159Z"
-published: "2020-10-21T18:57:55.995Z"
+published: "2020-10-21T19:57:37.113Z"
 modified: "2020-10-21T18:29:04.159Z"
 language: "en"
 layout: "../../layouts/BlogPost.astro"

@@ -7,7 +7,7 @@ isFeatured: false
 timeToRead: 5
 wixViewCount: 217
 created: "2020-10-18T20:14:43.174Z"
-published: "2020-10-18T20:33:37.951Z"
+published: "2020-10-19T09:05:48.914Z"
 modified: "2020-10-18T20:14:43.174Z"
 language: "en"
 layout: "../../layouts/BlogPost.astro"
@@ -23,7 +23,7 @@ An example of a meme about the English Matriculation Examinations.
 ****
 **As mentioned previously, this exercise caused a lot of confusion and discussion after the exam. Memes were made, complaints were filed, all the usual steps were taken in an attempt to recover from this traumatic event. It is fairly safe to say that nearly every abi goes through the five steps of grief after the matriculation exams. First comes denial, when abis wish to take a deep breath after the exam before discussing it with anyone, denying their trauma from the event. This is followed by anger, when abis debate the exercises Lady Luck had delivered them that day amongst each other and really anyone that will listen to them. Next comes bargaining, which is the step where abis look at the HVPs, or the sheet where the “correct answers” are listed, in an attempt to search for relief in finding answers where they may receive points. After this naturally comes depression, as students realize they did worse than they even expected. Even if the students did well, they will be haunted by the exercises they got wrong. The last step is acceptance, which could also be named forgetfulness, as students forget their mistakes and patiently wait for the official evaluations given to them by the Matriculation Examination Board.**
 
-**This project and article could very well be categorized into the “memes” category, as we absolutely wanted to do this as something of a joke. We ourselves had to sit through this exam, and found some of the exercises quite ridiculous. The school’s new newspaper, aka Huhuu, had also already begun as a project, so we wanted to see if we could combine these two. In the end, we decided to look up a recipe for Eton mess and see if we could make it ourselves, to perhaps lessen the trauma from the exam. You could consider this the same process through which witches and wizards battle their worst fears, taken on by a Boggart, in the Harry Potter franchise with the riddikulus-spell. We make fun of our trauma to lessen the effect, and *****that***** is the true objective of this article.**
+**This project and article could very well be categorized into the “memes” category, as we absolutely wanted to do this as something of a joke. We ourselves had to sit through this exam, and found some of the exercises quite ridiculous. The school’s new newspaper, aka Huhuu, had also already begun as a project, so we wanted to see if we could combine these two. In the end, we decided to look up a recipe for Eton mess and see if we could make it ourselves, to perhaps lessen the trauma from the exam. You could consider this the same process through which witches and wizards battle their worst fears, taken on by a Boggart, in the Harry Potter franchise with the riddikulus-spell. We make fun of our trauma to lessen the effect, and that is the true objective of this article.**
 
 ### **The Recipe and Our Failures**
 
@@ -63,7 +63,7 @@ The mess we had created was surprisingly delicious!
 
 **Overall the dish itself was very easy to create and the only reason we messed the mess up was because we foolishly tried to make our own meringue with zero experience beforehand. Even with the odd consistency and taste of the meringue, however, the final dish was palatable, and some, including myself, would even call it good! It turns out that messing up the Eton mess is quite difficult, even with awful meringues. This dish is easy to make at home and we would definitely recommend it to anyone!**
 
-**I give it four owls out of five. 🦉🦉**🦉🦉
+**I give it four owls out of five. 🦉🦉🦉🦉**
 ---
 This piece was written and organized by Heikki Helppi
 Pictures were taken by Emma Lampen-Smith
@@ -72,5 +72,5 @@ Special thanks to:
 - Otto Blomberg
 - Magnus Buinevitš
 - Emma Lampen-Smith
-- Jonas Papathemelis&nbsp;
+- Jonas Papathemelis 
 - Isabella Liuha

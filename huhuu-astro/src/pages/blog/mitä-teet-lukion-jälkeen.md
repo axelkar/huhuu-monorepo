@@ -5,16 +5,16 @@ slug: "mitä-teet-lukion-jälkeen"
 isPinned: false
 isFeatured: false
 timeToRead: 2
-wixViewCount: 364
+wixViewCount: 365
 created: "2021-01-26T21:10:42.076Z"
-published: "2021-01-26T21:26:29.120Z"
+published: "2021-01-26T21:27:42.942Z"
 modified: "2021-01-26T21:10:42.076Z"
 language: "en"
 layout: "../../layouts/BlogPost.astro"
 ---
-Lukiossa jatko-opiskelu on teema, joka on läsnä joka hetkessä. Melkein joka kurssin alussa kuulee kuuluisat sanat: “Tätä tarvitsette sitten YO-kirjoituksissa”, tai “Tällä aineella pääsette pitkälle lukion jälkeen”. Tämän takia monilla lukiolaisilla on paineita jo ykkösvuoden alussa löytää itseään kiinnostava ala, useimmiten yliopistosta. Lukiolaisia yritetään samalla kuitenkin muistuttaa, ettei saisi opiskella pelkästään kokeita ja nimenomaan kirjoituksia varten. Elämää varten opiskelu tehdään meille kuitenkin erittäin vaikeaksi.&nbsp;
+Lukiossa jatko-opiskelu on teema, joka on läsnä joka hetkessä. Melkein joka kurssin alussa kuulee kuuluisat sanat: “Tätä tarvitsette sitten YO-kirjoituksissa”, tai “Tällä aineella pääsette pitkälle lukion jälkeen”. Tämän takia monilla lukiolaisilla on paineita jo ykkösvuoden alussa löytää itseään kiinnostava ala, useimmiten yliopistosta. Lukiolaisia yritetään samalla kuitenkin muistuttaa, ettei saisi opiskella pelkästään kokeita ja nimenomaan kirjoituksia varten. Elämää varten opiskelu tehdään meille kuitenkin erittäin vaikeaksi. 
 
-Monet tulevat lukioon, koska sen on tarkoitus antaa lisäaikaa ja ideoita tulevaisuuden suunnitteluun. Huhuu haastatteli muutamaa KSYK:in oppilasta eri vuosiluokilta heidän jatko-opintounelmistaan ja vastauksia tuli laidasta laitaan.&nbsp;
+Monet tulevat lukioon, koska sen on tarkoitus antaa lisäaikaa ja ideoita tulevaisuuden suunnitteluun. Huhuu haastatteli muutamaa KSYK:in oppilasta eri vuosiluokilta heidän jatko-opintounelmistaan ja vastauksia tuli laidasta laitaan. 
 
 ## Annika Lappalainen
 
@@ -44,7 +44,7 @@ Annuliina on tällä hetkellä Yhdysvalloissa vaihdossa. Hän aloittaa syksyllä
 
 ## Freya Barrow
 
-Freya käy abivuotta YT-linjalla. Hän haluaa lukion jälkeen lähteä oikeustieteelliseen opiskelemaan. “Unelmana olisi päästä Helsinkiin opiskelemaan, mutta kaikki oikikset käy”, sanoo Freya. Hän on tiennyt ala-asteelta asti, että haluaa oikikseen. Inspiraatiota oikikseen hakemiseen on tullut äidiltä ja tv-sarjoista. Freyalla ei ole vielä tarkkaa ammattia mielessä, mutta hän haluaisi tehdä jotakin yritysjuridikkaan liittyvää. Freya kertoo, että lukiossa on todella vähän oikeustieteelliseen valmistavia kursseja, joten ei ole kunnolla ollut mahdollista valita siihen liittyviä kursseja. Mutta koska kuitenkin mikä tahansa pohjatieto on tärkeää, on hän valinnut mahdollisimman paljon yhteiskuntaoppi ja “business study” kursseja, joita koulussa on saatavilla. Freya myös opiskelee paljon kieliä, koska niistä saa kirjoituksissa eniten pisteitä.&nbsp;
+Freya käy abivuotta YT-linjalla. Hän haluaa lukion jälkeen lähteä oikeustieteelliseen opiskelemaan. “Unelmana olisi päästä Helsinkiin opiskelemaan, mutta kaikki oikikset käy”, sanoo Freya. Hän on tiennyt ala-asteelta asti, että haluaa oikikseen. Inspiraatiota oikikseen hakemiseen on tullut äidiltä ja tv-sarjoista. Freyalla ei ole vielä tarkkaa ammattia mielessä, mutta hän haluaisi tehdä jotakin yritysjuridikkaan liittyvää. Freya kertoo, että lukiossa on todella vähän oikeustieteelliseen valmistavia kursseja, joten ei ole kunnolla ollut mahdollista valita siihen liittyviä kursseja. Mutta koska kuitenkin mikä tahansa pohjatieto on tärkeää, on hän valinnut mahdollisimman paljon yhteiskuntaoppi ja “business study” kursseja, joita koulussa on saatavilla. Freya myös opiskelee paljon kieliä, koska niistä saa kirjoituksissa eniten pisteitä. 
 
 **Mitä Freya kirjoittaa/on kirjoittanut?**
 
@@ -52,7 +52,7 @@ Freya käy abivuotta YT-linjalla. Hän haluaa lukion jälkeen lähteä oikeustie
 ![Unknown image description. Check context for details.](https://static.wixstatic.com/media/2da4fc_94654ae09136476384ee55aebb902c27~mv2.png)
 ## Pinja Suurla
 
-Pinja tekee lukion neljään vuoteen ja käy tällä hetkellä abivuotta TT-linjalla. Hän aikoo lukion jälkeen opiskella maantiedettä ja tähtää Helsingin yliopistoon. Pinjaa kiinnostaa ammatti, joka liittyy ihmis- tai kaupunkimaantieteeseen, eli esimerkiksi asuinalueiden suunnittelu. Kiinnostus maantietoon alkoi ykkösellä, kun Pinja huomasi, että maantieto on todella mielenkiintoinen aine. Pinja oli vaihdossa Belgiassa lukion toisena vuotena ja senkin kautta maantieto ja muista kulttuureista oppiminen alkoi kiinnostamaan enemmän. Pinja ei ole tarkemmin tehnyt kurssisuunnitelmaa, mutta hän on käynyt kaikki mahdolliset maantiedon kurssit ja opiskellut kieliä.&nbsp;
+Pinja tekee lukion neljään vuoteen ja käy tällä hetkellä abivuotta TT-linjalla. Hän aikoo lukion jälkeen opiskella maantiedettä ja tähtää Helsingin yliopistoon. Pinjaa kiinnostaa ammatti, joka liittyy ihmis- tai kaupunkimaantieteeseen, eli esimerkiksi asuinalueiden suunnittelu. Kiinnostus maantietoon alkoi ykkösellä, kun Pinja huomasi, että maantieto on todella mielenkiintoinen aine. Pinja oli vaihdossa Belgiassa lukion toisena vuotena ja senkin kautta maantieto ja muista kulttuureista oppiminen alkoi kiinnostamaan enemmän. Pinja ei ole tarkemmin tehnyt kurssisuunnitelmaa, mutta hän on käynyt kaikki mahdolliset maantiedon kurssit ja opiskellut kieliä. 
 
 **Mitä Pinja kirjoittaa/on kirjoittanut?**
 

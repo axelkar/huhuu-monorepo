@@ -5,9 +5,9 @@ slug: "ihanan-erilaiset-tavat-viettää-tai-olla-viettämättä-joulua"
 isPinned: false
 isFeatured: false
 timeToRead: 9
-wixViewCount: 321
+wixViewCount: 336
 created: "2022-12-21T12:17:57.889Z"
-published: "2022-12-21T12:49:21.105Z"
+published: "2022-12-21T14:21:31.052Z"
 modified: "2022-12-21T14:21:31.052Z"
 language: "en"
 layout: "../../layouts/BlogPost.astro"
@@ -16,11 +16,11 @@ Joulu on taas, joulu on taas…! Mutta kuinka moni sitä koulustamme viettää j
 
 **Danny Le**
 ![Unknown image description. Check context for details.](https://static.wixstatic.com/media/8b055d_bdbc97ad966b456a80eeb3d011a44f30~mv2.png) <!-- Original name: danny.png -->
-Joo, kotona kyllä vietetään joulua ihan perinteisesti: joulukuusi, jouluvalot, joululahjat ja niin. Vietämme [joulua] 24. päivä. Meillä on jouluvalot ihan koko ajan, ei vaan ole ollut päällä, niin ei tarvitse aina ottaa pois ja laittaa uudestaan.&nbsp;
+Joo, kotona kyllä vietetään joulua ihan perinteisesti: joulukuusi, jouluvalot, joululahjat ja niin. Vietämme [joulua] 24. päivä. Meillä on jouluvalot ihan koko ajan, ei vaan ole ollut päällä, niin ei tarvitse aina ottaa pois ja laittaa uudestaan. 
 
 Mun kummatkin vanhemmat ovat Vietnamista. Se näkyy meidän joulussa niin, että jouluruoka on vähän erilaista, että ei ole aina kinkkua vaan on yleensä vähän jotain muuta, riisin kanssa jotain tai sitten esimerkiksi hotpottia. Ollaan kyllä muutaman kerran syöty kinkkuakin, mutta emme oikein pitäneet siitä.
 
-Vietnamissa ei oikein vietetä joulua. Ei ole joulukuusia tai mitään, lahjoja kyllä ehkä annetaan, mutta siellä on liian lämmintä niin ei ainakaan lunta ole, valitettavasti. Joten serkut eivät tiedä, että minkälaista on, kun on lunta.&nbsp;
+Vietnamissa ei oikein vietetä joulua. Ei ole joulukuusia tai mitään, lahjoja kyllä ehkä annetaan, mutta siellä on liian lämmintä niin ei ainakaan lunta ole, valitettavasti. Joten serkut eivät tiedä, että minkälaista on, kun on lunta. 
 
 Isäni on muuttanut tänne [Suomeen] joskus 1980-luvulla ja äitini 1990, ehkä. Uskon että lapset ovat kyllä vaikuttanut siihen [joulun viettoon], en usko että vanhemmat on viettänyt joulua Vietnamissa.
 
@@ -36,11 +36,11 @@ En vietä joulua uskonnollisista syistä. Joululomalla oon yleensä perheen kans
 **Sofia Kraptsak**
 ![Unknown image description. Check context for details.](https://static.wixstatic.com/media/8b055d_bf1672792a20479c88bcbed11e94d66e~mv2.png) <!-- Original name: sofia.png -->
 
-Ennen me ei vietetty juurikaan joulua, kun asuimme Virossa kahdeksan vuotta sitten. Virossa, entisenä Neuvostoliiton maana, se uusi vuosi oli siellä sellainen suurempi juhla ja jouluna siellä painottuu enemmän ne joulun tapahtumat, eli Jeesuksen syntymä. Suomessa se joulu on taas se perheen läheisyys ja jollakin tavalla kapitalismin ripaus siinä.&nbsp;
+Ennen me ei vietetty juurikaan joulua, kun asuimme Virossa kahdeksan vuotta sitten. Virossa, entisenä Neuvostoliiton maana, se uusi vuosi oli siellä sellainen suurempi juhla ja jouluna siellä painottuu enemmän ne joulun tapahtumat, eli Jeesuksen syntymä. Suomessa se joulu on taas se perheen läheisyys ja jollakin tavalla kapitalismin ripaus siinä. 
 
-Kun muutimme Suomeen, niin minä ja mun pikkuveljet suomalaistuimme ja me toimme sitä suomalaista kulttuuria meidän perheeseen. Viimeiset kolme vuotta me olemme yrittäneet matkia suomalaista joulukulttuuria, eli syömme joulupuuroa ja heitämme mantelin sinne sekaan ja sitten 25. päivä syödään hyvin. Me emme käy kirkossa, mutta kaikki muu joulunvietto on hyvin samanlaista kuin muillakin suomalaisilla. Ja siis se on kuitenkin aitoa, vaikka se on sellaista matkimista, sillä se tuli luontevasti meidän perheeseen, eli se on sellaista rauhallista ja läheistä yhdessäoloa perheen kanssa. Eli eroaa siitä virolaisesta uudenvuoden juhlinnasta, kun silloin ollaan ulkona ja se on sellaista riemua.&nbsp;
+Kun muutimme Suomeen, niin minä ja mun pikkuveljet suomalaistuimme ja me toimme sitä suomalaista kulttuuria meidän perheeseen. Viimeiset kolme vuotta me olemme yrittäneet matkia suomalaista joulukulttuuria, eli syömme joulupuuroa ja heitämme mantelin sinne sekaan ja sitten 25. päivä syödään hyvin. Me emme käy kirkossa, mutta kaikki muu joulunvietto on hyvin samanlaista kuin muillakin suomalaisilla. Ja siis se on kuitenkin aitoa, vaikka se on sellaista matkimista, sillä se tuli luontevasti meidän perheeseen, eli se on sellaista rauhallista ja läheistä yhdessäoloa perheen kanssa. Eli eroaa siitä virolaisesta uudenvuoden juhlinnasta, kun silloin ollaan ulkona ja se on sellaista riemua. 
 
-Mä olen varttunut ortodoksisessa perheessä, niin meille uusi vuosi ja joulu on kaksi viikkoa myöhemmin, eli siinä 7. tammikuuta. Loppiaisena on joulu ja ns. vanha uusivuosi, mitä Venäjällä kutsutaan ortodoksinen uusivuosi, jolloin nimenomaan se uskonto on sellainen asia, jota mietitään ja pohditaan. Mun isovanhemmmat ovat enemmän sellaisia uskonnollisia, niin silloin ehkä jollain illallisella mietitään asioita ja puhutaan niistä.&nbsp;
+Mä olen varttunut ortodoksisessa perheessä, niin meille uusi vuosi ja joulu on kaksi viikkoa myöhemmin, eli siinä 7. tammikuuta. Loppiaisena on joulu ja ns. vanha uusivuosi, mitä Venäjällä kutsutaan ortodoksinen uusivuosi, jolloin nimenomaan se uskonto on sellainen asia, jota mietitään ja pohditaan. Mun isovanhemmmat ovat enemmän sellaisia uskonnollisia, niin silloin ehkä jollain illallisella mietitään asioita ja puhutaan niistä. 
 
 **Ilo Huhtala**
 
@@ -57,25 +57,25 @@ Religion doesn’t have much to do with it. But, of course, we are christian, we
 
 ![Unknown image description. Check context for details.](https://static.wixstatic.com/media/8b055d_e826aa73b3c943d28be7d30c73273725~mv2.jpg) <!-- Original name: arian_heart.JPG -->
 
-Vietän joulua ja mun perhe viettää joulua. Se on tullut vähän niinkun tavaksi meidän perheessä. Meillä on se normaali, että herätään ja avataan lahjat, mitä tahansa se onkaan ja sitten otetaan joku miljoona kuvaa. Päivän aikana me ei tehdä hirveesti mitään erityistä. Mutta sitten illalla meillä on se jättimäinen jouluruoka, johon sitten menee suurin osa mun vanhempien päivästä ja aikaisemmasta yöstä, joten he ei ehdi tehdä mitään muuta. Sitten meillä on oma jouluruoka, perinteinen suomalainen jouluruoka. Mitä me tehdään vähän eri tavalla kuin muut perheet, on että viimeiset kolme vuotta me ollaan tehty sellainen miniversio [jouluruuasta] meidän koiralle: me pistetään hänellekin joulukinkkua ja joululaatikoita mutta me tehdään siitä koiraystävällinen, niin se ei tule kipeäksi.&nbsp;
+Vietän joulua ja mun perhe viettää joulua. Se on tullut vähän niinkun tavaksi meidän perheessä. Meillä on se normaali, että herätään ja avataan lahjat, mitä tahansa se onkaan ja sitten otetaan joku miljoona kuvaa. Päivän aikana me ei tehdä hirveesti mitään erityistä. Mutta sitten illalla meillä on se jättimäinen jouluruoka, johon sitten menee suurin osa mun vanhempien päivästä ja aikaisemmasta yöstä, joten he ei ehdi tehdä mitään muuta. Sitten meillä on oma jouluruoka, perinteinen suomalainen jouluruoka. Mitä me tehdään vähän eri tavalla kuin muut perheet, on että viimeiset kolme vuotta me ollaan tehty sellainen miniversio [jouluruuasta] meidän koiralle: me pistetään hänellekin joulukinkkua ja joululaatikoita mutta me tehdään siitä koiraystävällinen, niin se ei tule kipeäksi. 
 
-Me ollaan vietetty joulua siitä asti kun olen syntynyt, mutta en ole kysynyt mitä he [perhe] teki ennen sitä. Arvelen, että kun he asuivat Iranissa, en usko että siellä he viettivät joulua. Mutta siitä asti kun mun vanhemmat muutti Suomeen, joskus 18 vuotta sitten, he ovat viettäneet joka vuosi joulua. Mielestäni se liittyy siihen kun sulla on lapsia tässä maassa ja sun lapset tulee kysymään: “miksi kaikki pukeutuu? mikä on niin erityistä tässä päivässä?” niin sun pitää selittää niille lapsille että mitä se on ja sitten jotkut perheet ottavat joulun mukaan ja jotkut taas ei.&nbsp;
+Me ollaan vietetty joulua siitä asti kun olen syntynyt, mutta en ole kysynyt mitä he [perhe] teki ennen sitä. Arvelen, että kun he asuivat Iranissa, en usko että siellä he viettivät joulua. Mutta siitä asti kun mun vanhemmat muutti Suomeen, joskus 18 vuotta sitten, he ovat viettäneet joka vuosi joulua. Mielestäni se liittyy siihen kun sulla on lapsia tässä maassa ja sun lapset tulee kysymään: “miksi kaikki pukeutuu? mikä on niin erityistä tässä päivässä?” niin sun pitää selittää niille lapsille että mitä se on ja sitten jotkut perheet ottavat joulun mukaan ja jotkut taas ei. 
 
 Joulu mulle merkitsee sitä, että se tuo ilomieltä ja jakaa sitä iloa ihmisille. Mun mielestä joulun koko pointti on se että, me käytetään rahaa – mitä suurimmaksi osaksi meillä ei ole – siihen että, kaikki meidän läheiset olisivat iloisia ja just niitä kuvia varten. Että sitten sä voit myöhemmin katsoa ja sanoa että, noni, tää oli hyvä asia ja mä ostin nää lahjat ihan syystäkin ja mä olen iloinen, että mun lapsi tai mun läheinen tai mun kaveri on iloinen. Ja mulle se merkitsee aika paljonkin. Mä en itse sanoisi, että mä mietin joulua hirveen erityisenä, mutta lähiaikoina oon miettinyt mun elämäntilannetta ja muiden elämäntilannetta vähän enemmän ja mulle on tullut vähän niinkuin huono olo siitä, kun se on niin epätasaista miten joulu voi mennä ja sitten se, että jotkut ihmiset eivät kunnolla pysty osallistumaan näihin juhliin ja asioihin. Niin, sen takia, kunhan saan asiat toimimaan ja saan luvan siihen, mä oon vähitellen perustamassa omaa hyväntekeväisyyttä ensi vuodeksi. Toivottavasti se toimii. Mutta pointtina olisi, että jouluna joka vuosi kerättäisiin lahjoja, rahaa ja sitten me vietäisiin niitä perheille jotka ei pysty antamaan niitä [lahjoja] omille lapsille.
 
 **Loviisa Pursiainen**
 
 ![Unknown image description. Check context for details.](https://static.wixstatic.com/media/8b055d_14a106a0428c41079613617f14b859a4~mv2.png) <!-- Original name: lovi.png -->
-Se [joulu] on aika perinteinen, meillä sukulaiset kerääntyy meidän kotiin juhlimaan ja joulupukkikin käy meillä. Me syödään lämmin ruoka, jonka jälkeen joulupukki soittaa ovikelloa. Sitten syödään jälkiruoka.&nbsp;
+Se [joulu] on aika perinteinen, meillä sukulaiset kerääntyy meidän kotiin juhlimaan ja joulupukkikin käy meillä. Me syödään lämmin ruoka, jonka jälkeen joulupukki soittaa ovikelloa. Sitten syödään jälkiruoka. 
 
-Mulle joulu on läheisten juhla. Ei ole montaa kertaa vuodessa, milloin sukulaiset ovat paikalla samassa paikassa, niin joulu on sellainen hetki. Joulu on erittäin tärkeä mulle.&nbsp;
+Mulle joulu on läheisten juhla. Ei ole montaa kertaa vuodessa, milloin sukulaiset ovat paikalla samassa paikassa, niin joulu on sellainen hetki. Joulu on erittäin tärkeä mulle. 
 
 
 **Elli Thurén**
 
 Viikkoo ennen jouluaattoa me yleensä koristellaan joulukuusi. Jouluaattona kaikki menee aika samalla tavalla joka kerta, vähän riippuu et missä paikassa on ja kui paljon meil on vieraita, ku joskus meit on aika paljon, ku me ollaan aika iso perhe.
 
-Aina aamulla eka mennään joulukirkkoon ja sitten tullaan kotiin syömään riisipuuroa ja jotain pipareita ja joulutorttuja. Sitten katotaan joulurauhan julistus ja Lumiukko. Mä ja mun äiti yleensä tehään kaikki ruoat, ni me ollaan koko päivä niitä vääntämässä. Jossain vaiheessa illemmalla on sellanen iso hieno jouluruoka. Se on mun lemppariosuus. Kaikki jouluruoat on niin perinteisii ku voi olla. Joskus mä oon kuullu et ihmisil on maksalaatikkoa, mikä on mun mielest tosi tuomittavaa, haha. Sitä meil ei oo. Me ei olla syöty moneen vuoteen lihaa meidä perhees, ni sit ei oo yleensä joulukinkkuu. Mut on seitan ja se näyttää melkein kinkulta.&nbsp;
+Aina aamulla eka mennään joulukirkkoon ja sitten tullaan kotiin syömään riisipuuroa ja jotain pipareita ja joulutorttuja. Sitten katotaan joulurauhan julistus ja Lumiukko. Mä ja mun äiti yleensä tehään kaikki ruoat, ni me ollaan koko päivä niitä vääntämässä. Jossain vaiheessa illemmalla on sellanen iso hieno jouluruoka. Se on mun lemppariosuus. Kaikki jouluruoat on niin perinteisii ku voi olla. Joskus mä oon kuullu et ihmisil on maksalaatikkoa, mikä on mun mielest tosi tuomittavaa, haha. Sitä meil ei oo. Me ei olla syöty moneen vuoteen lihaa meidä perhees, ni sit ei oo yleensä joulukinkkuu. Mut on seitan ja se näyttää melkein kinkulta. 
 
 Ruoan jälkeen yleensä lauletaan joululauluja. Niinku mä sanoin, mulla on tosi iso perhe. Suurin osa meistä soittaa jotain soitinta, ni sit on tosi hauska, ku kaikki soittaa niitte omii soittimii tai laulaa. Se on semmone tosi sweet. Ja sit avataan lahjat; tärkein. Se on jo aika joulutraditio et mun isä tosi aggressiivisesti kerää kaikkia lahjapapereita heti, kun on saanu vähänki revittyä siitä paketista.
 
@@ -87,7 +87,7 @@ Mä rakastan jouluu. Kaikki et on lunta ja lauletaan joululauluja tuo mulle niin
 
 **Veikko Piiroinen**
 
-Mä vietän joulua mun perheen ja mun sukulaisten kesken, mun äidin lapsuudenkodissa. Siellä me ollaan aina perinteisesti vietetty. Joulu merkitsee mulle sellasta perheen yhdessäoloa ja rauhallista ja rentoa viettämistä. Että niinku sit saa syödä ja jutella perheen kanssa ja kaikkee muuta kivaa.&nbsp;
+Mä vietän joulua mun perheen ja mun sukulaisten kesken, mun äidin lapsuudenkodissa. Siellä me ollaan aina perinteisesti vietetty. Joulu merkitsee mulle sellasta perheen yhdessäoloa ja rauhallista ja rentoa viettämistä. Että niinku sit saa syödä ja jutella perheen kanssa ja kaikkee muuta kivaa. 
 
 Onhan siinä se uskonnollinen puolikin, mutta kyllä siinä on painotuksena ihan vaan perinne. Että joulu on yhdessäolon aikaa. Kyllä me nyt välillä saatetaan käydä laulamassa pari joululaulua joulukirkossa, jos keretään. Mutta ei me nähä sitä mitenkään kirkollisena juhlana yhtään sen enempää, tai mä en ainakaan nää. Vaikka Jeesus syntyikin ja se on tärkee juttu.
 
@@ -114,11 +114,11 @@ Aika niinku normaalisti perheen kanssa, saattaa olla joku ulkomaanmatka tai reis
 
 **Crystal Willman**
 ![Unknown image description. Check context for details.](https://static.wixstatic.com/media/8b055d_e7e2fcb2b0d747bc824fba842ef7fc19~mv2.jpg) <!-- Original name: crystal_edited.jpg -->
-Meiän ainut sellanen oikeestaan perinneperinne jouluna on, et me mennään joka joulu mun isomummin luokse Kuopioon. Mutta en nyt tiedä et miten pitkään se kestää, kun riippuu siitä miten pitkään hän on elossa. Mut se on niinku meiän perinne, et me mennään tapaan sukulaisia; sellainen sukulaisten yhteinen juhla.&nbsp;
+Meiän ainut sellanen oikeestaan perinneperinne jouluna on, et me mennään joka joulu mun isomummin luokse Kuopioon. Mutta en nyt tiedä et miten pitkään se kestää, kun riippuu siitä miten pitkään hän on elossa. Mut se on niinku meiän perinne, et me mennään tapaan sukulaisia; sellainen sukulaisten yhteinen juhla. 
 
 Pienenä joulu on aina tietysti ollu sellanen “omg saa lahjoja ja saa olla koulusta poissa”, mut nykyään se on ehk enemmänki semmone, et pääsee lomalle. Se ei oo semmone spektaakkeli enään, enemmänki se on justiinsa sitä et saa levätä, rentoutua ja olla. Se on niinku tärkeintä joulussa nykyään.
 
-Mun mielestä joulu on niinku todella hienoa, jos ajattelee et se on justiinsa sitä, et ihmiset on yhdessä, iloitsee toisistaan, kunnioittaa toisiaan ja näyttää miten paljon arvostaa toisiaan lahjoilla. Mut sit siin on se et tartteeks sitä välttämättä antaa niitä lahjoja vai voisko se olla enemmänki semmone kokemus yhdessäolosta.&nbsp;
+Mun mielestä joulu on niinku todella hienoa, jos ajattelee et se on justiinsa sitä, et ihmiset on yhdessä, iloitsee toisistaan, kunnioittaa toisiaan ja näyttää miten paljon arvostaa toisiaan lahjoilla. Mut sit siin on se et tartteeks sitä välttämättä antaa niitä lahjoja vai voisko se olla enemmänki semmone kokemus yhdessäolosta. 
 
 Mä oon erittäin suuri Mariah Carey fani ja mä oon tosi ilonen siitä, että häntä joka vuos juhlistetaan. Se tuo sit mun sydämelle lämpöö, kun yks mun idoleista on suuresti näkyvissä jälleen kerran joka vuosi.
 
@@ -126,11 +126,11 @@ Mä oon erittäin suuri Mariah Carey fani ja mä oon tosi ilonen siitä, että h
 
 
 ![Unknown image description. Check context for details.](https://static.wixstatic.com/media/8b055d_2e04ac4e4ab4459bb271a183f04387bd~mv2.jpg) <!-- Original name: myrskyjaiiris2.JPG -->
-Mä vietän joulua ja se on meillä sellanen, että ollaan perheen kanssa ja meitä kokoontuu pieni määrä. Meit on täällä oikeestaan vaan minä, mun äiti, mun veli ja mun pappa. Syödään jouluruokaa ja annetaan lahjoja –sellanen mukava lämmin pieni juhla. Juhlitaan 24. päivä ja yleensä meillä on silloin niinku sellanen suomalainen ruoka ja suomalaiset perinteet.&nbsp;
+Mä vietän joulua ja se on meillä sellanen, että ollaan perheen kanssa ja meitä kokoontuu pieni määrä. Meit on täällä oikeestaan vaan minä, mun äiti, mun veli ja mun pappa. Syödään jouluruokaa ja annetaan lahjoja –sellanen mukava lämmin pieni juhla. Juhlitaan 24. päivä ja yleensä meillä on silloin niinku sellanen suomalainen ruoka ja suomalaiset perinteet. 
 
 Oon tosiaan puoliksi amerikkalainen tai amerikan-italialainen niin meillä tulee sitten joulupäivänä enemmän perinteitä siltä puolelta, kuten italialaista ruokaa. Meillä on tää suomalainen joulu 24. päivä. Meillä on silloin [joulupäivänä] yleensä joulusukat tosta amerikkalaisesta jouluperinteestä. Jouluaattona meillä vierailee joulupukki, joka on yleensä pappa, joka pukeutuu, ja lauletaan joululauluja. Silloin siis saadaan ja annetaan jo jotain joululahjoja ja sitten semmosia “stocking stuffers” sillon 25. päivä joulusukkiin. There will be some Christmas chocolates and candies and maybe some socks, small things that you wouldn’t wrap in a present, so those would be in the stockings. Now that I’m older, I also get things for my mother and my brother [to the stockings]. I want to make them happy as well and put something nice in their stockings as well.
 
-Because I’m vegetarian, we have these vegetarian versions of Italian-American foods. So we’ll have lasagna with tomato sauce and a lot of mozzarella cheese and ricotta, stuff like that. And then we’ll have a “munakoisopaistos”, which is also almost the same as lasagna, but instead of the lasagna pasta sheets we have eggplant. We have vegetarian meatballs as well. My mom does most of the cooking. Actually my mom, my brother and I are all vegetarian. It’s always been like this. I’ve been vegetarian all my life.&nbsp;
+Because I’m vegetarian, we have these vegetarian versions of Italian-American foods. So we’ll have lasagna with tomato sauce and a lot of mozzarella cheese and ricotta, stuff like that. And then we’ll have a “munakoisopaistos”, which is also almost the same as lasagna, but instead of the lasagna pasta sheets we have eggplant. We have vegetarian meatballs as well. My mom does most of the cooking. Actually my mom, my brother and I are all vegetarian. It’s always been like this. I’ve been vegetarian all my life. 
 
 For me Christmas is a time to take some time away from everything else and really just focus on the people that are close to me and spend some time with my family since we usually don’t get to do that, because we’re busy all the time. To me it [Christmas] doesn’t have a religious meaning. We aren’t a religious family, we just celebrate Christmas just as a way to spend time with family. It’s really nice that it is such a cultural thing here as well, not just about religion.
 

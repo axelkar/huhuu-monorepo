@@ -5,9 +5,9 @@ slug: "testi-kuka-opettaja-sinä-olet-quiz-which-teacher-are-you"
 isPinned: false
 isFeatured: false
 timeToRead: 4
-wixViewCount: 616
+wixViewCount: 620
 created: "2022-01-27T09:23:26.486Z"
-published: "2022-01-27T13:25:54.992Z"
+published: "2022-01-28T08:25:11.624Z"
 modified: "2022-01-28T08:25:11.624Z"
 language: "en"
 layout: "../../layouts/BlogPost.astro"
@@ -194,5 +194,5 @@ e)  Are you swedish? Because you are the sweetish girl I’ve ever met
 
 ---
 
-**Teksti:** Nooa Tanskanen
-**Kuvat:** Viola Murtomaa
+**Teksti: Nooa Tanskanen**
+**Kuvat: Viola Murtomaa**

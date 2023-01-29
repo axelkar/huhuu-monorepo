@@ -7,7 +7,7 @@ isFeatured: false
 timeToRead: 3
 wixViewCount: 433
 created: "2020-10-21T19:10:21.259Z"
-published: "2020-10-22T19:39:13.575Z"
+published: "2021-01-21T21:41:59.234Z"
 modified: "2020-10-21T19:10:21.259Z"
 language: "en"
 layout: "../../layouts/BlogPost.astro"
