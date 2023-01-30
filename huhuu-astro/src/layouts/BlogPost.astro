@@ -2,6 +2,7 @@
 import BaseHead from '../components/BaseHead.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
+import { SITE_TITLE } from '../config';
 
 export interface Props {
 	content: {
@@ -20,7 +21,7 @@ const {
 
 <html lang="en">
 	<head>
-		<BaseHead title={title} description={description} />
+		<BaseHead title={SITE_TITLE + ' | ' + title} description={description} />
 		<style>
 			.title {
 				font-size: 2em;

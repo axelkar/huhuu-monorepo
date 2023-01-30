@@ -1,6 +1,6 @@
 ---
 layout: "../layouts/BlogPost.astro"
-title: "About Huhuu"
+title: "About"
 description: "About Huhuu"
 heroImage: "/placeholder-hero.jpg"
 ---
