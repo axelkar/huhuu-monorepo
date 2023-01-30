@@ -6,7 +6,7 @@ import { SITE_TITLE } from '../config';
 <header>
 	<h2>
 		<!-- {SITE_TITLE} -->
-		<img src="https://static.wixstatic.com/media/8b055d_6e5a4838b5d047548689fd70a4ea8bdf~mv2.png" style="height: 3.8rem;" />
+		<img src="https://static.wixstatic.com/media/8b055d_6e5a4838b5d047548689fd70a4ea8bdf~mv2.png" style="height: 3.8rem;" id="site_logo" />
 		<!-- TODO: better source for this image -->
 	</h2>
 	<nav>
@@ -22,5 +22,10 @@ import { SITE_TITLE } from '../config';
 	}
 	h2 {
 		margin: 0.5em 0;
+	}
+	@media (prefers-color-scheme: dark) {
+		#site_logo {
+			filter: invert(1);
+		}
 	}
 </style>

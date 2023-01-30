@@ -30,6 +30,14 @@ const posts = (await Astro.glob('./blog/*.{md,mdx}')).sort(
 			ul li a:visited {
 				color: #8e32dc;
 			}
+			@media (prefers-color-scheme: dark) {
+				ul li time {
+					color: #a6a6a6;
+				}
+				ul li a:visited {
+					color: #9944ee;
+				}
+			}
 		</style>
 	</head>
 	<body>

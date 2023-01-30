@@ -65,3 +65,28 @@ blockquote {
 	margin: 0px;
 	font-style: italic;
 }
+
+/* @media (prefers-color-scheme: dark) { /**/
+@media (prefers-color-scheme: dark) {
+	body {
+		background-color: #000;
+		color: #bbb;
+	}
+	h1,
+	h2,
+	h3,
+	h4,
+	h5,
+	h6,
+	strong,
+	b {
+		color: #ddd;
+	}
+	code {
+		background-color: #0d0d0d;
+	}
+	blockquote {
+		border-color: #666;
+		color: #ddd;
+	}
+}
