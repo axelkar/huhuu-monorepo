@@ -9,14 +9,133 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../config';
 <html lang="en">
 	<head>
 		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+		<style>
+			div.gallery {
+			  	float: left;
+			  	width: auto;
+				display: flex;
+				overflow-x: scroll;
+				white-space: nowrap;
+			}
+			
+			div.gallery img {
+				width: auto;
+				height: auto;
+			}
+		</style>
+		<script type = "text/javascript">
+			let slideIndex = 1;
+			showSlides(slideIndex);
+
+			// Next/previous controls
+			function plusSlides(n) {
+				showSlides(slideIndex += n);
+			}
+
+			// Thumbnail image controls
+			function currentSlide(n) {
+				showSlides(slideIndex = n);
+			}
+
+			function showSlides(n) {
+				let i;
+				let slides = document.getElementsByClassName("mySlides");
+				let dots = document.getElementsByClassName("demo");
+				let captionText = document.getElementById("caption");
+				if (n > slides.length) {slideIndex = 1}
+				if (n < 1) {slideIndex = slides.length}
+				for (i = 0; i < slides.length; i++) {
+					slides[i].style.display = "none";
+				}
+				for (i = 0; i < dots.length; i++) {
+					dots[i].className = dots[i].className.replace(" active", "");
+				}
+				slides[slideIndex-1].style.display = "block";
+				dots[slideIndex-1].className += " active";
+				captionText.innerHTML = dots[slideIndex-1].alt;
+			} 
+		</script>
 	</head>
 	<body>
 		<Header title={SITE_TITLE} />
 		<main>
-			<h1>Huhuu</h1>
-			<p>
-			Picture carousel here. Needs to be easily modifiable by Huhuu publishers.
-			</p>
+			<h1>Huhuu</h1> 
+			<!-- Container for the image gallery -->
+			<div class="container">
+
+				<!-- Full-width images with number text -->
+				<div class="mySlides">
+					<div class="numbertext">1 / 4</div>
+						<img src="https://static.wixstatic.com/media/8b055d_e826aa73b3c943d28be7d30c73273725~mv2.jpg/v1/fill/w_292,h_165,fp_0.50_0.50,q_90,enc_auto/8b055d_e826aa73b3c943d28be7d30c73273725~mv2.jpg" style="width:100%">
+				</div>
+
+				<div class="mySlides">
+					<div class="numbertext">2 / 4</div>
+						<img src="https://static.wixstatic.com/media/8b055d_043f9a8b002b4e62ad90802ab6204052~mv2.png/v1/fill/w_292,h_165,fp_0.50_0.50,q_95,enc_auto/8b055d_043f9a8b002b4e62ad90802ab6204052~mv2.png" style="width:100%">
+				</div>
+
+				<div class="mySlides">
+					<div class="numbertext">3 / 4</div>
+						<img src="https://static.wixstatic.com/media/8b055d_9b955009dc184a879275a3005b0e51cb~mv2.png/v1/fill/w_292,h_165,fp_0.50_0.50,q_95,enc_auto/8b055d_9b955009dc184a879275a3005b0e51cb~mv2.png" style="width:100%">
+				</div>
+
+				<div class="mySlides">
+					<div class="numbertext">4 / 4</div>
+						<img src="https://static.wixstatic.com/media/8b055d_53244a8e3e1f40f0a573a3eed99fa98a~mv2.png/v1/fill/w_309,h_174,fp_0.50_0.50,q_95,enc_auto/8b055d_53244a8e3e1f40f0a573a3eed99fa98a~mv2.png" style="width:100%">
+				</div>
+
+				<!-- Next and previous buttons -->
+				<a class="prev1" onclick="plusSlides(-1)">&#10094;</a>
+				<a class="next1" onclick="plusSlides(1)">&#10095;</a>
+
+				<!-- Image text -->
+				<div class="caption-container">
+					<p id="caption"></p>
+				</div>
+
+				<!-- Thumbnail images -->
+				<div class="row">
+					<div class="column">
+						<img class="demo cursor" src="https://static.wixstatic.com/media/8b055d_e826aa73b3c943d28be7d30c73273725~mv2.jpg/v1/fill/w_292,h_165,fp_0.50_0.50,q_90,enc_auto/8b055d_e826aa73b3c943d28be7d30c73273725~mv2.jpg" style="width:100%" onclick="currentSlide(1)" alt="a string">
+					</div>
+					<div class="column">
+						<img class="demo cursor" src="https://static.wixstatic.com/media/8b055d_043f9a8b002b4e62ad90802ab6204052~mv2.png/v1/fill/w_292,h_165,fp_0.50_0.50,q_95,enc_auto/8b055d_043f9a8b002b4e62ad90802ab6204052~mv2.png" style="width:100%" onclick="currentSlide(2)" alt="a string">
+					</div>
+					<div class="column">
+						<img class="demo cursor" src="https://static.wixstatic.com/media/8b055d_9b955009dc184a879275a3005b0e51cb~mv2.png/v1/fill/w_292,h_165,fp_0.50_0.50,q_95,enc_auto/8b055d_9b955009dc184a879275a3005b0e51cb~mv2.png" style="width:100%" onclick="currentSlide(3)" alt="a string">
+					</div>
+					<div class="column">
+						<img class="demo cursor" src="https://static.wixstatic.com/media/8b055d_53244a8e3e1f40f0a573a3eed99fa98a~mv2.png/v1/fill/w_309,h_174,fp_0.50_0.50,q_95,enc_auto/8b055d_53244a8e3e1f40f0a573a3eed99fa98a~mv2.png" style="width:100%" onclick="currentSlide(4)" alt="asdfadsfasdfasdfasdfadsfasdfasdfadsfadsfasdfasdfasdf">
+					</div>
+				</div>
+			</div>
+
+			<!-- this part has to be here, why? because otherwise loading the page first time screws it up before clicking buttons -->
+			<!-- no idea why. -->
+			<script>
+				let slideIndex = 1;
+				showSlides(slideIndex);
+	
+				function showSlides(n) {
+					let i;
+					let slides = document.getElementsByClassName("mySlides");
+					let dots = document.getElementsByClassName("demo");
+					let captionText = document.getElementById("caption");
+					if (n > slides.length) {slideIndex = 1}
+					if (n < 1) {slideIndex = slides.length}
+					for (i = 0; i < slides.length; i++) {
+						slides[i].style.display = "none";
+					}
+					for (i = 0; i < dots.length; i++) {
+						dots[i].className = dots[i].className.replace(" active", "");
+					}
+					slides[slideIndex-1].style.display = "block";
+					dots[slideIndex-1].className += " active";
+					captionText.innerHTML = dots[slideIndex-1].alt;
+				} 
+			</script>
+			
+
 			<h2>Podcast</h2>
 			<p>
 			Introducing the new podcast from Fuad and Nicolas!
@@ -26,3 +145,4 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../config';
 		<Footer />
 	</body>
 </html>
+
