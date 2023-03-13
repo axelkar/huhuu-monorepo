@@ -10,12 +10,13 @@ export interface Props {
 		description: string;
 		published?: string;
 		modified?: string;
+		timeToRead?: number;
 		heroImage?: string;
 	};
 }
 
 const {
-	content: { title, description, published, modified, heroImage },
+	content: { title, description, published, modified, timeToRead, heroImage },
 } = Astro.props;
 ---
 
@@ -27,10 +28,26 @@ const {
 				font-size: 2em;
 				margin: 0.25em 0 0;
 			}
-			hr {
+			.content hr {
 				border-top: 1px solid #ddd;
 				margin: 1rem 0;
 			}
+		</style>
+		<style is:global>
+			/* is:global is due to bug */
+			@media all and (orientation: landscape) {
+				/* Only do this for landscape viewports */
+			.content p img {
+				max-width: 50%;
+				float: left;
+				margin-right: 2ch;
+				margin-bottom: 0.5em;
+			}
+			}
+			/* Commented: We don't even have the alt-texts in the Markdown + doesn't work because CSS */
+			/*.content p img + * {
+				font-size: 0.75em
+			}*/
 		</style>
 	</head>
 
@@ -40,26 +57,40 @@ const {
 			<article>
 				{heroImage && <img width={720} height={360} src={heroImage} alt="" />}
 				<h1 class="title">{title}</h1>
-				{published && <time>{new Date(published)
-					.toLocaleDateString('en-us', {
-					year: 'numeric',
-					month: 'short',
-					day: 'numeric',
-					})}</time>}
+				{
+					published && (
+						<time>
+							{new Date(published)
+							.toLocaleDateString('en-us', {
+							year: 'numeric',
+							month: 'short',
+							day: 'numeric',
+							})}
+						</time>
+					)
+				}
+				{
+					published && timeToRead && <>&#x2022;</>
+				}
+				{
+					timeToRead && <>{timeToRead} min. read</>
+				}
 				{
 					modified && (
 						<div>
-							Last updated on <time>{new Date(modified)
+							<i>Last updated on <time>{new Date(modified)
 								.toLocaleDateString('en-us', {
 								year: 'numeric',
 								month: 'short',
 								day: 'numeric',
-								})}</time>
+								})}</time></i>
 						</div>
 					)
 				}
 				<hr />
-				<slot />
+				<div class="content">
+					<slot />
+				</div>
 			</article>
 		</main>
 		<Footer />
