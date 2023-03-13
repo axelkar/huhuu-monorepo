@@ -5,7 +5,7 @@ slug: "minkälaiset-harrastukset-ovat-suosittuja-seiskaluokkalaisten-keskuudessa
 isPinned: false
 isFeatured: false
 timeToRead: 1
-wixViewCount: 145
+wixViewCount: 150
 created: "2021-12-02T10:00:32.236Z"
 published: "2021-12-02T15:25:06.220Z"
 modified: "2021-12-02T15:25:06.220Z"

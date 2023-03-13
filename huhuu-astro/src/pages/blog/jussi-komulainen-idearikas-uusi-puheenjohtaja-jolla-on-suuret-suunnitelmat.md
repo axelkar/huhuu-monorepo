@@ -5,7 +5,7 @@ slug: "jussi-komulainen-idearikas-uusi-puheenjohtaja-jolla-on-suuret-suunnitelma
 isPinned: false
 isFeatured: true
 timeToRead: 5
-wixViewCount: 542
+wixViewCount: 545
 created: "2021-03-09T07:19:39.240Z"
 published: "2021-03-09T07:38:01.248Z"
 modified: "2021-03-09T07:19:39.240Z"

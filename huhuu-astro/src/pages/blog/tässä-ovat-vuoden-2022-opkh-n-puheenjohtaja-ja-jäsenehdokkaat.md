@@ -5,7 +5,7 @@ slug: "tässä-ovat-vuoden-2022-opkh-n-puheenjohtaja-ja-jäsenehdokkaat"
 isPinned: false
 isFeatured: false
 timeToRead: 2
-wixViewCount: 660
+wixViewCount: 695
 created: "2022-02-28T16:21:29.177Z"
 published: "2022-02-28T17:08:53.900Z"
 modified: "2022-02-28T17:08:53.900Z"

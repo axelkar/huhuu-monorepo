@@ -5,7 +5,7 @@ slug: "huhuun-parhaat-kesätekemisvinkit"
 isPinned: false
 isFeatured: false
 timeToRead: 4
-wixViewCount: 198
+wixViewCount: 199
 created: "2021-06-03T14:21:46.827Z"
 published: "2021-06-04T07:53:00.000Z"
 modified: "2021-06-03T14:21:46.827Z"

@@ -5,7 +5,7 @@ slug: "nuorten-lukutottumukset-salaisia-paketteja-fanifiktiota-ja-kirjallisuuden
 isPinned: false
 isFeatured: false
 timeToRead: 5
-wixViewCount: 225
+wixViewCount: 229
 created: "2021-11-17T18:26:25.509Z"
 published: "2021-11-18T15:27:20.936Z"
 modified: "2021-11-18T15:27:20.936Z"

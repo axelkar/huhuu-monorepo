@@ -5,7 +5,7 @@ slug: "lepoa-laskettelua-ja-lappi-näin-halla-viettää-joulua"
 isPinned: false
 isFeatured: false
 timeToRead: 3
-wixViewCount: 436
+wixViewCount: 438
 created: "2021-12-18T21:38:07.089Z"
 published: "2021-12-21T07:00:38.536Z"
 modified: "2021-12-21T07:00:38.536Z"

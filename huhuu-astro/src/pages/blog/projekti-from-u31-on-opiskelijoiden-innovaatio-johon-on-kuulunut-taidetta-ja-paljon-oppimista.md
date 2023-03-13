@@ -5,7 +5,7 @@ slug: "projekti-from-u31-on-opiskelijoiden-innovaatio-johon-on-kuulunut-taidetta
 isPinned: false
 isFeatured: false
 timeToRead: 4
-wixViewCount: 323
+wixViewCount: 324
 created: "2021-12-16T09:40:23.119Z"
 published: "2021-12-16T10:23:20.985Z"
 modified: "2021-12-16T10:23:20.985Z"

@@ -5,7 +5,7 @@ slug: "loviisa-pursiainen-ja-enni-katara-tavoitteellinen-uusi-puheenjohtajakaksi
 isPinned: false
 isFeatured: false
 timeToRead: 2
-wixViewCount: 293
+wixViewCount: 303
 created: "2022-03-24T12:38:40.864Z"
 published: "2022-03-24T12:51:08.262Z"
 modified: "2022-03-24T12:51:08.262Z"

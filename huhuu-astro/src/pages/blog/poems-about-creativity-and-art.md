@@ -5,7 +5,7 @@ slug: "poems-about-creativity-and-art"
 isPinned: false
 isFeatured: false
 timeToRead: 2
-wixViewCount: 140
+wixViewCount: 169
 created: "2021-10-28T13:30:52.581Z"
 published: "2021-10-28T13:40:55.373Z"
 modified: "2021-10-28T13:40:55.373Z"

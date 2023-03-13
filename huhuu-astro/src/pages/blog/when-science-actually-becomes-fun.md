@@ -5,7 +5,7 @@ slug: "when-science-actually-becomes-fun"
 isPinned: false
 isFeatured: false
 timeToRead: 5
-wixViewCount: 185
+wixViewCount: 188
 created: "2021-11-18T16:24:46.371Z"
 published: "2021-11-18T16:36:46.231Z"
 modified: "2021-11-18T16:36:46.231Z"

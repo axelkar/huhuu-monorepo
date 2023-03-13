@@ -5,7 +5,7 @@ slug: "tässä-ovat-uuden-opkh-n-puheenjohtaja-ja-jäsenehdokkaat"
 isPinned: false
 isFeatured: false
 timeToRead: 7
-wixViewCount: 1385
+wixViewCount: 1389
 created: "2021-03-01T18:47:32.945Z"
 published: "2021-03-02T08:00:16.880Z"
 modified: "2021-03-01T18:47:32.945Z"

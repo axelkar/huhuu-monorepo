@@ -5,7 +5,7 @@ slug: "lainsuojaton"
 isPinned: false
 isFeatured: false
 timeToRead: 2
-wixViewCount: 200
+wixViewCount: 202
 created: "2020-10-09T10:54:54.316Z"
 published: "2020-10-18T20:35:55.992Z"
 modified: "2020-10-09T10:54:54.298Z"

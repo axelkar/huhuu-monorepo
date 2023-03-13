@@ -5,7 +5,7 @@ slug: "1st-editorial-pääkirjoitus"
 isPinned: false
 isFeatured: false
 timeToRead: 3
-wixViewCount: 433
+wixViewCount: 438
 created: "2020-10-21T19:10:21.259Z"
 published: "2021-01-21T21:41:59.234Z"
 modified: "2020-10-21T19:10:21.259Z"

@@ -5,7 +5,7 @@ slug: "hattaraa-laulua-ja-lautapelejä-tällainen-oli-tämän-vuoden-night-schoo
 isPinned: false
 isFeatured: true
 timeToRead: 2
-wixViewCount: 290
+wixViewCount: 292
 created: "2021-08-26T13:45:38.486Z"
 published: "2021-08-27T05:23:44.000Z"
 modified: "2021-08-26T13:45:38.486Z"

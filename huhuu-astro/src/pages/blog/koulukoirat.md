@@ -5,7 +5,7 @@ slug: "koulukoirat"
 isPinned: false
 isFeatured: false
 timeToRead: 6
-wixViewCount: 396
+wixViewCount: 407
 created: "2020-12-10T12:59:48.313Z"
 published: "2020-12-11T07:52:04.814Z"
 modified: "2020-12-10T12:59:48.313Z"

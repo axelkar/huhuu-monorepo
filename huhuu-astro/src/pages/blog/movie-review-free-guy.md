@@ -5,7 +5,7 @@ slug: "movie-review-free-guy"
 isPinned: false
 isFeatured: false
 timeToRead: 2
-wixViewCount: 205
+wixViewCount: 207
 created: "2021-09-23T13:20:01.125Z"
 published: "2021-09-28T12:18:05.550Z"
 modified: "2021-09-28T12:18:05.550Z"

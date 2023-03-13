@@ -5,7 +5,7 @@ slug: "jumalallinen-päivä-ainakin-abeille"
 isPinned: false
 isFeatured: true
 timeToRead: 3
-wixViewCount: 900
+wixViewCount: 994
 created: "2021-09-02T10:54:01.901Z"
 published: "2021-09-02T11:34:44.273Z"
 modified: "2021-09-02T10:54:01.901Z"

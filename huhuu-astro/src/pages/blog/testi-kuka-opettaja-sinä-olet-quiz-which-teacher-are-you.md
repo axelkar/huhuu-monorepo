@@ -5,7 +5,7 @@ slug: "testi-kuka-opettaja-sinä-olet-quiz-which-teacher-are-you"
 isPinned: false
 isFeatured: false
 timeToRead: 4
-wixViewCount: 620
+wixViewCount: 645
 created: "2022-01-27T09:23:26.486Z"
 published: "2022-01-28T08:25:11.624Z"
 modified: "2022-01-28T08:25:11.624Z"

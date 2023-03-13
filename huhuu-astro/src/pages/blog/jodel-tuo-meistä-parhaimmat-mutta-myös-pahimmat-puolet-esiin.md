@@ -5,7 +5,7 @@ slug: "jodel-tuo-meistä-parhaimmat-mutta-myös-pahimmat-puolet-esiin"
 isPinned: false
 isFeatured: false
 timeToRead: 3
-wixViewCount: 689
+wixViewCount: 1004
 created: "2020-10-18T20:41:44.785Z"
 published: "2020-10-19T20:58:16.813Z"
 modified: "2020-10-18T20:41:44.785Z"

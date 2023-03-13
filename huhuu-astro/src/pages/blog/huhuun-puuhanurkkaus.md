@@ -5,7 +5,7 @@ slug: "huhuun-puuhanurkkaus"
 isPinned: false
 isFeatured: false
 timeToRead: 1
-wixViewCount: 129
+wixViewCount: 130
 created: "2020-12-18T23:45:07.881Z"
 published: "2020-12-19T08:10:39.352Z"
 modified: "2020-12-18T23:45:07.881Z"

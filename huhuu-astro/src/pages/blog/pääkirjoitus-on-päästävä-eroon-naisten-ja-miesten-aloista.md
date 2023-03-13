@@ -5,7 +5,7 @@ slug: "pääkirjoitus-on-päästävä-eroon-naisten-ja-miesten-aloista"
 isPinned: false
 isFeatured: false
 timeToRead: 2
-wixViewCount: 340
+wixViewCount: 344
 created: "2022-01-12T18:07:25.942Z"
 published: "2022-01-13T09:21:53.396Z"
 modified: "2022-01-13T09:21:53.396Z"

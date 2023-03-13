@@ -5,7 +5,7 @@ slug: "paakirjoitus-1-21"
 isPinned: false
 isFeatured: false
 timeToRead: 6
-wixViewCount: 255
+wixViewCount: 256
 created: "2021-01-21T20:50:31.900Z"
 published: "2021-01-21T21:26:33.713Z"
 modified: "2021-01-21T20:50:31.900Z"

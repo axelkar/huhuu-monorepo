@@ -5,7 +5,7 @@ slug: "mitä-ksyk-tekee-kesällä"
 isPinned: false
 isFeatured: false
 timeToRead: 2
-wixViewCount: 423
+wixViewCount: 449
 created: "2022-06-02T19:58:26.486Z"
 published: "2022-06-02T20:54:28.627Z"
 modified: "2022-06-02T20:54:28.627Z"

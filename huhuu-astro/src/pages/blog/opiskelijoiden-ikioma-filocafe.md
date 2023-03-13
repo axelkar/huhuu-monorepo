@@ -5,7 +5,7 @@ slug: "opiskelijoiden-ikioma-filocafe"
 isPinned: false
 isFeatured: false
 timeToRead: 4
-wixViewCount: 193
+wixViewCount: 195
 created: "2021-04-01T16:54:48.446Z"
 published: "2021-04-01T16:57:17.135Z"
 modified: "2021-04-01T16:54:48.446Z"

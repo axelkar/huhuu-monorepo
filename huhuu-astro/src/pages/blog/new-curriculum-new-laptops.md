@@ -5,7 +5,7 @@ slug: "new-curriculum-new-laptops"
 isPinned: false
 isFeatured: true
 timeToRead: 6
-wixViewCount: 199
+wixViewCount: 201
 created: "2021-09-02T10:42:29.741Z"
 published: "2021-09-02T11:34:29.971Z"
 modified: "2021-09-02T10:42:29.741Z"

@@ -5,7 +5,7 @@ slug: "uudet-ykköset"
 isPinned: false
 isFeatured: false
 timeToRead: 2
-wixViewCount: 402
+wixViewCount: 484
 created: "2022-10-29T08:54:55.642Z"
 published: "2022-10-29T08:56:25.866Z"
 modified: "2022-10-29T08:56:25.866Z"

@@ -5,7 +5,7 @@ slug: "nämä-nettipelit-parantavat-tylsyyden-hetket"
 isPinned: false
 isFeatured: false
 timeToRead: 2
-wixViewCount: 271
+wixViewCount: 282
 created: "2021-12-02T09:17:32.782Z"
 published: "2021-12-07T13:31:50.782Z"
 modified: "2021-12-07T13:31:50.782Z"

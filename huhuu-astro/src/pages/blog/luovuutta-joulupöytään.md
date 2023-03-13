@@ -5,7 +5,7 @@ slug: "luovuutta-joulupöytään"
 isPinned: false
 isFeatured: false
 timeToRead: 2
-wixViewCount: 95
+wixViewCount: 97
 created: "2021-12-18T21:20:16.755Z"
 published: "2021-12-21T07:00:46.854Z"
 modified: "2021-12-21T07:00:46.854Z"

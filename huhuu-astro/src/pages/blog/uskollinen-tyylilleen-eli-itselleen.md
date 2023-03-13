@@ -5,7 +5,7 @@ slug: "uskollinen-tyylilleen-eli-itselleen"
 isPinned: false
 isFeatured: false
 timeToRead: 5
-wixViewCount: 476
+wixViewCount: 482
 created: "2021-03-17T16:19:24.230Z"
 published: "2021-03-17T17:35:12.951Z"
 modified: "2021-03-17T16:19:24.230Z"

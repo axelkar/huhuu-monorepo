@@ -5,7 +5,7 @@ slug: "kuinka-paeta-todellisuutta-vaikeina-aikoina"
 isPinned: false
 isFeatured: false
 timeToRead: 2
-wixViewCount: 136
+wixViewCount: 140
 created: "2022-03-24T12:52:38.164Z"
 published: "2022-03-24T12:55:15.583Z"
 modified: "2022-03-24T12:55:15.583Z"

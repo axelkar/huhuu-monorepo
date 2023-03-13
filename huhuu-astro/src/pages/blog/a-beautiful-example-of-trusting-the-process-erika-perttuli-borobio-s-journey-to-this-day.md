@@ -5,7 +5,7 @@ slug: "a-beautiful-example-of-trusting-the-process-erika-perttuli-borobio-s-jour
 isPinned: false
 isFeatured: true
 timeToRead: 5
-wixViewCount: 342
+wixViewCount: 343
 created: "2021-08-26T12:15:08.414Z"
 published: "2021-08-26T17:14:51.240Z"
 modified: "2021-08-26T12:15:08.414Z"

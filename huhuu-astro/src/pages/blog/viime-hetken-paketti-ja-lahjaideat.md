@@ -5,7 +5,7 @@ slug: "viime-hetken-paketti-ja-lahjaideat"
 isPinned: false
 isFeatured: false
 timeToRead: 3
-wixViewCount: 120
+wixViewCount: 121
 created: "2020-12-17T13:38:26.624Z"
 published: "2020-12-19T08:10:32.776Z"
 modified: "2020-12-17T13:38:26.624Z"

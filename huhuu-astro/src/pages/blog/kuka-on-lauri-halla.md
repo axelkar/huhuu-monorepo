@@ -5,7 +5,7 @@ slug: "kuka-on-lauri-halla"
 isPinned: false
 isFeatured: false
 timeToRead: 4
-wixViewCount: 870
+wixViewCount: 904
 created: "2020-10-12T07:14:40.977Z"
 published: "2020-11-02T16:39:27.966Z"
 modified: "2020-10-12T07:14:40.977Z"

@@ -5,7 +5,7 @@ slug: "kuumin-kesä-koskaan"
 isPinned: false
 isFeatured: false
 timeToRead: 3
-wixViewCount: 158
+wixViewCount: 159
 created: "2021-06-03T17:31:47.492Z"
 published: "2021-06-04T05:24:19.456Z"
 modified: "2021-06-03T17:31:47.492Z"

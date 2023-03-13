@@ -5,7 +5,7 @@ slug: "ajolähtö-kesään"
 isPinned: false
 isFeatured: false
 timeToRead: 1
-wixViewCount: 364
+wixViewCount: 371
 created: "2022-06-02T10:20:16.949Z"
 published: "2022-06-02T16:24:01.091Z"
 modified: "2022-06-02T16:24:01.091Z"

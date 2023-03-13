@@ -5,7 +5,7 @@ slug: "oleskelutiloja-lasihuoneita-ja-kattoterassi-tältä-uusissa-ksykin-tilois
 isPinned: false
 isFeatured: false
 timeToRead: 3
-wixViewCount: 536
+wixViewCount: 543
 created: "2021-11-18T15:34:24.765Z"
 published: "2021-11-18T20:32:58.113Z"
 modified: "2021-11-18T20:32:58.113Z"

@@ -5,7 +5,7 @@ slug: "what-is-happening-to-language-studies-in-high-school"
 isPinned: false
 isFeatured: false
 timeToRead: 4
-wixViewCount: 192
+wixViewCount: 194
 created: "2021-11-25T15:29:04.635Z"
 published: "2021-11-25T15:29:16.480Z"
 modified: "2021-11-25T15:29:16.480Z"

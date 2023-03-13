@@ -5,7 +5,7 @@ slug: "pääkirjoitus-isoi-juttui-tulos-editorial-10-2022"
 isPinned: false
 isFeatured: false
 timeToRead: 3
-wixViewCount: 172
+wixViewCount: 198
 created: "2022-10-29T08:50:56.048Z"
 published: "2022-10-29T08:51:02.515Z"
 modified: "2022-10-29T08:51:02.515Z"

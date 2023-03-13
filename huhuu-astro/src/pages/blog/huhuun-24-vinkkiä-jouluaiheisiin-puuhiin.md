@@ -5,7 +5,7 @@ slug: "huhuun-24-vinkkiä-jouluaiheisiin-puuhiin"
 isPinned: false
 isFeatured: false
 timeToRead: 2
-wixViewCount: 126
+wixViewCount: 129
 created: "2021-12-02T10:15:45.328Z"
 published: "2021-12-14T11:41:22.381Z"
 modified: "2021-12-14T11:41:22.381Z"

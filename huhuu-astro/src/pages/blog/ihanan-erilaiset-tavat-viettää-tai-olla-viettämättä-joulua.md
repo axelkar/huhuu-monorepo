@@ -5,7 +5,7 @@ slug: "ihanan-erilaiset-tavat-viettää-tai-olla-viettämättä-joulua"
 isPinned: false
 isFeatured: false
 timeToRead: 9
-wixViewCount: 336
+wixViewCount: 415
 created: "2022-12-21T12:17:57.889Z"
 published: "2022-12-21T14:21:31.052Z"
 modified: "2022-12-21T14:21:31.052Z"
