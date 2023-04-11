@@ -5,7 +5,7 @@ slug: "ollaanko-me-special-ksykissä-finglishistä-lempinimistä-ja-muusta"
 isPinned: false
 isFeatured: false
 timeToRead: 4
-wixViewCount: 592
+wixViewCount: 597
 created: "2021-01-28T12:59:11.862Z"
 published: "2021-01-28T14:00:50.561Z"
 modified: "2021-01-28T12:59:11.862Z"

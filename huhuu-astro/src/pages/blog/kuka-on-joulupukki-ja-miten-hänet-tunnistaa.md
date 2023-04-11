@@ -5,7 +5,7 @@ slug: "kuka-on-joulupukki-ja-miten-hänet-tunnistaa"
 isPinned: false
 isFeatured: true
 timeToRead: 4
-wixViewCount: 64
+wixViewCount: 67
 created: "2021-12-20T20:41:55.846Z"
 published: "2021-12-20T20:49:33.183Z"
 modified: "2021-12-20T20:49:33.183Z"

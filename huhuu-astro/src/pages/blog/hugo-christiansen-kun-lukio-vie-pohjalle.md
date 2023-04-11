@@ -5,7 +5,7 @@ slug: "hugo-christiansen-kun-lukio-vie-pohjalle"
 isPinned: false
 isFeatured: false
 timeToRead: 6
-wixViewCount: 1062
+wixViewCount: 1067
 created: "2021-02-11T09:07:08.719Z"
 published: "2021-02-11T15:50:16.605Z"
 modified: "2021-02-11T09:07:08.719Z"

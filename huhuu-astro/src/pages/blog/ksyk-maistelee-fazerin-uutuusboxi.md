@@ -5,7 +5,7 @@ slug: "ksyk-maistelee-fazerin-uutuusboxi"
 isPinned: false
 isFeatured: false
 timeToRead: 2
-wixViewCount: 142
+wixViewCount: 145
 created: "2021-11-17T17:04:43.517Z"
 published: "2021-11-18T15:26:24.851Z"
 modified: "2021-11-18T15:26:24.851Z"

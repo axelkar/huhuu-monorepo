@@ -5,7 +5,7 @@ slug: "kulttuurikokemuksia-ja-uuden-oppimista-tältä-näytti-ksyk-in-kielimatka
 isPinned: false
 isFeatured: false
 timeToRead: 3
-wixViewCount: 298
+wixViewCount: 301
 created: "2021-10-13T18:30:01.651Z"
 published: "2021-10-14T06:53:11.595Z"
 modified: "2021-10-14T06:53:11.595Z"

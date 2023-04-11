@@ -5,7 +5,7 @@ slug: "huhuun-tontut-saivat-käsiinsä-opettajien-joululahjatoivelistat"
 isPinned: false
 isFeatured: false
 timeToRead: 3
-wixViewCount: 1004
+wixViewCount: 1009
 created: "2021-12-18T21:33:25.975Z"
 published: "2021-12-21T07:31:03.288Z"
 modified: "2021-12-21T07:31:03.288Z"

@@ -5,7 +5,7 @@ slug: "miksi-lunttaamme"
 isPinned: false
 isFeatured: false
 timeToRead: 2
-wixViewCount: 444
+wixViewCount: 450
 created: "2021-04-07T12:52:38.541Z"
 published: "2021-04-07T12:56:46.947Z"
 modified: "2021-04-07T12:52:38.541Z"

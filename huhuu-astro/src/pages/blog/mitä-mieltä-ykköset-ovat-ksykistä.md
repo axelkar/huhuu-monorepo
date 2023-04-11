@@ -5,7 +5,7 @@ slug: "mitä-mieltä-ykköset-ovat-ksykistä"
 isPinned: false
 isFeatured: false
 timeToRead: 2
-wixViewCount: 335
+wixViewCount: 336
 created: "2020-10-21T15:44:01.826Z"
 published: "2020-10-21T15:47:57.707Z"
 modified: "2020-10-21T15:44:01.826Z"

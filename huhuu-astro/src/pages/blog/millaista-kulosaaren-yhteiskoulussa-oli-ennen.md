@@ -5,7 +5,7 @@ slug: "millaista-kulosaaren-yhteiskoulussa-oli-ennen"
 isPinned: false
 isFeatured: false
 timeToRead: 2
-wixViewCount: 401
+wixViewCount: 408
 created: "2022-01-27T10:08:33.796Z"
 published: "2022-01-27T13:21:53.250Z"
 modified: "2022-01-27T13:21:53.250Z"

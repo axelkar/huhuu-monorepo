@@ -5,7 +5,7 @@ slug: "a-day-in-the-life-of-ksyk"
 isPinned: false
 isFeatured: false
 timeToRead: 2
-wixViewCount: 341
+wixViewCount: 346
 created: "2022-03-17T14:43:48.636Z"
 published: "2022-03-17T14:53:30.831Z"
 modified: "2022-03-17T14:53:30.831Z"

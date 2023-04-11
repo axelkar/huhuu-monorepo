@@ -5,7 +5,7 @@ slug: "emme-menesty-kaikessa-ja-niin-ei-kuulu-ollakaan"
 isPinned: false
 isFeatured: false
 timeToRead: 2
-wixViewCount: 227
+wixViewCount: 229
 created: "2021-10-07T19:58:14.409Z"
 published: "2021-11-05T10:36:30.112Z"
 modified: "2021-11-05T10:36:30.112Z"

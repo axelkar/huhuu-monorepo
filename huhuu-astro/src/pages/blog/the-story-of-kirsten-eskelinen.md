@@ -5,7 +5,7 @@ slug: "the-story-of-kirsten-eskelinen"
 isPinned: false
 isFeatured: false
 timeToRead: 4
-wixViewCount: 510
+wixViewCount: 523
 created: "2021-11-03T19:38:31.042Z"
 published: "2021-11-04T08:00:53.441Z"
 modified: "2021-11-04T08:00:53.441Z"

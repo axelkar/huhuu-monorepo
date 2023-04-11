@@ -5,7 +5,7 @@ slug: "itsestäänselvyyksiä-vastaan-oskar-lalowski-hahmottaa-maailmaa-tekemäl
 isPinned: false
 isFeatured: false
 timeToRead: 7
-wixViewCount: 318
+wixViewCount: 345
 created: "2022-10-29T08:53:31.996Z"
 published: "2022-10-29T08:54:19.356Z"
 modified: "2022-10-29T08:54:19.356Z"

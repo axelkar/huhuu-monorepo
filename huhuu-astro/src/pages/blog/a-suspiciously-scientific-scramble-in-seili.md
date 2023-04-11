@@ -5,7 +5,7 @@ slug: "a-suspiciously-scientific-scramble-in-seili"
 isPinned: false
 isFeatured: false
 timeToRead: 4
-wixViewCount: 294
+wixViewCount: 300
 created: "2020-10-21T18:08:55.352Z"
 published: "2020-11-02T13:20:58.035Z"
 modified: "2020-10-21T18:08:55.352Z"

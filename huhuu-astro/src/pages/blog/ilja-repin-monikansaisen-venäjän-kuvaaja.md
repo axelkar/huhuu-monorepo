@@ -5,7 +5,7 @@ slug: "ilja-repin-monikansaisen-venäjän-kuvaaja"
 isPinned: false
 isFeatured: false
 timeToRead: 2
-wixViewCount: 98
+wixViewCount: 100
 created: "2021-09-09T12:56:51.175Z"
 published: "2021-09-09T13:35:40.964Z"
 modified: "2021-09-09T12:56:51.175Z"

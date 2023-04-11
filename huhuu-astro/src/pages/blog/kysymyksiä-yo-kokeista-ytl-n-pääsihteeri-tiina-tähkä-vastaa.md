@@ -5,7 +5,7 @@ slug: "kysymyksiä-yo-kokeista-ytl-n-pääsihteeri-tiina-tähkä-vastaa"
 isPinned: false
 isFeatured: true
 timeToRead: 4
-wixViewCount: 246
+wixViewCount: 252
 created: "2021-02-16T19:27:50.451Z"
 published: "2021-02-16T20:09:57.640Z"
 modified: "2021-02-16T19:27:50.451Z"

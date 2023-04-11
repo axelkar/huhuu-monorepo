@@ -5,7 +5,7 @@ slug: "summer-is-here-and-it-s-time-to-work-again"
 isPinned: false
 isFeatured: false
 timeToRead: 3
-wixViewCount: 129
+wixViewCount: 131
 created: "2021-06-03T17:59:07.788Z"
 published: "2021-06-04T05:27:54.408Z"
 modified: "2021-06-03T17:59:07.788Z"

@@ -5,7 +5,7 @@ slug: "mitä-teet-lukion-jälkeen"
 isPinned: false
 isFeatured: false
 timeToRead: 2
-wixViewCount: 373
+wixViewCount: 380
 created: "2021-01-26T21:10:42.076Z"
 published: "2021-01-26T21:27:42.942Z"
 modified: "2021-01-26T21:10:42.076Z"

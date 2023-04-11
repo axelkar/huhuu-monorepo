@@ -5,7 +5,7 @@ slug: "pääkirjoitus-nuorten-työolot-ansaitsevat-huomiota"
 isPinned: false
 isFeatured: true
 timeToRead: 1
-wixViewCount: 115
+wixViewCount: 116
 created: "2021-09-02T11:25:44.131Z"
 published: "2021-09-02T11:48:29.037Z"
 modified: "2021-09-02T11:25:44.131Z"

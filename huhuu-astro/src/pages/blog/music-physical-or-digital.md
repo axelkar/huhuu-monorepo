@@ -5,7 +5,7 @@ slug: "music-physical-or-digital"
 isPinned: false
 isFeatured: false
 timeToRead: 3
-wixViewCount: 381
+wixViewCount: 410
 created: "2021-10-28T13:23:18.378Z"
 published: "2021-11-04T08:08:53.550Z"
 modified: "2021-11-04T08:08:53.550Z"

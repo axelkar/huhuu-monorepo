@@ -5,7 +5,7 @@ slug: "koronainfo-vain-syvensi-hallituksen-ja-opiskelijoiden-välistä-kuilua"
 isPinned: false
 isFeatured: true
 timeToRead: 2
-wixViewCount: 348
+wixViewCount: 354
 created: "2021-03-04T16:34:59.187Z"
 published: "2021-03-04T16:44:59.589Z"
 modified: "2021-03-04T16:34:59.187Z"

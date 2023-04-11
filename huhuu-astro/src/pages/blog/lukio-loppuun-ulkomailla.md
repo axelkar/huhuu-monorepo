@@ -5,7 +5,7 @@ slug: "lukio-loppuun-ulkomailla"
 isPinned: false
 isFeatured: false
 timeToRead: 5
-wixViewCount: 298
+wixViewCount: 312
 created: "2022-06-02T10:10:57.686Z"
 published: "2022-06-02T16:20:30.246Z"
 modified: "2022-06-02T16:20:30.246Z"

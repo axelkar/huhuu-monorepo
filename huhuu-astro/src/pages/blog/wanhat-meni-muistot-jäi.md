@@ -5,7 +5,7 @@ slug: "wanhat-meni-muistot-jäi"
 isPinned: false
 isFeatured: false
 timeToRead: 1
-wixViewCount: 454
+wixViewCount: 467
 created: "2022-06-02T09:47:30.662Z"
 published: "2022-06-02T16:25:38.199Z"
 modified: "2022-06-02T16:25:38.199Z"

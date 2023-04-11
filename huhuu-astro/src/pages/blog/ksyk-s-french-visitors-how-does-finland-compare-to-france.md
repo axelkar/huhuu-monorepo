@@ -5,7 +5,7 @@ slug: "ksyk-s-french-visitors-how-does-finland-compare-to-france"
 isPinned: false
 isFeatured: false
 timeToRead: 3
-wixViewCount: 314
+wixViewCount: 321
 created: "2021-12-09T19:39:24.084Z"
 published: "2021-12-10T11:09:57.735Z"
 modified: "2021-12-10T11:09:57.735Z"

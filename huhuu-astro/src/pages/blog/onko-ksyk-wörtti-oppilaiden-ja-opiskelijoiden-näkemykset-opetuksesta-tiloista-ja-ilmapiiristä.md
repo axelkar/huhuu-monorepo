@@ -5,7 +5,7 @@ slug: "onko-ksyk-wörtti-oppilaiden-ja-opiskelijoiden-näkemykset-opetuksesta-ti
 isPinned: false
 isFeatured: false
 timeToRead: 4
-wixViewCount: 148
+wixViewCount: 218
 created: "2023-02-27T09:43:38.786Z"
 published: "2023-02-27T11:22:45.157Z"
 modified: "2023-02-27T11:22:45.157Z"

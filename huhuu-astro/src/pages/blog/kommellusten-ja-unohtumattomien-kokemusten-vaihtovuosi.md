@@ -5,7 +5,7 @@ slug: "kommellusten-ja-unohtumattomien-kokemusten-vaihtovuosi"
 isPinned: false
 isFeatured: false
 timeToRead: 11
-wixViewCount: 484
+wixViewCount: 490
 created: "2021-10-28T14:22:33.729Z"
 published: "2021-10-28T15:19:22.055Z"
 modified: "2021-10-28T15:19:22.055Z"

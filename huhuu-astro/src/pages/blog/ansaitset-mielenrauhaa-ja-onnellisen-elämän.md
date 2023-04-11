@@ -5,7 +5,7 @@ slug: "ansaitset-mielenrauhaa-ja-onnellisen-elämän"
 isPinned: false
 isFeatured: true
 timeToRead: 4
-wixViewCount: 485
+wixViewCount: 495
 created: "2020-11-29T16:37:57.881Z"
 published: "2020-11-29T17:11:01.782Z"
 modified: "2020-11-29T16:37:57.881Z"

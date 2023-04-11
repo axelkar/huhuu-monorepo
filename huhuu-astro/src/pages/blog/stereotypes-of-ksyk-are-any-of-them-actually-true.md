@@ -5,7 +5,7 @@ slug: "stereotypes-of-ksyk-are-any-of-them-actually-true"
 isPinned: false
 isFeatured: false
 timeToRead: 3
-wixViewCount: 666
+wixViewCount: 670
 created: "2021-09-23T10:54:30.227Z"
 published: "2021-09-23T15:06:25.606Z"
 modified: "2021-09-23T15:06:25.606Z"

@@ -5,7 +5,7 @@ slug: "yksin-kesällä-se-on-ihan-ok"
 isPinned: false
 isFeatured: false
 timeToRead: 2
-wixViewCount: 194
+wixViewCount: 196
 created: "2021-06-03T17:51:56.053Z"
 published: "2021-06-04T05:26:01.838Z"
 modified: "2021-06-03T17:51:56.053Z"

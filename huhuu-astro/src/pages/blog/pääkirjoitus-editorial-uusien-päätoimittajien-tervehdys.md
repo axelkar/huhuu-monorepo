@@ -5,7 +5,7 @@ slug: "pääkirjoitus-editorial-uusien-päätoimittajien-tervehdys"
 isPinned: false
 isFeatured: false
 timeToRead: 4
-wixViewCount: 330
+wixViewCount: 332
 created: "2021-05-06T18:33:20.170Z"
 published: "2021-05-06T20:15:12.036Z"
 modified: "2021-05-06T18:33:20.170Z"

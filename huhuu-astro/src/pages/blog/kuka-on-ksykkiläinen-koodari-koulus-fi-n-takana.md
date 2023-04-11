@@ -5,7 +5,7 @@ slug: "kuka-on-ksykkiläinen-koodari-koulus-fi-n-takana"
 isPinned: false
 isFeatured: true
 timeToRead: 5
-wixViewCount: 566
+wixViewCount: 572
 created: "2020-11-02T18:47:47.392Z"
 published: "2020-11-03T17:32:47.302Z"
 modified: "2020-11-02T18:47:47.392Z"

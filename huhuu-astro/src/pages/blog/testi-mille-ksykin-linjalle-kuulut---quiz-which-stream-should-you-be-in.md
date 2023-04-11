@@ -5,7 +5,7 @@ slug: "testi-mille-ksykin-linjalle-kuulut---quiz-which-stream-should-you-be-in"
 isPinned: false
 isFeatured: false
 timeToRead: 4
-wixViewCount: 911
+wixViewCount: 912
 created: "2021-03-04T16:45:15.990Z"
 published: "2021-03-04T18:00:07.160Z"
 modified: "2021-03-04T16:45:15.990Z"

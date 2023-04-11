@@ -5,7 +5,7 @@ slug: "kyl-mä-tänne-uudestaan-hakisin-ksyk-oppilaiden-ja-opiskelijoiden-kokema
 isPinned: false
 isFeatured: false
 timeToRead: 9
-wixViewCount: 194
+wixViewCount: 261
 created: "2023-02-27T10:58:58.361Z"
 published: "2023-02-27T14:01:50.363Z"
 modified: "2023-02-27T14:01:50.363Z"

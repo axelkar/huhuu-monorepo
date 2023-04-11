@@ -5,7 +5,7 @@ slug: "pääkirjoitus-tarvitsemme-2020-luvun-version-teiniliitosta"
 isPinned: false
 isFeatured: false
 timeToRead: 2
-wixViewCount: 210
+wixViewCount: 211
 created: "2021-12-09T19:31:18.159Z"
 published: "2021-12-10T11:11:35.609Z"
 modified: "2021-12-10T11:11:35.609Z"

@@ -5,7 +5,7 @@ slug: "ksyk-ball-2021-karaokea-huimaa-bailaamista-ja-happihuoneita"
 isPinned: false
 isFeatured: false
 timeToRead: 2
-wixViewCount: 786
+wixViewCount: 789
 created: "2021-11-04T19:59:24.549Z"
 published: "2021-11-05T10:36:07.247Z"
 modified: "2021-11-05T10:36:07.247Z"

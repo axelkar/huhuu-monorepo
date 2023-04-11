@@ -5,7 +5,7 @@ slug: "akateeminen-eväsretki-ja-miten-onnistua-siinä"
 isPinned: false
 isFeatured: false
 timeToRead: 3
-wixViewCount: 338
+wixViewCount: 346
 created: "2021-03-12T22:15:31.717Z"
 published: "2021-03-13T08:01:59.823Z"
 modified: "2021-03-12T22:15:31.717Z"

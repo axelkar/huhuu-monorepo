@@ -5,7 +5,7 @@ slug: "pääkirjoitus-enemmän-kommunikointia-vähemmän-valitusta"
 isPinned: false
 isFeatured: false
 timeToRead: 2
-wixViewCount: 338
+wixViewCount: 341
 created: "2021-11-11T21:05:09.490Z"
 published: "2021-11-11T21:06:12.204Z"
 modified: "2021-11-11T21:06:12.204Z"

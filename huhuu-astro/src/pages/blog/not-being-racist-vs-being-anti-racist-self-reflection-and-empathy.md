@@ -5,7 +5,7 @@ slug: "not-being-racist-vs-being-anti-racist-self-reflection-and-empathy"
 isPinned: false
 isFeatured: false
 timeToRead: 5
-wixViewCount: 391
+wixViewCount: 398
 created: "2021-10-28T19:35:29.437Z"
 published: "2021-11-02T13:15:23.984Z"
 modified: "2021-11-02T13:15:23.984Z"

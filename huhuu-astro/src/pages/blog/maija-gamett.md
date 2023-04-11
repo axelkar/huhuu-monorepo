@@ -5,7 +5,7 @@ slug: "maija-gamett"
 isPinned: false
 isFeatured: false
 timeToRead: 7
-wixViewCount: 395
+wixViewCount: 396
 created: "2020-12-08T11:44:26.881Z"
 published: "2020-12-08T11:49:21.522Z"
 modified: "2020-12-08T11:44:26.881Z"
